@@ -1,0 +1,96 @@
+/**
+ * Glider Create a responsive carousel slider.
+ * Exclusively on Envato Market: https://1.envato.market/glider-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.1
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+/* ========================================================================
+   Component: Slidenav
+ ========================================================================== */
+/*
+ * 1. Required for `a` elements
+ * 2. Dimension
+ * 3. Style
+ */
+.mdp-slidenav {
+  /* 1 */
+  display: inline-block;
+  /* 2 */
+  box-sizing: border-box;
+  width: 60px;
+  height: 60px;
+  /* 3 */
+  line-height: 60px;
+  color: rgba(50, 50, 50, 0.4);
+  font-size: 60px;
+  text-align: center; }
+
+/*
+ * Hover
+ * 1. Apply hover style also to focus state
+ * 2. Remove default focus style
+ * 3. Required for `a` elements
+ * 4. Style
+ */
+.mdp-slidenav:hover,
+.mdp-slidenav:focus {
+  /* 2 */
+  outline: none;
+  /* 3 */
+  text-decoration: none;
+  /* 4 */
+  color: rgba(50, 50, 50, 0.7);
+  cursor: pointer; }
+
+/* Active */
+.mdp-slidenav:active {
+  color: rgba(50, 50, 50, 0.9); }
+
+/* Sub-object: `mdp-slidenav-position`
+ ========================================================================== */
+/*
+ * Create position context
+ */
+.mdp-slidenav-position {
+  position: relative; }
+
+/*
+ * Center vertically
+ */
+.mdp-slidenav-position .mdp-slidenav {
+  display: none;
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  margin-top: -30px; }
+
+.mdp-slidenav-position:hover .mdp-slidenav {
+  display: block; }
+
+.mdp-slidenav-position .mdp-slidenav-previous {
+  left: 20px; }
+
+.mdp-slidenav-position .mdp-slidenav-next {
+  right: 20px; }
+
+/* Modifier: `mdp-slidenav-contrast`
+ ========================================================================== */
+.mdp-slidenav-contrast {
+  color: rgba(255, 255, 255, 0.5); }
+
+/*
+ * Hover
+ * 1. Apply hover style also to focus state
+ */
+.mdp-slidenav-contrast:hover,
+.mdp-slidenav-contrast:focus {
+  color: rgba(255, 255, 255, 0.7); }
+
+/* Active */
+.mdp-slidenav-contrast:active {
+  color: rgba(255, 255, 255, 0.9); }

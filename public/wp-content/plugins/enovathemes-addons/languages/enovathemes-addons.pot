@@ -1,0 +1,5428 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Enovathemes Addons Pot v1.0.0\n"
+"POT-Creation-Date: 2018-11-23 14:18+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Enovathemes Team <enovathemesthemes@gmail.com>\n"
+"Language-Team: Enovathemes <support@enovathemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Reproject-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: enovathemes-addons.php:58
+msgid ""
+"Responsive padding is advanced option designed to take controll over column left/"
+"right padding, when you are using the full width layout, which goes beyond the "
+"main container (1200px). A common example is 2 equal column full width layout. "
+"If you select \"inherit\" it will inherit the \"Design Options\" padding settings"
+msgstr ""
+
+#: enovathemes-addons.php:216 enovathemes-addons.php:278
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: enovathemes-addons.php:229 enovathemes-addons.php:289
+msgid ""
+"Oops! There was a problem with your submission. Please complete the form and try "
+"again."
+msgstr ""
+
+#: enovathemes-addons.php:237
+msgid "Fast contact mail from "
+msgstr ""
+
+#: enovathemes-addons.php:240
+msgid "Name: "
+msgstr ""
+
+#: enovathemes-addons.php:241 enovathemes-addons.php:303
+msgid "Email: "
+msgstr ""
+
+#: enovathemes-addons.php:242
+msgid "Message: "
+msgstr ""
+
+#: enovathemes-addons.php:251 enovathemes-addons.php:312
+msgid "Thank You! Your message has been sent."
+msgstr ""
+
+#: enovathemes-addons.php:255 enovathemes-addons.php:316
+msgid "Oops! Something went wrong and we couldn't send your message."
+msgstr ""
+
+#: enovathemes-addons.php:299
+msgid "Cargo tracking request from"
+msgstr ""
+
+#: enovathemes-addons.php:302
+msgid "Tracking number: "
+msgstr ""
+
+#: enovathemes-addons.php:349 widgets/custom-instagram-widget.php:231
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: enovathemes-addons.php:353 widgets/custom-instagram-widget.php:235
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: enovathemes-addons.php:361 enovathemes-addons.php:369 enovathemes-addons.php:373
+#: widgets/custom-instagram-widget.php:243 widgets/custom-instagram-widget.php:251
+#: widgets/custom-instagram-widget.php:255
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: enovathemes-addons.php:385 widgets/custom-instagram-widget.php:267
+msgid "Instagram Image"
+msgstr ""
+
+#: enovathemes-addons.php:417 widgets/custom-instagram-widget.php:299
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: enovathemes-addons.php:431 shortcodes/shortcodes.php:1167
+msgid "Share on Facebook"
+msgstr ""
+
+#: enovathemes-addons.php:432 shortcodes/shortcodes.php:1168
+msgid "Tweet this!"
+msgstr ""
+
+#: enovathemes-addons.php:433 shortcodes/shortcodes.php:1169
+msgid "Share on Pinterest"
+msgstr ""
+
+#: enovathemes-addons.php:434 shortcodes/shortcodes.php:1170
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: enovathemes-addons.php:435 shortcodes/shortcodes.php:1171
+msgid "Share on Google+"
+msgstr ""
+
+#: enovathemes-addons.php:509
+msgid "Home"
+msgstr ""
+
+#: enovathemes-addons.php:514
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: enovathemes-addons.php:515
+#, php-format
+msgid "Archive by \"%s\""
+msgstr ""
+
+#: enovathemes-addons.php:516
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: enovathemes-addons.php:517
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: enovathemes-addons.php:518
+msgid "Error 404"
+msgstr ""
+
+#: enovathemes-addons.php:519
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: enovathemes-addons.php:520
+msgid "Wishlist"
+msgstr ""
+
+#: enovathemes-addons.php:522 optionpanel/config.php:3668
+msgid "Blog"
+msgstr ""
+
+#: enovathemes-addons.php:523 optionpanel/config.php:80
+#: project/content-project-header.php:65 project/project.php:8
+msgid "Projects"
+msgstr ""
+
+#: enovathemes-addons.php:524
+msgid "Product"
+msgstr ""
+
+#: enovathemes-addons.php:1078
+msgid "Page"
+msgstr ""
+
+#: includes/archive-sliders.php:7 includes/archive-sliders.php:8
+msgid "Archive slider"
+msgstr ""
+
+#: includes/archive-sliders.php:46
+msgid "Chose archive slider"
+msgstr ""
+
+#: includes/archive-sliders.php:53
+msgid "Blog slider:"
+msgstr ""
+
+#: includes/archive-sliders.php:57
+msgid "Choose blog slider"
+msgstr ""
+
+#: includes/archive-sliders.php:62
+msgid "Project slider:"
+msgstr ""
+
+#: includes/archive-sliders.php:66
+msgid "Choose project slider"
+msgstr ""
+
+#: includes/archive-sliders.php:71
+msgid "Shop slider:"
+msgstr ""
+
+#: includes/archive-sliders.php:75
+msgid "Choose shop slider"
+msgstr ""
+
+#: includes/archive-sliders.php:102 includes/archive-sliders.php:125
+#: includes/archive-sliders.php:148 includes/page-extended-options.php:76
+msgid "--- Revolution Sliders ---"
+msgstr ""
+
+#: includes/footers.php:6 includes/footers.php:7 includes/footers.php:18
+msgid "Footers"
+msgstr ""
+
+#: includes/footers.php:8 project/project.php:10
+msgid "Add new"
+msgstr ""
+
+#: includes/footers.php:9
+msgid "Add new footer"
+msgstr ""
+
+#: includes/footers.php:10
+msgid "Edit footer"
+msgstr ""
+
+#: includes/footers.php:11
+msgid "New footer"
+msgstr ""
+
+#: includes/footers.php:12
+msgid "All footers"
+msgstr ""
+
+#: includes/footers.php:13
+msgid "View footer"
+msgstr ""
+
+#: includes/footers.php:14
+msgid "Search footer"
+msgstr ""
+
+#: includes/footers.php:15
+msgid "No footer found"
+msgstr ""
+
+#: includes/footers.php:16
+msgid "No footer found in trash"
+msgstr ""
+
+#: includes/footers.php:47 optionpanel/inc/fields/slides/field_slides.php:145
+#: optionpanel/inc/fields/slides/field_slides.php:200 project/project.php:105
+#: widgets/custom-instagram-widget.php:146
+msgid "Title"
+msgstr ""
+
+#: includes/footers.php:48
+msgid "Active footer"
+msgstr ""
+
+#: includes/footers.php:65
+#: optionpanel/inc/fields/link_color/field_link_color.php:102
+msgid "Active"
+msgstr ""
+
+#: includes/footers.php:75 includes/footers.php:76 includes/footers.php:110
+msgid "Chose footer"
+msgstr ""
+
+#: includes/footers.php:117
+msgid "Footer name:"
+msgstr ""
+
+#: includes/footers.php:121
+msgid "Choose footer name, default is none"
+msgstr ""
+
+#: includes/footers.php:157 optionpanel/config.php:3818 optionpanel/config.php:3970
+#: optionpanel/config.php:4559 optionpanel/config.php:4718 project/project.php:222
+msgid "None"
+msgstr ""
+
+#: includes/page-extended-options.php:8
+msgid "Page options"
+msgstr ""
+
+#: includes/page-extended-options.php:51
+msgid "Layout options"
+msgstr ""
+
+#: includes/page-extended-options.php:54
+msgid "Blank page"
+msgstr ""
+
+#: includes/page-extended-options.php:58 optionpanel/config.php:1944
+msgid "Transparent header"
+msgstr ""
+
+#: includes/page-extended-options.php:62
+msgid "One page layout"
+msgstr ""
+
+#: includes/page-extended-options.php:67
+msgid "Choose revolution slider"
+msgstr ""
+
+#: includes/page-extended-options.php:90
+msgid "Page title section options"
+msgstr ""
+
+#: includes/page-extended-options.php:95
+msgid " - Title section active"
+msgstr ""
+
+#: includes/page-extended-options.php:100
+msgid "Title section subtitle:"
+msgstr ""
+
+#: includes/page-extended-options.php:104
+msgid "Title section background options:"
+msgstr ""
+
+#: includes/page-extended-options.php:107
+msgid "Background color:"
+msgstr ""
+
+#: includes/page-extended-options.php:111
+msgid "Background image:"
+msgstr ""
+
+#: includes/page-extended-options.php:114
+msgid "Upload image"
+msgstr ""
+
+#: includes/page-extended-options.php:115
+msgid "Remove image"
+msgstr ""
+
+#: includes/page-extended-options.php:121
+msgid "Background image repeat"
+msgstr ""
+
+#: includes/page-extended-options.php:123
+msgid "no-repeat"
+msgstr ""
+
+#: includes/page-extended-options.php:124
+msgid "repeat-x"
+msgstr ""
+
+#: includes/page-extended-options.php:125
+msgid "repeat-y"
+msgstr ""
+
+#: includes/page-extended-options.php:126
+msgid "repeat"
+msgstr ""
+
+#: includes/page-extended-options.php:128
+msgid "Background image position"
+msgstr ""
+
+#: includes/page-extended-options.php:130
+msgid "left top"
+msgstr ""
+
+#: includes/page-extended-options.php:131
+msgid "left center"
+msgstr ""
+
+#: includes/page-extended-options.php:132
+msgid "left bottom"
+msgstr ""
+
+#: includes/page-extended-options.php:133
+msgid "center top"
+msgstr ""
+
+#: includes/page-extended-options.php:134
+msgid "center center"
+msgstr ""
+
+#: includes/page-extended-options.php:135
+msgid "center bottom"
+msgstr ""
+
+#: includes/page-extended-options.php:136
+msgid "right top"
+msgstr ""
+
+#: includes/page-extended-options.php:137
+msgid "right center"
+msgstr ""
+
+#: includes/page-extended-options.php:138
+msgid "right bottom"
+msgstr ""
+
+#: includes/page-extended-options.php:142
+msgid "Background image attachment"
+msgstr ""
+
+#: includes/page-extended-options.php:144
+msgid "scroll"
+msgstr ""
+
+#: includes/page-extended-options.php:145
+msgid "fixed"
+msgstr ""
+
+#: includes/page-extended-options.php:147
+msgid "Background image size"
+msgstr ""
+
+#: includes/page-extended-options.php:149
+msgid "auto"
+msgstr ""
+
+#: includes/page-extended-options.php:150
+msgid "cover"
+msgstr ""
+
+#: includes/page-extended-options.php:156
+msgid "Title section parallax"
+msgstr ""
+
+#: includes/page-extended-options.php:163
+msgid "Title section overlay"
+msgstr ""
+
+#: includes/page-extended-options.php:169
+msgid ""
+"Activate parallax effect on page title section (make sure 'Title section "
+"background image attachment' option is set to 'scroll' and 'Title section "
+"background image size' is set to 'cover'). Use images with a height greater than "
+"page title section (1:1.5 ratio)"
+msgstr ""
+
+#: includes/page-extended-options.php:172
+msgid "Title section \"Title\" & \"Subtitle\" styling:"
+msgstr ""
+
+#: includes/page-extended-options.php:174
+msgid "Title color:"
+msgstr ""
+
+#: includes/page-extended-options.php:176
+msgid "Title background color:"
+msgstr ""
+
+#: includes/page-extended-options.php:180
+msgid "Subtitle color:"
+msgstr ""
+
+#: includes/page-extended-options.php:182
+msgid "Subtitle background color:"
+msgstr ""
+
+#: includes/page-extended-options.php:185
+msgid "Title section \"Breadcrumbs\" styling:"
+msgstr ""
+
+#: includes/page-extended-options.php:187
+msgid "Breadcrumbs color:"
+msgstr ""
+
+#: includes/page-extended-options.php:189
+msgid "Breadcrumbs background color:"
+msgstr ""
+
+#: includes/page-extended-options.php:191
+msgid "Breadcrumbs separator color:"
+msgstr ""
+
+#: includes/post-extended-options.php:8
+msgid "Post Format Options"
+msgstr ""
+
+#: includes/post-extended-options.php:17
+msgid "Blog custom width"
+msgstr ""
+
+#: includes/post-extended-options.php:49
+msgid " - Disable Featured Media in this post (Featured Image / Featured Gallery)"
+msgstr ""
+
+#: includes/post-extended-options.php:53
+msgid "Audio post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:55 includes/project-extended-options.php:242
+msgid "Enter  MP3 audio file link here:"
+msgstr ""
+
+#: includes/post-extended-options.php:59 includes/project-extended-options.php:246
+msgid "Enter  OGG audio file link here:"
+msgstr ""
+
+#: includes/post-extended-options.php:63 includes/project-extended-options.php:250
+msgid "Embed audio here:"
+msgstr ""
+
+#: includes/post-extended-options.php:68
+msgid "Video post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:70 includes/project-extended-options.php:257
+msgid "Enter  MP4 video file link here:"
+msgstr ""
+
+#: includes/post-extended-options.php:74 includes/project-extended-options.php:261
+msgid "Enter  OGV video file link here:"
+msgstr ""
+
+#: includes/post-extended-options.php:78 includes/project-extended-options.php:265
+msgid "Enter  WEBM video file link here:"
+msgstr ""
+
+#: includes/post-extended-options.php:83 includes/project-extended-options.php:270
+msgid "Video poster:"
+msgstr ""
+
+#: includes/post-extended-options.php:86 includes/project-extended-options.php:273
+msgid "Upload video poster image"
+msgstr ""
+
+#: includes/post-extended-options.php:87 includes/project-extended-options.php:274
+msgid "Remove video poster image"
+msgstr ""
+
+#: includes/post-extended-options.php:93 includes/project-extended-options.php:280
+msgid "Embed video here:"
+msgstr ""
+
+#: includes/post-extended-options.php:98
+msgid "Gallery post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:99
+msgid ""
+"Use Gallery metabox (at the bottom of post extended options) to upload images "
+"for the gallery post format"
+msgstr ""
+
+#: includes/post-extended-options.php:102
+msgid "Link post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:104
+msgid "Enter link URL here:"
+msgstr ""
+
+#: includes/post-extended-options.php:109
+msgid "Status post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:111
+msgid "Enter status author name here:"
+msgstr ""
+
+#: includes/post-extended-options.php:116
+msgid "Quote post format options"
+msgstr ""
+
+#: includes/post-extended-options.php:118
+msgid "Enter quote author name here:"
+msgstr ""
+
+#: includes/post-extended-options.php:154
+msgid ""
+"Your post layout in \"Blog archive/loop\" page is set to \"Masonry 2\". If you "
+"want to adjust each post width individually use \"Custom post width\" option "
+"below"
+msgstr ""
+
+#: includes/post-extended-options.php:161
+msgid "Your post layout in \"Blog archive/loop\" page is set to \""
+msgstr ""
+
+#: includes/project-extended-options.php:14 optionpanel/config.php:4193
+msgid "Project layout"
+msgstr ""
+
+#: includes/project-extended-options.php:22
+msgid "Project custom width"
+msgstr ""
+
+#: includes/project-extended-options.php:31
+msgid "Project custom content direction"
+msgstr ""
+
+#: includes/project-extended-options.php:40
+msgid "Project extended options"
+msgstr ""
+
+#: includes/project-extended-options.php:65 optionpanel/config.php:3245
+#: optionpanel/config.php:3252
+msgid "Sidebar"
+msgstr ""
+
+#: includes/project-extended-options.php:72 optionpanel/config.php:147
+#: optionpanel/config.php:3808 optionpanel/config.php:4135
+#: optionpanel/config.php:4549
+msgid "Wide"
+msgstr ""
+
+#: includes/project-extended-options.php:79
+msgid "Custom"
+msgstr ""
+
+#: includes/project-extended-options.php:84
+#: includes/project-extended-options.php:85
+msgid ""
+"Use \"Project extended options\" to add project data, editor is not available "
+"for this layout"
+msgstr ""
+
+#: includes/project-extended-options.php:86
+msgid ""
+"Use \"Editor\" to create project custom layout, \"Project extended options\" are "
+"not available for this layout"
+msgstr ""
+
+#: includes/project-extended-options.php:122
+msgid ""
+"Your project layout in \"Project archive/loop\" page is set to \"Masonry\". If "
+"you want to adjust each project width individually use \"Custom project width\" "
+"option below"
+msgstr ""
+
+#: includes/project-extended-options.php:129
+msgid ""
+"Your project layout in \"Project archive/loop\" page is set to \"Grid\". If you "
+"want to adjust each project width individually switch to the \"Masonry layout\""
+msgstr ""
+
+#: includes/project-extended-options.php:149
+msgid ""
+"Your project layout in \"Project archive/loop\" page is set to \"Project "
+"alternative\". If you want to adjust each project content direction separately "
+"use \"Custom project content direction\" option below"
+msgstr ""
+
+#: includes/project-extended-options.php:151 optionpanel/config.php:2397
+#: optionpanel/config.php:2408 optionpanel/config.php:2567
+#: optionpanel/config.php:3819 optionpanel/config.php:3971
+#: optionpanel/config.php:4560 optionpanel/config.php:4719
+#: optionpanel/inc/fields/border/field_border.php:159
+#: optionpanel/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: includes/project-extended-options.php:152 optionpanel/config.php:2398
+#: optionpanel/config.php:2409 optionpanel/config.php:2568
+#: optionpanel/config.php:3820 optionpanel/config.php:3972
+#: optionpanel/config.php:4561 optionpanel/config.php:4720
+#: optionpanel/inc/fields/border/field_border.php:145
+#: optionpanel/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: includes/project-extended-options.php:153
+#: optionpanel/inc/fields/border/field_border.php:138
+#: optionpanel/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: includes/project-extended-options.php:154
+#: optionpanel/inc/fields/border/field_border.php:152
+#: optionpanel/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: includes/project-extended-options.php:157
+msgid ""
+"No content direction option is available, if you want to adjust each content "
+"direction separately, you should switch to \"Project alternative\" layout in "
+"\"Project archive/loop\" page from theme settings"
+msgstr ""
+
+#: includes/project-extended-options.php:189
+msgid "Project details"
+msgstr ""
+
+#: includes/project-extended-options.php:193
+msgid "Enter project description here (Basic HTML is allowed):"
+msgstr ""
+
+#: includes/project-extended-options.php:198
+msgid "Enter project details here (Basic HTML is allowed):"
+msgstr ""
+
+#: includes/project-extended-options.php:201
+msgid "Use line break (press Enter) to separate between items"
+msgstr ""
+
+#: includes/project-extended-options.php:208
+msgid "Enter project custom link here:"
+msgstr ""
+
+#: includes/project-extended-options.php:212
+msgid " - Skip single project page and use this link as project link"
+msgstr ""
+
+#: includes/project-extended-options.php:213
+msgid ""
+"Check the checkbox if you want to use external link for your project instead of "
+"regular single project link"
+msgstr ""
+
+#: includes/project-extended-options.php:220
+msgid "Project format"
+msgstr ""
+
+#: includes/project-extended-options.php:225
+msgid "Gallery"
+msgstr ""
+
+#: includes/project-extended-options.php:229
+msgid "Video"
+msgstr ""
+
+#: includes/project-extended-options.php:233
+msgid "Audio"
+msgstr ""
+
+#: includes/project-extended-options.php:240
+msgid "Audio project format options"
+msgstr ""
+
+#: includes/project-extended-options.php:255
+msgid "Video project format options"
+msgstr ""
+
+#: includes/project-extended-options.php:285
+msgid "Gallery project format options"
+msgstr ""
+
+#: includes/project-extended-options.php:287
+msgid "Gallery type"
+msgstr ""
+
+#: includes/project-extended-options.php:290 project/project.php:210
+msgid "Grid"
+msgstr ""
+
+#: includes/project-extended-options.php:291 project/project.php:219
+msgid "Masonry"
+msgstr ""
+
+#: includes/project-extended-options.php:292 project/project.php:216
+msgid "Carousel"
+msgstr ""
+
+#: includes/project-extended-options.php:293
+msgid "Carousel with thumbnails"
+msgstr ""
+
+#: includes/project-extended-options.php:297
+msgid " - Make gallery 100% wide (out of main container box)"
+msgstr ""
+
+#: includes/project-extended-options.php:302
+msgid "Gallery columns"
+msgstr ""
+
+#: includes/project-extended-options.php:304
+msgid "1"
+msgstr ""
+
+#: includes/project-extended-options.php:305
+msgid "2"
+msgstr ""
+
+#: includes/project-extended-options.php:306
+msgid "3"
+msgstr ""
+
+#: includes/project-extended-options.php:307
+msgid "4"
+msgstr ""
+
+#: includes/project-extended-options.php:308
+msgid "5"
+msgstr ""
+
+#: includes/project-extended-options.php:312
+msgid "Gallery gap"
+msgstr ""
+
+#: includes/project-extended-options.php:315
+msgid "px"
+msgstr ""
+
+#: includes/project-extended-options.php:321
+msgid ""
+"Use Gallery metabox (at the bottom of project format) to upload images for the "
+"gallery project format"
+msgstr ""
+
+#: includes/quick-styles.php:9 includes/quick-styles.php:10
+msgid "Quick Styles"
+msgstr ""
+
+#: includes/quick-styles.php:25
+msgid "Header"
+msgstr ""
+
+#: includes/quick-styles.php:58
+msgid "Header quick styles"
+msgstr ""
+
+#: includes/quick-styles.php:63
+msgid ""
+"Choose header quick styles here and edit header styles from Theme Settings >> "
+"\"Header & Menu\""
+msgstr ""
+
+#: includes/quick-styles.php:69
+msgid "Page title section quick styles"
+msgstr ""
+
+#: includes/quick-styles.php:73
+msgid "Page title section quick styles:"
+msgstr ""
+
+#: includes/quick-styles.php:74
+msgid ""
+"Choose page title section quick styles here and edit page title section styles "
+"from Theme Settings >> \"Page title section\". Also you can adjust styling of "
+"each page individually from the page edit screen with page extended options "
+"found under the main editor. For Blog, Events, Gallery, Shop you can adjust page "
+"title sections from theme options panel >> Blog/Event/Gallery,Woocommerce >> "
+"Page title section"
+msgstr ""
+
+#: includes/quick-styles.php:109
+msgid "Check this option and save only once."
+msgstr ""
+
+#: optionpanel/config.php:16 optionpanel/config.php:17
+msgid "Theme Settings"
+msgstr ""
+
+#: optionpanel/config.php:61
+msgid "General"
+msgstr ""
+
+#: optionpanel/config.php:62
+msgid "sec_general"
+msgstr ""
+
+#: optionpanel/config.php:69
+msgid "Disable gutenberg"
+msgstr ""
+
+#: optionpanel/config.php:70
+msgid ""
+"By default WordPress comes with new block editor \"Gutenberg\". If you want "
+"classic editor or Visual Composer, make sure this option is active"
+msgstr ""
+
+#: optionpanel/config.php:76
+msgid "Choose post types to disable Gutenberg"
+msgstr ""
+
+#: optionpanel/config.php:78
+msgid "Posts"
+msgstr ""
+
+#: optionpanel/config.php:79
+msgid "Pages"
+msgstr ""
+
+#: optionpanel/config.php:81
+msgid "Products"
+msgstr ""
+
+#: optionpanel/config.php:94
+msgid "Combine theme scripts"
+msgstr ""
+
+#: optionpanel/config.php:95
+msgid ""
+"By default all theme scripts are enqueued separately. This is done to make "
+"possible scripts dequeuing if the user needs so. If this option is active theme "
+"loads the combined version of scripts, where all the scripts of the theme are "
+"combined in one file called controller-combined.js. With this option active user "
+"can no longer dequeue scripts, but combined scripts show better performance and "
+"higher level of speed."
+msgstr ""
+
+#: optionpanel/config.php:102
+msgid "Turn off default styling"
+msgstr ""
+
+#: optionpanel/config.php:108
+msgid "Turn off responsive images with source set attribute"
+msgstr ""
+
+#: optionpanel/config.php:109
+msgid ""
+"Modern browsers use srcset attribute to deliver the most relevant image size "
+"depending on the current device. If you want to load the exact size of the image "
+"that you uploaded check this option"
+msgstr ""
+
+#: optionpanel/config.php:116
+msgid "Colors"
+msgstr ""
+
+#: optionpanel/config.php:123
+msgid "Links general colors"
+msgstr ""
+
+#: optionpanel/config.php:132
+msgid "Main color"
+msgstr ""
+
+#: optionpanel/config.php:139
+msgid "Layout settings"
+msgstr ""
+
+#: optionpanel/config.php:144 project/project.php:107
+msgid "Layout"
+msgstr ""
+
+#: optionpanel/config.php:145
+msgid ""
+"Boxed layout allows you to display the whole website in the box. (works on "
+"screens larger than 1200px wide). Make sure \"Sidebar menu\" option is inactive "
+"(from Theme Settings >> Navigations >> Sidebar menu)"
+msgstr ""
+
+#: optionpanel/config.php:148 optionpanel/config.php:3809
+#: optionpanel/config.php:4136 optionpanel/config.php:4550
+msgid "Boxed"
+msgstr ""
+
+#: optionpanel/config.php:149
+msgid "Frame"
+msgstr ""
+
+#: optionpanel/config.php:156
+msgid "Frame width on mobile"
+msgstr ""
+
+#: optionpanel/config.php:157
+msgid "Starts on devices smaller than 1023px wide"
+msgstr ""
+
+#: optionpanel/config.php:167
+msgid "Frame width"
+msgstr ""
+
+#: optionpanel/config.php:177
+msgid "Frame color"
+msgstr ""
+
+#: optionpanel/config.php:185
+msgid "Footer settings"
+msgstr ""
+
+#: optionpanel/config.php:192
+msgid "Important! First you must"
+msgstr ""
+
+#: optionpanel/config.php:192
+msgid "create a footer"
+msgstr ""
+
+#: optionpanel/config.php:197
+msgid "Sticky footer"
+msgstr ""
+
+#: optionpanel/config.php:204
+msgid "One page navigation settings"
+msgstr ""
+
+#: optionpanel/config.php:209
+msgid "One page navigation"
+msgstr ""
+
+#: optionpanel/config.php:221
+msgid "One page scroll speed in ms"
+msgstr ""
+
+#: optionpanel/config.php:230
+msgid "One page layout hash"
+msgstr ""
+
+#: optionpanel/config.php:231
+msgid ""
+"Toggle one page layout hash. In browsers that support the history object, update "
+"the url's hash when clicking on the links "
+msgstr ""
+
+#: optionpanel/config.php:237
+msgid "One page menu filter (if one page navigation is top menu)"
+msgstr ""
+
+#: optionpanel/config.php:238
+msgid ""
+"Exclude links from one page menu by entering comma-separated menu items' ids"
+msgstr ""
+
+#: optionpanel/config.php:243
+msgid "One page bullets background colors"
+msgstr ""
+
+#: optionpanel/config.php:250
+msgid "One page bullets background shadow"
+msgstr ""
+
+#: optionpanel/config.php:259
+msgid "One page bullets colors"
+msgstr ""
+
+#: optionpanel/config.php:269
+msgid "One page bullets tooltip color"
+msgstr ""
+
+#: optionpanel/config.php:276
+msgid "One page bullets background tooltip color"
+msgstr ""
+
+#: optionpanel/config.php:284
+msgid "Google API settings"
+msgstr ""
+
+#: optionpanel/config.php:289
+msgid "Google map API Key"
+msgstr ""
+
+#: optionpanel/config.php:296
+msgid "Site background settings"
+msgstr ""
+
+#: optionpanel/config.php:303
+msgid ""
+"Important! If you want to add background image/color select the \"Boxed\" site "
+"layout option from Theme Settings"
+msgstr ""
+
+#: optionpanel/config.php:308
+msgid "Site background options"
+msgstr ""
+
+#: optionpanel/config.php:314
+msgid "Under construction page settins"
+msgstr ""
+
+#: optionpanel/config.php:319
+msgid "Under construction"
+msgstr ""
+
+#: optionpanel/config.php:320
+msgid "Toggle this option if you want to have \"Under construction\" page"
+msgstr ""
+
+#: optionpanel/config.php:326
+msgid "Under construction page background"
+msgstr ""
+
+#: optionpanel/config.php:333
+msgid "Under construction page logo upload"
+msgstr ""
+
+#: optionpanel/config.php:340
+msgid "Under construction page retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:346
+msgid "Under construction page message"
+msgstr ""
+
+#: optionpanel/config.php:347
+msgid "Add simple/html text to \"Under construction\" page"
+msgstr ""
+
+#: optionpanel/config.php:358
+msgid "CSS"
+msgstr ""
+
+#: optionpanel/config.php:368
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: optionpanel/config.php:369
+msgid "Enter custom css code here."
+msgstr ""
+
+#: optionpanel/config.php:376
+msgid "(min-width: 320px)"
+msgstr ""
+
+#: optionpanel/config.php:383
+msgid "(max-width: 320px)"
+msgstr ""
+
+#: optionpanel/config.php:390
+msgid "(max-width: 479px)"
+msgstr ""
+
+#: optionpanel/config.php:397
+msgid "(min-width: 480px)"
+msgstr ""
+
+#: optionpanel/config.php:404
+msgid "(min-width: 480px) and (max-width: 767px)"
+msgstr ""
+
+#: optionpanel/config.php:411
+msgid "(max-width: 639px)"
+msgstr ""
+
+#: optionpanel/config.php:418
+msgid "(min-width: 640px)"
+msgstr ""
+
+#: optionpanel/config.php:425
+msgid "(min-width: 640px) and (max-width: 767px)"
+msgstr ""
+
+#: optionpanel/config.php:432
+msgid "(max-width: 767px)"
+msgstr ""
+
+#: optionpanel/config.php:439
+msgid "(min-width: 768px)"
+msgstr ""
+
+#: optionpanel/config.php:446
+msgid "(min-width: 768px) and (max-width: 1023px)"
+msgstr ""
+
+#: optionpanel/config.php:453
+msgid "(max-width: 1023px)"
+msgstr ""
+
+#: optionpanel/config.php:460
+msgid "(min-width: 1024px)"
+msgstr ""
+
+#: optionpanel/config.php:467
+msgid "(min-width: 1024px) and (max-width: 1279px)"
+msgstr ""
+
+#: optionpanel/config.php:474
+msgid "(max-width: 1279px)"
+msgstr ""
+
+#: optionpanel/config.php:481
+msgid "(min-width: 1280px)"
+msgstr ""
+
+#: optionpanel/config.php:488
+msgid "(min-width: 1280px) and (max-width: 1367px)"
+msgstr ""
+
+#: optionpanel/config.php:495
+msgid "(min-width: 1366px)"
+msgstr ""
+
+#: optionpanel/config.php:502
+msgid "(min-width: 1366px) and (max-width: 1599px)"
+msgstr ""
+
+#: optionpanel/config.php:509
+msgid "(max-width: 1599px)"
+msgstr ""
+
+#: optionpanel/config.php:516
+msgid "(min-width: 1600px)"
+msgstr ""
+
+#: optionpanel/config.php:523
+msgid "(min-width: 1600px) and (max-width: 1919px)"
+msgstr ""
+
+#: optionpanel/config.php:532
+msgid "Effects"
+msgstr ""
+
+#: optionpanel/config.php:540
+msgid "Smooth page scroll"
+msgstr ""
+
+#: optionpanel/config.php:545
+msgid "Smooth scroll"
+msgstr ""
+
+#: optionpanel/config.php:546
+msgid "Toggle this option if you want to have smooth scroll"
+msgstr ""
+
+#: optionpanel/config.php:553
+msgid "Custom scroll settings"
+msgstr ""
+
+#: optionpanel/config.php:558
+msgid "Custom scroll"
+msgstr ""
+
+#: optionpanel/config.php:559
+msgid "Toggle this option if you want to have custom nice scroll"
+msgstr ""
+
+#: optionpanel/config.php:565
+msgid "Custom scroll cursor color"
+msgstr ""
+
+#: optionpanel/config.php:572
+msgid "Custom scroll rail background color"
+msgstr ""
+
+#: optionpanel/config.php:579
+msgid "Custom scroll cursor minimum opacity"
+msgstr ""
+
+#: optionpanel/config.php:589
+msgid "Custom scroll cursor maximum opacity"
+msgstr ""
+
+#: optionpanel/config.php:599
+msgid "Custom scroll cursor width"
+msgstr ""
+
+#: optionpanel/config.php:609
+msgid "Custom scroll cursor border radius"
+msgstr ""
+
+#: optionpanel/config.php:619
+msgid "Custom scroll speed"
+msgstr ""
+
+#: optionpanel/config.php:629
+msgid "Custom mousescroll step"
+msgstr ""
+
+#: optionpanel/config.php:640
+msgid "Custom site loading settings"
+msgstr ""
+
+#: optionpanel/config.php:645
+msgid "Custom site loading"
+msgstr ""
+
+#: optionpanel/config.php:646
+msgid "Toggle this option if you want to have site loading"
+msgstr ""
+
+#: optionpanel/config.php:652
+msgid "Custom site loading background color"
+msgstr ""
+
+#: optionpanel/config.php:659
+msgid "Custom site loading color"
+msgstr ""
+
+#: optionpanel/config.php:667
+msgid "Image preload settings"
+msgstr ""
+
+#: optionpanel/config.php:672
+msgid "Image preload"
+msgstr ""
+
+#: optionpanel/config.php:673
+msgid "Refers to loop/archive pages"
+msgstr ""
+
+#: optionpanel/config.php:680
+msgid "Move to top arrow settings"
+msgstr ""
+
+#: optionpanel/config.php:685
+msgid "Move to top arrow"
+msgstr ""
+
+#: optionpanel/config.php:686
+msgid "Toggle this option if you want to have move to top arrow"
+msgstr ""
+
+#: optionpanel/config.php:692
+msgid "Move to top arrow size"
+msgstr ""
+
+#: optionpanel/config.php:702
+msgid "Move to top icon size"
+msgstr ""
+
+#: optionpanel/config.php:712
+msgid "Move to top arrow border radius"
+msgstr ""
+
+#: optionpanel/config.php:724
+msgid "Move to top arrow icon colors"
+msgstr ""
+
+#: optionpanel/config.php:736
+msgid "Move to top arrow background colors"
+msgstr ""
+
+#: optionpanel/config.php:750
+msgid "Page title section"
+msgstr ""
+
+#: optionpanel/config.php:759
+msgid ""
+"Important! Styling options you can adjust for each page separatly. Find styling "
+"options from each page edit screen, under the main editor. For Blog / Projects / "
+"Shop / page title section options visit corresponding sections."
+msgstr ""
+
+#: optionpanel/config.php:764 optionpanel/config.php:876
+msgid "Page title section height"
+msgstr ""
+
+#: optionpanel/config.php:765 optionpanel/config.php:877
+msgid "Set the title section height for non-slider pages."
+msgstr ""
+
+#: optionpanel/config.php:774
+msgid "Page title content opacity when scrolling"
+msgstr ""
+
+#: optionpanel/config.php:775
+msgid "Activate, if you want to add dynamic opacity to the page title section\""
+msgstr ""
+
+#: optionpanel/config.php:781 optionpanel/config.php:886
+msgid "Page title typography"
+msgstr ""
+
+#: optionpanel/config.php:782 optionpanel/config.php:887
+msgid "Configure page title typography options"
+msgstr ""
+
+#: optionpanel/config.php:804 optionpanel/config.php:907
+msgid "Page subtitle typography"
+msgstr ""
+
+#: optionpanel/config.php:805 optionpanel/config.php:908
+msgid "Configure page subtitle typography options"
+msgstr ""
+
+#: optionpanel/config.php:827 optionpanel/config.php:923
+msgid "Page title/subtitle alignment"
+msgstr ""
+
+#: optionpanel/config.php:828 optionpanel/config.php:924
+msgid "Choose page title/subtile text alignment"
+msgstr ""
+
+#: optionpanel/config.php:829
+msgid ""
+"*Information on RTL (Right-To-Left Language Support): If your page breadcrumbs "
+"are active, it is strongly recommended to set page title section text alignment "
+"the same value both on desktop and mobile (scroll down and see mobile "
+"corrections)."
+msgstr ""
+
+#: optionpanel/config.php:840
+msgid "Page breadcrumbs"
+msgstr ""
+
+#: optionpanel/config.php:841
+msgid "Toggle breadcrumbs on page title sections"
+msgstr ""
+
+#: optionpanel/config.php:847 optionpanel/config.php:935
+msgid "Page breadcrumbs typography"
+msgstr ""
+
+#: optionpanel/config.php:848 optionpanel/config.php:936
+msgid "Configure breadcrumbs typography options"
+msgstr ""
+
+#: optionpanel/config.php:871
+msgid "Mobile corrections"
+msgstr ""
+
+#: optionpanel/config.php:955
+msgid "Navigations"
+msgstr ""
+
+#: optionpanel/config.php:964
+msgid "If you want to quickly import one of the 35 header styles, please visit the"
+msgstr ""
+
+#: optionpanel/config.php:964
+msgid "quick styles"
+msgstr ""
+
+#: optionpanel/config.php:975
+msgid "Header top"
+msgstr ""
+
+#: optionpanel/config.php:981
+msgid "Header top section"
+msgstr ""
+
+#: optionpanel/config.php:987
+msgid "Mobile header top"
+msgstr ""
+
+#: optionpanel/config.php:994
+msgid "Header top height"
+msgstr ""
+
+#: optionpanel/config.php:1004
+msgid "Header top background color"
+msgstr ""
+
+#: optionpanel/config.php:1014
+msgid "Header top border bottom color"
+msgstr ""
+
+#: optionpanel/config.php:1020
+msgid "Header top menu colors"
+msgstr ""
+
+#: optionpanel/config.php:1032
+msgid "Header top submenu colors"
+msgstr ""
+
+#: optionpanel/config.php:1044
+msgid "Header top submenu background colors"
+msgstr ""
+
+#: optionpanel/config.php:1056
+msgid "Header top menu typography"
+msgstr ""
+
+#: optionpanel/config.php:1057
+msgid "Adjust header top menu typography"
+msgstr ""
+
+#: optionpanel/config.php:1080
+msgid "Header top slogan"
+msgstr ""
+
+#: optionpanel/config.php:1081
+msgid "Add simple/html text to header top section"
+msgstr ""
+
+#: optionpanel/config.php:1087 optionpanel/config.php:1446
+msgid "Header social links"
+msgstr ""
+
+#: optionpanel/config.php:1088 optionpanel/config.php:1447
+#: optionpanel/config.php:2596
+msgid "Make sure you added social links from Theme Settings >> Social"
+msgstr ""
+
+#: optionpanel/config.php:1095
+msgid "Header top social links colors"
+msgstr ""
+
+#: optionpanel/config.php:1107
+msgid "Header top button url"
+msgstr ""
+
+#: optionpanel/config.php:1113
+msgid "Header top button text"
+msgstr ""
+
+#: optionpanel/config.php:1121
+msgid "Header top button text color"
+msgstr ""
+
+#: optionpanel/config.php:1133
+msgid "Header top button background color"
+msgstr ""
+
+#: optionpanel/config.php:1147
+msgid "Logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1155
+msgid "Upload .jpg, .png or .gif image that will be your logo."
+msgstr ""
+
+#: optionpanel/config.php:1161
+msgid "Header logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1167
+msgid "Header retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1172
+msgid "Header logo position correction horizontal"
+msgstr ""
+
+#: optionpanel/config.php:1173
+msgid "Offset from left"
+msgstr ""
+
+#: optionpanel/config.php:1181
+msgid "Header logo position correction vertical"
+msgstr ""
+
+#: optionpanel/config.php:1182
+msgid "Offset from top"
+msgstr ""
+
+#: optionpanel/config.php:1191
+msgid "Transparent logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1197
+msgid "Transparent retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1203
+msgid "Sticky header logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1209
+msgid "Sticky header retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1215
+msgid "Mobile logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1222
+msgid "Mobile retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1228
+msgid "Transparent mobile logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1229 optionpanel/config.php:1237
+msgid ""
+"When transparent desktop header is set the mobile version will automatically "
+"inherit logo from this option"
+msgstr ""
+
+#: optionpanel/config.php:1236
+msgid "Transparent mobile retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:1248
+msgid "Standard header"
+msgstr ""
+
+#: optionpanel/config.php:1256
+msgid ""
+"Important! If you want to use \"Standard header\" make sure \"Fullscreen menu\" "
+"and \"Sidebar menu\" options are inactive"
+msgstr ""
+
+#: optionpanel/config.php:1261
+msgid "Header variations"
+msgstr ""
+
+#: optionpanel/config.php:1266
+msgid "Boxed header"
+msgstr ""
+
+#: optionpanel/config.php:1267
+msgid ""
+"Similar to \"Transparent header\" option. If you want to make boxed transparent "
+"header do not activate both \"Boxed header\" and \"Transparent header\", "
+"activate only Boxed header\" and make sure to set transparent background color "
+"to header from the options below (Find the option: \"Header background color\")."
+msgstr ""
+
+#: optionpanel/config.php:1273
+msgid "Sticky header"
+msgstr ""
+
+#: optionpanel/config.php:1274
+msgid "Toggle on this option and scroll down and find sticky header options"
+msgstr ""
+
+#: optionpanel/config.php:1280 optionpanel/config.php:2556
+msgid "Full width header"
+msgstr ""
+
+#: optionpanel/config.php:1281
+msgid ""
+"This option does not work with \"Header boxed\" or \"Boxed layout\" options "
+"active"
+msgstr ""
+
+#: optionpanel/config.php:1287
+msgid "Logo position"
+msgstr ""
+
+#: optionpanel/config.php:1288
+msgid ""
+"Align the logo to the left/right/center. If your \"Menu under logo\" option is "
+"not active, logo is centered between 2 menu parts (left menu part and right menu "
+"part). When you select \"Logo center\" option, make sure you have 2 menus "
+"created and assigned to the left/right locations."
+msgstr ""
+
+#: optionpanel/config.php:1299
+msgid "No logo"
+msgstr ""
+
+#: optionpanel/config.php:1300
+msgid "Header without logo"
+msgstr ""
+
+#: optionpanel/config.php:1306
+msgid "Menu position"
+msgstr ""
+
+#: optionpanel/config.php:1307
+msgid "Align the menu to the left/right/center."
+msgstr ""
+
+#: optionpanel/config.php:1319
+msgid "Menu under logo"
+msgstr ""
+
+#: optionpanel/config.php:1320
+msgid "Make menu 100% width and put under the logo"
+msgstr ""
+
+#: optionpanel/config.php:1326
+msgid "Boxed menu under logo"
+msgstr ""
+
+#: optionpanel/config.php:1327
+msgid ""
+"Make menu aligned with main container. Make sure \"Menu under logo\" option is "
+"active"
+msgstr ""
+
+#: optionpanel/config.php:1334
+msgid "Boxed menu under logo border radius"
+msgstr ""
+
+#: optionpanel/config.php:1344
+msgid "Boxed menu under logo icons top"
+msgstr ""
+
+#: optionpanel/config.php:1345
+msgid ""
+"Place the header icons in top of the menu near logo. Make sure \"Menu under logo"
+"\", \"Boxed menu under logo\" optiona are active and \"Logo position\" is set to "
+"\"Center\""
+msgstr ""
+
+#: optionpanel/config.php:1352
+msgid "Header under slider"
+msgstr ""
+
+#: optionpanel/config.php:1353
+msgid ""
+"On all pages, that have revolution slider the header will be located under the "
+"slider. For all other pages without slider the header will be placed at the top "
+"of the page."
+msgstr ""
+
+#: optionpanel/config.php:1359
+msgid "Boxed borders for header"
+msgstr ""
+
+#: optionpanel/config.php:1360
+msgid "This option aligns your header borders with the main container width"
+msgstr ""
+
+#: optionpanel/config.php:1366
+msgid "Menu & Header options"
+msgstr ""
+
+#: optionpanel/config.php:1372 optionpanel/config.php:1820
+#: optionpanel/config.php:2157
+msgid "Header height"
+msgstr ""
+
+#: optionpanel/config.php:1382
+msgid "Header search"
+msgstr ""
+
+#: optionpanel/config.php:1389
+msgid "Non modal header search background color"
+msgstr ""
+
+#: optionpanel/config.php:1401
+msgid "Non modal header search border color"
+msgstr ""
+
+#: optionpanel/config.php:1412
+msgid "Non modal header search text color"
+msgstr ""
+
+#: optionpanel/config.php:1420
+msgid "Modal header search background color"
+msgstr ""
+
+#: optionpanel/config.php:1428
+msgid "Modal header search color"
+msgstr ""
+
+#: optionpanel/config.php:1436
+msgid "Modal header search background transparency"
+msgstr ""
+
+#: optionpanel/config.php:1453 optionpanel/config.php:1864
+msgid "Header social links colors"
+msgstr ""
+
+#: optionpanel/config.php:1465 optionpanel/config.php:1872
+msgid "Header social links border colors"
+msgstr ""
+
+#: optionpanel/config.php:1473 optionpanel/config.php:1880
+msgid "Header social links background colors"
+msgstr ""
+
+#: optionpanel/config.php:1481
+msgid "Header social links border width"
+msgstr ""
+
+#: optionpanel/config.php:1491
+msgid "Header social links border radius"
+msgstr ""
+
+#: optionpanel/config.php:1501
+msgid "Header button url"
+msgstr ""
+
+#: optionpanel/config.php:1502 optionpanel/config.php:1509
+#: optionpanel/config.php:1526 optionpanel/config.php:1539
+#: optionpanel/config.php:1550
+msgid "Make sure your logo position is NOT set to \"Center\""
+msgstr ""
+
+#: optionpanel/config.php:1508
+msgid "Header button text"
+msgstr ""
+
+#: optionpanel/config.php:1515
+msgid "Header button icon"
+msgstr ""
+
+#: optionpanel/config.php:1516
+msgid ""
+"Make sure your logo position is NOT set to \"Center\". Paste \"Fontawesome\" "
+"icon name here if you want to add icon to your button"
+msgstr ""
+
+#: optionpanel/config.php:1525
+msgid "Header button text color"
+msgstr ""
+
+#: optionpanel/config.php:1538
+msgid "Header button background color"
+msgstr ""
+
+#: optionpanel/config.php:1549
+msgid "Header slogan"
+msgstr ""
+
+#: optionpanel/config.php:1556 optionpanel/config.php:1858
+#: optionpanel/config.php:2004 optionpanel/config.php:2659
+msgid "Choose icons color"
+msgstr ""
+
+#: optionpanel/config.php:1562 optionpanel/config.php:1888
+msgid "Header shopping cart bubble text color"
+msgstr ""
+
+#: optionpanel/config.php:1571 optionpanel/config.php:1894
+msgid "Header shopping cart bubble background color"
+msgstr ""
+
+#: optionpanel/config.php:1581 optionpanel/config.php:1900
+#: optionpanel/config.php:1975
+msgid "Header background color"
+msgstr ""
+
+#: optionpanel/config.php:1591 optionpanel/config.php:1906
+msgid "Header border bottom color"
+msgstr ""
+
+#: optionpanel/config.php:1596
+msgid "Header menu area height"
+msgstr ""
+
+#: optionpanel/config.php:1597
+msgid ""
+"Separate menu area height. This option is availble only with \"Menu under logo\" "
+"option active (check in header quick styles)"
+msgstr ""
+
+#: optionpanel/config.php:1607 optionpanel/config.php:1912
+msgid "Menu background color"
+msgstr ""
+
+#: optionpanel/config.php:1608 optionpanel/config.php:1913
+msgid ""
+"Separate menu area background color. This option is availble only with \"Menu "
+"under logo\" option active (check in header quick styles)"
+msgstr ""
+
+#: optionpanel/config.php:1618 optionpanel/config.php:1919
+msgid "Menu border top color"
+msgstr ""
+
+#: optionpanel/config.php:1619 optionpanel/config.php:1920
+msgid ""
+"Separate menu area border top color. This option is availble only with \"Menu "
+"under logo\" option active (check in header quick styles)"
+msgstr ""
+
+#: optionpanel/config.php:1626
+msgid "Set menu margin in px for desktop under 1600px wide"
+msgstr ""
+
+#: optionpanel/config.php:1635
+msgid "Set menu margin in px for desktop over 1600px wide"
+msgstr ""
+
+#: optionpanel/config.php:1644
+msgid "Menu items separator"
+msgstr ""
+
+#: optionpanel/config.php:1650
+msgid "Menu items separator height"
+msgstr ""
+
+#: optionpanel/config.php:1660 optionpanel/config.php:1852
+msgid "Menu items separator color"
+msgstr ""
+
+#: optionpanel/config.php:1670 optionpanel/config.php:1926
+#: optionpanel/config.php:1984
+msgid "Header menu links color"
+msgstr ""
+
+#: optionpanel/config.php:1681 optionpanel/config.php:2227
+msgid "Menu typography"
+msgstr ""
+
+#: optionpanel/config.php:1682 optionpanel/config.php:2228
+#: optionpanel/config.php:2467 optionpanel/config.php:2713
+msgid "Adjust menu typography"
+msgstr ""
+
+#: optionpanel/config.php:1703
+msgid "Choose menu effect version"
+msgstr ""
+
+#: optionpanel/config.php:1718 optionpanel/config.php:1934
+#: optionpanel/config.php:1995
+msgid "Header menu effect color"
+msgstr ""
+
+#: optionpanel/config.php:1728
+msgid "Header submenu background color"
+msgstr ""
+
+#: optionpanel/config.php:1734
+msgid "Header submenu top border color"
+msgstr ""
+
+#: optionpanel/config.php:1740
+msgid "Header submenu background shadow"
+msgstr ""
+
+#: optionpanel/config.php:1746
+msgid "Header submenu links color"
+msgstr ""
+
+#: optionpanel/config.php:1758
+msgid "Submenu typography"
+msgstr ""
+
+#: optionpanel/config.php:1759
+msgid "Adjust submenu typography"
+msgstr ""
+
+#: optionpanel/config.php:1779
+msgid "Choose submenu hover effect"
+msgstr ""
+
+#: optionpanel/config.php:1792
+msgid "Header submenu hover effect color"
+msgstr ""
+
+#: optionpanel/config.php:1802
+msgid "Choose submenu effect"
+msgstr ""
+
+#: optionpanel/config.php:1813
+msgid "Sticky header options"
+msgstr ""
+
+#: optionpanel/config.php:1821
+msgid "This option do not work with \"Header under slider\" option active"
+msgstr ""
+
+#: optionpanel/config.php:1832 optionpanel/config.php:2289
+msgid "Language switcher background color"
+msgstr ""
+
+#: optionpanel/config.php:1838 optionpanel/config.php:2300
+msgid "Language switcher hover background color"
+msgstr ""
+
+#: optionpanel/config.php:1844 optionpanel/config.php:2311
+msgid "Language switcher text color"
+msgstr ""
+
+#: optionpanel/config.php:1952
+msgid ""
+"Enable transparent header. You can controll the header style from each page edit "
+"screen with \"Page extended options\" under main editor. From there you can "
+"choose header style version \"Normal\"/\"Transparent\". Here you can adjust "
+"transparent header quick styles and choose header style version for Blog, "
+"Projects and Shop"
+msgstr ""
+
+#: optionpanel/config.php:1957
+msgid "Transparent header blog"
+msgstr ""
+
+#: optionpanel/config.php:1963
+msgid "Transparent header project"
+msgstr ""
+
+#: optionpanel/config.php:1969
+msgid "Transparent header shop"
+msgstr ""
+
+#: optionpanel/config.php:2014
+msgid "Woocommerce mini cart"
+msgstr ""
+
+#: optionpanel/config.php:2020
+msgid "Toggle shopping cart in header"
+msgstr ""
+
+#: optionpanel/config.php:2021 optionpanel/config.php:2028
+msgid "Available with WooCommerce installed and active"
+msgstr ""
+
+#: optionpanel/config.php:2027
+msgid "Toggle shopping cart in mobile header"
+msgstr ""
+
+#: optionpanel/config.php:2035
+msgid "Header shopping cart background color"
+msgstr ""
+
+#: optionpanel/config.php:2042
+msgid "Header shopping cart text color"
+msgstr ""
+
+#: optionpanel/config.php:2049
+msgid "Header shopping cart product title color"
+msgstr ""
+
+#: optionpanel/config.php:2056
+msgid "Product button background color regular/hover"
+msgstr ""
+
+#: optionpanel/config.php:2070
+msgid "Product button text color regular/hover"
+msgstr ""
+
+#: optionpanel/config.php:2082
+msgid "Product button border regular/hover"
+msgstr ""
+
+#: optionpanel/config.php:2097
+msgid "Megamenu"
+msgstr ""
+
+#: optionpanel/config.php:2104
+msgid "Megamenu top level items typography"
+msgstr ""
+
+#: optionpanel/config.php:2105
+msgid "Adjust megamenu top level items typography"
+msgstr ""
+
+#: optionpanel/config.php:2130
+msgid "Megamenu top level items border bottom"
+msgstr ""
+
+#: optionpanel/config.php:2136
+msgid "Megamenu links color"
+msgstr ""
+
+#: optionpanel/config.php:2151
+msgid "Mobile header"
+msgstr ""
+
+#: optionpanel/config.php:2166
+msgid "Mobile header search"
+msgstr ""
+
+#: optionpanel/config.php:2172
+msgid "Sidebar toggle"
+msgstr ""
+
+#: optionpanel/config.php:2174
+msgid "Available with active Sidebar (not the Sidebar navigation)"
+msgstr ""
+
+#: optionpanel/config.php:2179
+msgid "Icons color"
+msgstr ""
+
+#: optionpanel/config.php:2185
+msgid "Transparent icons color"
+msgstr ""
+
+#: optionpanel/config.php:2186 optionpanel/config.php:2199
+msgid ""
+"When transparent desktop header is set the mobile version will automatically "
+"inherit style from this option"
+msgstr ""
+
+#: optionpanel/config.php:2192
+msgid "Mobile header background color"
+msgstr ""
+
+#: optionpanel/config.php:2198
+msgid "Transparent mobile header background color"
+msgstr ""
+
+#: optionpanel/config.php:2205
+msgid "Mobile navigation background color regular/hover"
+msgstr ""
+
+#: optionpanel/config.php:2216
+msgid "Mobile navigation text color regular/hover"
+msgstr ""
+
+#: optionpanel/config.php:2252
+msgid "Custom language switcher"
+msgstr ""
+
+#: optionpanel/config.php:2259
+msgid "Toggle custom language switcher"
+msgstr ""
+
+#: optionpanel/config.php:2260 optionpanel/config.php:2268
+msgid "Available with WPML installed and active"
+msgstr ""
+
+#: optionpanel/config.php:2267
+msgid "Toggle custom language switcher on mobile"
+msgstr ""
+
+#: optionpanel/config.php:2276
+msgid "Set width of dropdown list of languagies in px"
+msgstr ""
+
+#: optionpanel/config.php:2277
+msgid ""
+"WPML Language switch has different content, so list width will vary with the "
+"content. Make sure you have WPML Plugin installed and active"
+msgstr ""
+
+#: optionpanel/config.php:2324
+msgid "Language switcher font size"
+msgstr ""
+
+#: optionpanel/config.php:2347
+msgid "Sidebar menu"
+msgstr ""
+
+#: optionpanel/config.php:2355
+msgid ""
+"Important! If you want to use \"Sidebar menu\" make sure \"Fullscreen menu\" and "
+"\"Layout Boxed\"/\"Layout Frame\" (from Theme Settings >> General >> \"Layout\") "
+"options are inactive"
+msgstr ""
+
+#: optionpanel/config.php:2360
+msgid "Sidebar navigation"
+msgstr ""
+
+#: optionpanel/config.php:2367
+msgid "Sidebar logo upload"
+msgstr ""
+
+#: optionpanel/config.php:2374
+msgid "Sidebar retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:2384
+msgid "Sidebar logo margin top/bottom"
+msgstr ""
+
+#: optionpanel/config.php:2395
+msgid "Sidebar postion"
+msgstr ""
+
+#: optionpanel/config.php:2406
+msgid "Sidebar content alignment"
+msgstr ""
+
+#: optionpanel/config.php:2410 optionpanel/config.php:2569
+msgid "Center"
+msgstr ""
+
+#: optionpanel/config.php:2418 optionpanel/config.php:3294
+msgid "Sidebar background color"
+msgstr ""
+
+#: optionpanel/config.php:2425
+msgid "Sidebar background image"
+msgstr ""
+
+#: optionpanel/config.php:2432
+msgid "Sidebar menu vertical alignment middle"
+msgstr ""
+
+#: optionpanel/config.php:2443
+msgid "Sidebar menu margin top/bottom"
+msgstr ""
+
+#: optionpanel/config.php:2454
+msgid "Sidebar menu links color"
+msgstr ""
+
+#: optionpanel/config.php:2466
+msgid "Sidebar menu typography"
+msgstr ""
+
+#: optionpanel/config.php:2488
+msgid "Sidebar menu border color"
+msgstr ""
+
+#: optionpanel/config.php:2498
+msgid "Choose submenu effect (works only for desktop)"
+msgstr ""
+
+#: optionpanel/config.php:2509
+msgid "Sidebar copyright"
+msgstr ""
+
+#: optionpanel/config.php:2510
+msgid "Add simple/html text or any shortcode to \"Sidebar copyright\""
+msgstr ""
+
+#: optionpanel/config.php:2521 optionpanel/config.php:2534
+msgid "Fullscreen menu"
+msgstr ""
+
+#: optionpanel/config.php:2529
+msgid ""
+"Important! If you want to use \"Fullscreen menu\" make sure \"Sidebar menu\" "
+"option is inactive"
+msgstr ""
+
+#: optionpanel/config.php:2540
+msgid "Fullscreen header bar transparent header"
+msgstr ""
+
+#: optionpanel/config.php:2541
+msgid ""
+"Fullscreen header bar transparent header position, not the transparent header "
+"bar background color. To make header bar background color transparent set "
+"transparent background color to header bar from the options below (Find the "
+"option: \"Fullscreen header bar background color\")."
+msgstr ""
+
+#: optionpanel/config.php:2548
+msgid "Sticky fullscreen bar"
+msgstr ""
+
+#: optionpanel/config.php:2549
+msgid "Toggle this option if you want your fullscreen header bar to be sticky"
+msgstr ""
+
+#: optionpanel/config.php:2557
+msgid "Toggle this option if you want your fullscreen header bar to be full width"
+msgstr ""
+
+#: optionpanel/config.php:2564
+msgid "Logo postion"
+msgstr ""
+
+#: optionpanel/config.php:2565
+msgid "Align the logo in fullscreen header bar"
+msgstr ""
+
+#: optionpanel/config.php:2577
+msgid "Fullscreen header bar height"
+msgstr ""
+
+#: optionpanel/config.php:2587
+msgid "Fullscreen search"
+msgstr ""
+
+#: optionpanel/config.php:2588
+msgid ""
+"Activate this option and check \"Modal header search background color\" and "
+"\"Modal header search background opacity\" options in \"Standard header\" section"
+msgstr ""
+
+#: optionpanel/config.php:2595
+msgid "Fullscreen bar social links"
+msgstr ""
+
+#: optionpanel/config.php:2603
+msgid "Fullscreen bar social links colors"
+msgstr ""
+
+#: optionpanel/config.php:2615
+msgid "Fullscreen bar social links border colors"
+msgstr ""
+
+#: optionpanel/config.php:2623
+msgid "Fullscreen bar social links background colors"
+msgstr ""
+
+#: optionpanel/config.php:2631
+msgid "Fullscreen bar social links border width"
+msgstr ""
+
+#: optionpanel/config.php:2641
+msgid "Fullscreen bar social links border radius"
+msgstr ""
+
+#: optionpanel/config.php:2651
+msgid "Toggle custom enovathemes language switcher in fullscreen header bar"
+msgstr ""
+
+#: optionpanel/config.php:2652
+msgid ""
+"Available with WPML installed and active. For styling options, please check "
+"\"Standard header\" section"
+msgstr ""
+
+#: optionpanel/config.php:2666
+msgid "Choose icons size"
+msgstr ""
+
+#: optionpanel/config.php:2678
+msgid "Fullscreen header bar background color"
+msgstr ""
+
+#: optionpanel/config.php:2688
+msgid "Fullscreen header bar border bottom color"
+msgstr ""
+
+#: optionpanel/config.php:2694
+msgid "Fullscreen menu options"
+msgstr ""
+
+#: optionpanel/config.php:2700
+msgid "Fullscreen menu links color"
+msgstr ""
+
+#: optionpanel/config.php:2712
+msgid "Fullscreen menu typography"
+msgstr ""
+
+#: optionpanel/config.php:2735
+msgid "Fullscreen menu effect color"
+msgstr ""
+
+#: optionpanel/config.php:2746
+msgid "Fullscreen modal logo upload"
+msgstr ""
+
+#: optionpanel/config.php:2753
+msgid "Fullscreen modal retina logo upload"
+msgstr ""
+
+#: optionpanel/config.php:2759
+msgid "Fullscreen menu modal background color"
+msgstr ""
+
+#: optionpanel/config.php:2766
+msgid "Fullscreen menu modal background transparency"
+msgstr ""
+
+#: optionpanel/config.php:2776
+msgid "Sticky fullscreen bar options"
+msgstr ""
+
+#: optionpanel/config.php:2782
+msgid "Sticky fullscreen header bar height"
+msgstr ""
+
+#: optionpanel/config.php:2792
+msgid "Choose sticky fullscreen header bar icons color"
+msgstr ""
+
+#: optionpanel/config.php:2800
+msgid "Sticky fullscreen bar social links colors"
+msgstr ""
+
+#: optionpanel/config.php:2808
+msgid "Sticky fullscreen bar social links border colors"
+msgstr ""
+
+#: optionpanel/config.php:2816
+msgid "Sticky fullscreen bar social links background colors"
+msgstr ""
+
+#: optionpanel/config.php:2824
+msgid "Sticky fullscreen header bar background color"
+msgstr ""
+
+#: optionpanel/config.php:2830
+msgid "Sticky fullscreen header bar border bottom color"
+msgstr ""
+
+#: optionpanel/config.php:2840
+msgid "Footer menu"
+msgstr ""
+
+#: optionpanel/config.php:2846
+msgid "Footer menu colors"
+msgstr ""
+
+#: optionpanel/config.php:2857
+msgid "Footer menu typography"
+msgstr ""
+
+#: optionpanel/config.php:2858
+msgid "Adjust footer menu typography"
+msgstr ""
+
+#: optionpanel/config.php:2884
+msgid "Typography"
+msgstr ""
+
+#: optionpanel/config.php:2891
+msgid "Main typography"
+msgstr ""
+
+#: optionpanel/config.php:2917
+msgid "Headings typography"
+msgstr ""
+
+#: optionpanel/config.php:2943
+msgid "H1 typography"
+msgstr ""
+
+#: optionpanel/config.php:2966
+msgid "H2 typography"
+msgstr ""
+
+#: optionpanel/config.php:2989
+msgid "H3 typography"
+msgstr ""
+
+#: optionpanel/config.php:3012
+msgid "H4 typography"
+msgstr ""
+
+#: optionpanel/config.php:3035
+msgid "H5 typography"
+msgstr ""
+
+#: optionpanel/config.php:3058
+msgid "H6 typography"
+msgstr ""
+
+#: optionpanel/config.php:3084
+msgid "Social"
+msgstr ""
+
+#: optionpanel/config.php:3092
+msgid "Recent tweets consumer key"
+msgstr ""
+
+#: optionpanel/config.php:3099
+msgid "Recent tweets consumer secret"
+msgstr ""
+
+#: optionpanel/config.php:3100
+msgid "Enter your consumer key here"
+msgstr ""
+
+#: optionpanel/config.php:3107
+msgid "Recent tweets access token"
+msgstr ""
+
+#: optionpanel/config.php:3108
+msgid "Enter your access token here"
+msgstr ""
+
+#: optionpanel/config.php:3115
+msgid "Recent tweets access token secret"
+msgstr ""
+
+#: optionpanel/config.php:3116
+msgid "Enter your access token secret here"
+msgstr ""
+
+#: optionpanel/config.php:3123
+msgid "Facebook URL"
+msgstr ""
+
+#: optionpanel/config.php:3131
+msgid "Twitter URL"
+msgstr ""
+
+#: optionpanel/config.php:3139
+msgid "Google Plus URL"
+msgstr ""
+
+#: optionpanel/config.php:3147
+msgid "VK URL"
+msgstr ""
+
+#: optionpanel/config.php:3155
+msgid "Yotube URL"
+msgstr ""
+
+#: optionpanel/config.php:3163
+msgid "Vimeo URL"
+msgstr ""
+
+#: optionpanel/config.php:3171
+msgid "LinkedIn URL"
+msgstr ""
+
+#: optionpanel/config.php:3179
+msgid "Pinterest URL"
+msgstr ""
+
+#: optionpanel/config.php:3187
+msgid "Tripadviser URL"
+msgstr ""
+
+#: optionpanel/config.php:3195
+msgid "Instagram URL"
+msgstr ""
+
+#: optionpanel/config.php:3203
+msgid "Apple URL"
+msgstr ""
+
+#: optionpanel/config.php:3211
+msgid "Dribbble URL"
+msgstr ""
+
+#: optionpanel/config.php:3219
+msgid "Android URL"
+msgstr ""
+
+#: optionpanel/config.php:3227
+msgid "Behance URL"
+msgstr ""
+
+#: optionpanel/config.php:3235
+msgid "Email URL"
+msgstr ""
+
+#: optionpanel/config.php:3260
+msgid "Sidebar padding"
+msgstr ""
+
+#: optionpanel/config.php:3273
+msgid "Sidebar width"
+msgstr ""
+
+#: optionpanel/config.php:3283
+msgid "Choose sidebar alignment"
+msgstr ""
+
+#: optionpanel/config.php:3305
+msgid "Forms"
+msgstr ""
+
+#: optionpanel/config.php:3314
+msgid "General styles"
+msgstr ""
+
+#: optionpanel/config.php:3320 optionpanel/config.php:3451
+#: optionpanel/config.php:3528
+msgid "Forms fields text colors"
+msgstr ""
+
+#: optionpanel/config.php:3331 optionpanel/config.php:3462
+#: optionpanel/config.php:3539
+msgid "Forms fields background colors"
+msgstr ""
+
+#: optionpanel/config.php:3342 optionpanel/config.php:3473
+#: optionpanel/config.php:3550
+msgid "Forms fields border colors"
+msgstr ""
+
+#: optionpanel/config.php:3353
+msgid "Button typography"
+msgstr ""
+
+#: optionpanel/config.php:3378
+msgid "Button border radius"
+msgstr ""
+
+#: optionpanel/config.php:3387
+msgid "Button size"
+msgstr ""
+
+#: optionpanel/config.php:3400 optionpanel/config.php:3486
+#: optionpanel/config.php:3563
+msgid "Button background colors"
+msgstr ""
+
+#: optionpanel/config.php:3411 optionpanel/config.php:3497
+#: optionpanel/config.php:3574
+msgid "Button text colors"
+msgstr ""
+
+#: optionpanel/config.php:3420
+msgid "Button border width"
+msgstr ""
+
+#: optionpanel/config.php:3431 optionpanel/config.php:3508
+#: optionpanel/config.php:3585
+msgid "Button border colors"
+msgstr ""
+
+#: optionpanel/config.php:3445
+msgid "Footer styles"
+msgstr ""
+
+#: optionpanel/config.php:3522
+msgid "Sidebar styles"
+msgstr ""
+
+#: optionpanel/config.php:3599
+msgid "Widgets styling"
+msgstr ""
+
+#: optionpanel/config.php:3607
+msgid "Sidebar widgets styling"
+msgstr ""
+
+#: optionpanel/config.php:3612 optionpanel/config.php:3641
+msgid "Widgets text color"
+msgstr ""
+
+#: optionpanel/config.php:3618 optionpanel/config.php:3647
+msgid "Widgets titles color"
+msgstr ""
+
+#: optionpanel/config.php:3626 optionpanel/config.php:3655
+msgid "Widgets link colors"
+msgstr ""
+
+#: optionpanel/config.php:3636
+msgid "Footer widgets styling"
+msgstr ""
+
+#: optionpanel/config.php:3677 optionpanel/config.php:3683
+msgid "Blog title section"
+msgstr ""
+
+#: optionpanel/config.php:3684
+msgid "Toggle blog title section fot non-slider blogs."
+msgstr ""
+
+#: optionpanel/config.php:3690
+msgid "Blog title"
+msgstr ""
+
+#: optionpanel/config.php:3697
+msgid "Blog subtitle"
+msgstr ""
+
+#: optionpanel/config.php:3704
+msgid "Blog title section background options"
+msgstr ""
+
+#: optionpanel/config.php:3718
+msgid "Blog title section parallax"
+msgstr ""
+
+#: optionpanel/config.php:3719 optionpanel/config.php:4046
+#: optionpanel/config.php:4460
+msgid ""
+"Works with background image set, and \"Background attachment\" option set to "
+"\"Cover\""
+msgstr ""
+
+#: optionpanel/config.php:3726
+msgid "Blog title section overlay"
+msgstr ""
+
+#: optionpanel/config.php:3733
+msgid "Blog title color"
+msgstr ""
+
+#: optionpanel/config.php:3743
+msgid "Blog title background color"
+msgstr ""
+
+#: optionpanel/config.php:3753
+msgid "Blog subtitle color"
+msgstr ""
+
+#: optionpanel/config.php:3763
+msgid "Blog subtitle background color"
+msgstr ""
+
+#: optionpanel/config.php:3773 optionpanel/config.php:4100
+#: optionpanel/config.php:4514
+msgid "Breadcrumbs"
+msgstr ""
+
+#: optionpanel/config.php:3774
+msgid "Toggle blog-breadcrumbs on blog title sections"
+msgstr ""
+
+#: optionpanel/config.php:3785
+msgid "Blog loop layout"
+msgstr ""
+
+#: optionpanel/config.php:3793
+msgid "Blog area padding"
+msgstr ""
+
+#: optionpanel/config.php:3805
+msgid "Blog container"
+msgstr ""
+
+#: optionpanel/config.php:3806 optionpanel/config.php:4547
+msgid ""
+"Boxed container allows you to display posts aligned with the main container. "
+"Full container allows to display your posts in wide area. (Wide container does "
+"not work with sidebar enabled). Important! Wide container works only for desktop"
+msgstr ""
+
+#: optionpanel/config.php:3816
+msgid "Blog sidebar position"
+msgstr ""
+
+#: optionpanel/config.php:3827 optionpanel/config.php:3828
+msgid "Blog navigation"
+msgstr ""
+
+#: optionpanel/config.php:3839 optionpanel/config.php:3840
+msgid "Blog navigation alignment"
+msgstr ""
+
+#: optionpanel/config.php:3855
+msgid "Blog loop post layout"
+msgstr ""
+
+#: optionpanel/config.php:3861
+msgid "Blog post layout"
+msgstr ""
+
+#: optionpanel/config.php:3896
+msgid "Reset posts sizes to original"
+msgstr ""
+
+#: optionpanel/config.php:3897
+msgid "Toggle this option if you want to reset posts sizes in your Masonry2 layout"
+msgstr ""
+
+#: optionpanel/config.php:3904
+msgid "Blog post size"
+msgstr ""
+
+#: optionpanel/config.php:3906 optionpanel/config.php:4225
+#: optionpanel/config.php:4642 optionpanel/config.php:4654
+msgid "Small (1/4 - 25%)"
+msgstr ""
+
+#: optionpanel/config.php:3907 optionpanel/config.php:4226
+#: optionpanel/config.php:4643 optionpanel/config.php:4655
+msgid "Medium (1/3 - 33%)"
+msgstr ""
+
+#: optionpanel/config.php:3908 optionpanel/config.php:4227
+#: optionpanel/config.php:4644 optionpanel/config.php:4656
+msgid "Large (1/2 - 50%)"
+msgstr ""
+
+#: optionpanel/config.php:3916
+msgid "Blog post animation effect"
+msgstr ""
+
+#: optionpanel/config.php:3927
+msgid "Blog hover effect"
+msgstr ""
+
+#: optionpanel/config.php:3940
+msgid "Blog post excerpt length"
+msgstr ""
+
+#: optionpanel/config.php:3949
+msgid "Blog post title minimum height"
+msgstr ""
+
+#: optionpanel/config.php:3962
+msgid "Blog single layout"
+msgstr ""
+
+#: optionpanel/config.php:3968
+msgid "Blog single post sidebar position"
+msgstr ""
+
+#: optionpanel/config.php:3979
+msgid "Blog single post social share"
+msgstr ""
+
+#: optionpanel/config.php:3985
+msgid "Related posts"
+msgstr ""
+
+#: optionpanel/config.php:3995 project/project.php:9 project/project.php:20
+msgid "Project"
+msgstr ""
+
+#: optionpanel/config.php:4004 optionpanel/config.php:4010
+msgid "Project title section"
+msgstr ""
+
+#: optionpanel/config.php:4011
+msgid "Toggle project title section fot non-slider projects."
+msgstr ""
+
+#: optionpanel/config.php:4017
+msgid "Project title"
+msgstr ""
+
+#: optionpanel/config.php:4024
+msgid "Project subtitle"
+msgstr ""
+
+#: optionpanel/config.php:4031
+msgid "Project title section background options"
+msgstr ""
+
+#: optionpanel/config.php:4045
+msgid "Project title section parallax"
+msgstr ""
+
+#: optionpanel/config.php:4053
+msgid "Project title section overlay"
+msgstr ""
+
+#: optionpanel/config.php:4060
+msgid "Project title section title color"
+msgstr ""
+
+#: optionpanel/config.php:4070
+msgid "Project title section title background color"
+msgstr ""
+
+#: optionpanel/config.php:4080
+msgid "Project title section subtitle color"
+msgstr ""
+
+#: optionpanel/config.php:4090
+msgid "Project title section subtitle background color"
+msgstr ""
+
+#: optionpanel/config.php:4101
+msgid "Toggle breadcrumbs on project title sections"
+msgstr ""
+
+#: optionpanel/config.php:4112
+msgid "Project loop layout"
+msgstr ""
+
+#: optionpanel/config.php:4120
+msgid "Project area padding"
+msgstr ""
+
+#: optionpanel/config.php:4132
+msgid "Project container"
+msgstr ""
+
+#: optionpanel/config.php:4133
+msgid ""
+"Boxed container allows you to display projects aligned with the main container. "
+"Full container allows to display your projects in wide area. Important! Wide "
+"container works only for desktop"
+msgstr ""
+
+#: optionpanel/config.php:4143
+msgid "Project AJAX filter"
+msgstr ""
+
+#: optionpanel/config.php:4144
+msgid ""
+"Toggle this option if you want to have AJAX powered filter for your projects"
+msgstr ""
+
+#: optionpanel/config.php:4150
+msgid "Projects per page"
+msgstr ""
+
+#: optionpanel/config.php:4159 optionpanel/config.php:4160
+msgid "Project navigation"
+msgstr ""
+
+#: optionpanel/config.php:4171 optionpanel/config.php:4172
+msgid "Project navigation alignment"
+msgstr ""
+
+#: optionpanel/config.php:4187
+msgid "Project loop item layout"
+msgstr ""
+
+#: optionpanel/config.php:4223
+msgid "Project size"
+msgstr ""
+
+#: optionpanel/config.php:4234
+msgid "Project layout type"
+msgstr ""
+
+#: optionpanel/config.php:4244
+msgid "Reset projects sizes to original"
+msgstr ""
+
+#: optionpanel/config.php:4245
+msgid ""
+"Toggle this option if you want to reset projects sizes in your Masonry layout"
+msgstr ""
+
+#: optionpanel/config.php:4252
+msgid "Project animation effect"
+msgstr ""
+
+#: optionpanel/config.php:4263
+msgid "Project gap"
+msgstr ""
+
+#: optionpanel/config.php:4269 optionpanel/config.php:4282
+#: optionpanel/config.php:4294
+msgid "Project hover effect"
+msgstr ""
+
+#: optionpanel/config.php:4328
+msgid "Project single layout"
+msgstr ""
+
+#: optionpanel/config.php:4334
+msgid "Single project gallery grid/masonry layout animation effect"
+msgstr ""
+
+#: optionpanel/config.php:4345
+msgid "Single project gallery grid/masonry hover effect"
+msgstr ""
+
+#: optionpanel/config.php:4358
+msgid "Single project social share"
+msgstr ""
+
+#: optionpanel/config.php:4364 project/content-project-single-code.php:153
+msgid "Related projects"
+msgstr ""
+
+#: optionpanel/config.php:4374 optionpanel/config.php:4387
+msgid "Project slug"
+msgstr ""
+
+#: optionpanel/config.php:4382
+msgid "Important! Don't forget to update/resave permalinks after the slug change"
+msgstr ""
+
+#: optionpanel/config.php:4393
+msgid "Project category slug"
+msgstr ""
+
+#: optionpanel/config.php:4399
+msgid "Project tag slug"
+msgstr ""
+
+#: optionpanel/config.php:4409
+msgid "Shop"
+msgstr ""
+
+#: optionpanel/config.php:4418 optionpanel/config.php:4424
+msgid "Shop title section"
+msgstr ""
+
+#: optionpanel/config.php:4425
+msgid "Toggle product title section fot non-slider products."
+msgstr ""
+
+#: optionpanel/config.php:4431
+msgid "Product title"
+msgstr ""
+
+#: optionpanel/config.php:4438
+msgid "Product subtitle"
+msgstr ""
+
+#: optionpanel/config.php:4445
+msgid "Shop title section background options"
+msgstr ""
+
+#: optionpanel/config.php:4459
+msgid "Shop title section parallax"
+msgstr ""
+
+#: optionpanel/config.php:4467
+msgid "Product title section overlay"
+msgstr ""
+
+#: optionpanel/config.php:4474
+msgid "Shop title section title color"
+msgstr ""
+
+#: optionpanel/config.php:4484
+msgid "Shop title section title background color"
+msgstr ""
+
+#: optionpanel/config.php:4494
+msgid "Shop title section subtitle color"
+msgstr ""
+
+#: optionpanel/config.php:4504
+msgid "Shop title section subtitle background color"
+msgstr ""
+
+#: optionpanel/config.php:4515
+msgid "Toggle breadcrumbs on product title sections"
+msgstr ""
+
+#: optionpanel/config.php:4526
+msgid "Shop loop layout"
+msgstr ""
+
+#: optionpanel/config.php:4534
+msgid "Shop area padding"
+msgstr ""
+
+#: optionpanel/config.php:4546
+msgid "Shop container"
+msgstr ""
+
+#: optionpanel/config.php:4557 optionpanel/config.php:4716
+msgid "Shop sidebar position"
+msgstr ""
+
+#: optionpanel/config.php:4568
+msgid "Shop AJAX filter"
+msgstr ""
+
+#: optionpanel/config.php:4569
+msgid ""
+"Toggle this option if you want to have AJAX powered filter for your products"
+msgstr ""
+
+#: optionpanel/config.php:4570
+msgid ""
+"Make sure the products display option is set to \"Products\" (go to Appearance "
+">> Customize >> Woocommerce)"
+msgstr ""
+
+#: optionpanel/config.php:4576
+msgid "Products per page"
+msgstr ""
+
+#: optionpanel/config.php:4585 optionpanel/config.php:4586
+msgid "Shop navigation"
+msgstr ""
+
+#: optionpanel/config.php:4597 optionpanel/config.php:4598
+msgid "Shop navigation alignment"
+msgstr ""
+
+#: optionpanel/config.php:4613
+msgid "Shop loop product layout"
+msgstr ""
+
+#: optionpanel/config.php:4620
+msgid "Product layout"
+msgstr ""
+
+#: optionpanel/config.php:4640
+msgid "Product size"
+msgstr ""
+
+#: optionpanel/config.php:4651
+msgid "Product category size"
+msgstr ""
+
+#: optionpanel/config.php:4652
+msgid ""
+"Make sure you have set the \"Shop page display\" to \"Show categories\"/\"Show "
+"both\" from the Woocommerce settings >> Product >> Display"
+msgstr ""
+
+#: optionpanel/config.php:4663
+msgid "Product animation effect"
+msgstr ""
+
+#: optionpanel/config.php:4674
+msgid "Product hover effect"
+msgstr ""
+
+#: optionpanel/config.php:4688
+msgid "Product quick look modal width"
+msgstr ""
+
+#: optionpanel/config.php:4697
+msgid "Product quick look modal height"
+msgstr ""
+
+#: optionpanel/config.php:4710
+msgid "Shop single layout"
+msgstr ""
+
+#: optionpanel/config.php:4729
+msgid ""
+"Sidebar and \"Single product layout center mode\" are not compatible, please "
+"either select sidebar with another product layout or use \"Single product layout "
+"center mode\" without sidebar"
+msgstr ""
+
+#: optionpanel/config.php:4735
+msgid "Single product layout"
+msgstr ""
+
+#: optionpanel/config.php:4755
+msgid "Use original image size?"
+msgstr ""
+
+#: optionpanel/config.php:4756
+msgid ""
+"Activate this option if you want to original image size in the single product "
+"page, otherwise images will be cropped"
+msgstr ""
+
+#: optionpanel/config.php:4762
+msgid "Social share"
+msgstr ""
+
+#: optionpanel/config.php:4768
+msgid "Related products"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:452
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:460
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: optionpanel/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: optionpanel/core/enqueue.php:476
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would you "
+"like to proceed?"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:484
+msgid ""
+"Your current options will be replaced with the values of this import. Would you "
+"like to proceed?"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:493
+msgid "Please Wait"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:504
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: optionpanel/core/enqueue.php:505
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: optionpanel/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: optionpanel/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: optionpanel/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: optionpanel/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: optionpanel/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: optionpanel/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: optionpanel/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: optionpanel/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: optionpanel/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be the "
+"reason. Ensure you update or remove them."
+msgstr ""
+
+#: optionpanel/framework.php:221
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: optionpanel/framework.php:221 optionpanel/inc/welcome/welcome.php:203
+msgid "Redux Framework"
+msgstr ""
+
+#: optionpanel/framework.php:225 optionpanel/framework.php:229
+msgid "Options"
+msgstr ""
+
+#: optionpanel/framework.php:1746
+msgid "Enable"
+msgstr ""
+
+#: optionpanel/framework.php:1751
+msgid "Disable"
+msgstr ""
+
+#: optionpanel/framework.php:1757
+msgid "moving the mouse over"
+msgstr ""
+
+#: optionpanel/framework.php:1759
+msgid "clicking"
+msgstr ""
+
+#: optionpanel/framework.php:1763
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using the "
+"link below."
+msgstr ""
+
+#: optionpanel/framework.php:1768
+msgid "Hints"
+msgstr ""
+
+#: optionpanel/framework.php:1895
+msgid "Default"
+msgstr ""
+
+#: optionpanel/framework.php:2775
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: optionpanel/framework.php:2784
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: optionpanel/framework.php:2864
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: optionpanel/framework.php:3984
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: optionpanel/framework.php:4000
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  This "
+"is sample data.  Please change or remove this data before shipping your product."
+msgstr ""
+
+#: optionpanel/inc/class.redux_admin_notices.php:111
+msgid "Dismiss"
+msgstr ""
+
+#: optionpanel/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: optionpanel/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s\" "
+"target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the our "
+"CDN and avoid this warning"
+msgstr ""
+
+#: optionpanel/inc/class.redux_cdn.php:79
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: optionpanel/inc/class.redux_cdn.php:79
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: optionpanel/inc/class.redux_cdn.php:115
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: optionpanel/inc/class.redux_filesystem.php:50
+#: optionpanel/inc/class.redux_filesystem.php:289
+msgid "File Permission Issues"
+msgstr ""
+
+#: optionpanel/inc/class.redux_filesystem.php:50
+#: optionpanel/inc/class.redux_filesystem.php:289
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> has "
+"the proper read-write permissions, or modify your wp-config.php file to contain "
+"your FTP login credentials as <a href=\"%2s\" target=\"_blank\">outlined here</"
+"a>."
+msgstr ""
+
+#: optionpanel/inc/class.redux_helpers.php:622
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. "
+"The core version is %s"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would you "
+"like to proceed?"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_panel.php:114
+#: optionpanel/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_panel.php:138
+#: optionpanel/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: optionpanel/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options from a "
+"backup."
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the options "
+"from that site."
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as you "
+"can use it as a backup should anything go wrong, or you can use it to restore "
+"your settings on this site (or any other site)."
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: optionpanel/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: optionpanel/inc/extensions/options_object/extension_options_object.php:82
+#: optionpanel/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: optionpanel/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:124
+#: optionpanel/inc/fields/color/field_color.php:73
+#: optionpanel/inc/fields/color_gradient/field_color_gradient.php:79
+#: optionpanel/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:277
+#: optionpanel/inc/fields/media/field_media.php:153
+msgid "No media selected"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:314
+#: optionpanel/inc/fields/media/field_media.php:206
+#: optionpanel/inc/fields/slides/field_slides.php:126
+#: optionpanel/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: optionpanel/inc/fields/background/field_background.php:321
+#: optionpanel/inc/fields/media/field_media.php:213
+#: optionpanel/inc/fields/multi_text/field_multi_text.php:72
+#: optionpanel/inc/fields/multi_text/field_multi_text.php:79
+#: optionpanel/inc/fields/multi_text/field_multi_text.php:89
+#: optionpanel/inc/fields/slides/field_slides.php:133
+#: optionpanel/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: optionpanel/inc/fields/border/field_border.php:125
+#: optionpanel/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: optionpanel/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: optionpanel/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: optionpanel/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: optionpanel/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr ""
+
+#: optionpanel/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr ""
+
+#: optionpanel/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr ""
+
+#: optionpanel/inc/fields/dimensions/field_dimensions.php:156
+msgid "Width"
+msgstr ""
+
+#: optionpanel/inc/fields/dimensions/field_dimensions.php:172
+#: optionpanel/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: optionpanel/inc/fields/dimensions/field_dimensions.php:183
+#: optionpanel/inc/fields/dimensions/field_dimensions.php:184
+#: optionpanel/inc/fields/spacing/field_spacing.php:245
+#: optionpanel/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: optionpanel/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: optionpanel/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: optionpanel/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr ""
+
+#: optionpanel/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr ""
+
+#: optionpanel/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr ""
+
+#: optionpanel/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr ""
+
+#: optionpanel/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: optionpanel/inc/fields/password/field_password.php:62
+#: widgets/custom-reglog.php:32
+msgid "Password"
+msgstr ""
+
+#: optionpanel/inc/fields/password/field_password.php:63
+#: widgets/custom-reglog.php:31
+msgid "Username"
+msgstr ""
+
+#: optionpanel/inc/fields/select/field_select.php:83
+#: optionpanel/inc/fields/select_image/field_select_image.php:54
+msgid "Select an item"
+msgstr ""
+
+#: optionpanel/inc/fields/select/field_select.php:134
+#: optionpanel/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:73
+#: optionpanel/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:149
+#: optionpanel/inc/fields/slides/field_slides.php:204
+#: project/content-project-single-details.php:14
+msgid "Description"
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:153
+#: optionpanel/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:167
+#: optionpanel/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: optionpanel/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: optionpanel/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: optionpanel/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:258
+#: optionpanel/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:273
+#: optionpanel/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:342
+#: optionpanel/inc/fields/typography/field_typography.php:343
+#: optionpanel/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:365
+#: optionpanel/inc/fields/typography/field_typography.php:366
+#: optionpanel/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:388
+#: optionpanel/inc/fields/typography/field_typography.php:389
+#: optionpanel/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:408
+#: optionpanel/inc/fields/typography/field_typography.php:409
+#: optionpanel/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:432
+#: optionpanel/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:441
+#: optionpanel/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:450
+#: optionpanel/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:459
+#: optionpanel/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:913
+msgid "Standard Fonts"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography.php:1014
+msgid "Google Webfonts"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography_json.min.js:1
+msgid "#"
+msgstr ""
+
+#: optionpanel/inc/fields/typography/field_typography_json.min.js:1
+msgid "."
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are submitting "
+"to WordPress.org Theme Repository, it is <strong>strongly</strong> suggested "
+"that you read <a href=\"%s\" target=\"_blank\">this document</a>, or your theme "
+"will be rejected because of Redux."
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete <strong> %s "
+"</strong>, or your theme will be rejected by WP.org theme submission because of "
+"Redux."
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected because "
+"of your Redux configuration."
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: optionpanel/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. You "
+"need only embed the <strong>ReduxCore</strong> folder. Embedding anything else "
+"will get your rejected from theme submission. Suspected Redux package file(s):"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage stats "
+"so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: optionpanel/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: optionpanel/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized boilerplate "
+"theme or a standalone admin folder complete with all things Redux (with the help "
+"of Underscores and TGM). Save yourself a headache and try it today."
+msgstr ""
+
+#: optionpanel/inc/tracking.php:154 optionpanel/inc/welcome/welcome.php:227
+msgid "Redux Extensions"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of Redux?  "
+"Visit our %1$s to learn more!"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: optionpanel/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:159
+msgid "Email Address"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:163 shortcodes/shortcodes.php:3357
+#: widgets/custom-mailchimp.php:37 widgets/custom-mailchimp.php:48
+msgid "Subscribe"
+msgstr ""
+
+#: optionpanel/inc/tracking.php:175
+msgid "Close"
+msgstr ""
+
+#: optionpanel/inc/validation/color/validation_color.php:15
+#: optionpanel/inc/validation/color_rgba/validation_color_rgba.php:14
+#: optionpanel/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: optionpanel/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: optionpanel/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: optionpanel/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: optionpanel/inc/validation/email/validation_email.php:16
+#: optionpanel/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: optionpanel/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: optionpanel/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special characters "
+"have been removed."
+msgstr ""
+
+#: optionpanel/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: optionpanel/inc/validation/numeric/validation_numeric.php:16
+#: optionpanel/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: optionpanel/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for use."
+msgstr ""
+
+#: optionpanel/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge step "
+"forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:8
+#: optionpanel/inc/welcome/views/changelog.php:10
+#: optionpanel/inc/welcome/views/credits.php:10
+#: optionpanel/inc/welcome/views/extensions.php:81
+#: optionpanel/inc/welcome/views/status_report.php:34
+#: optionpanel/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/changelog.php:5
+#: optionpanel/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of thousands "
+"of instances worldwide, you can be assured that we will take care of you and "
+"your clients."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank all of "
+"those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your name "
+"listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features that "
+"will take your products to the next level."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting support:"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. This "
+"directory must be writable."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" target="
+"\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:356
+#: optionpanel/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single operation "
+"before timing out (to avoid server lockups)"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was designed "
+"to protect your servers on the one hand against a number of well known problems "
+"in PHP applications and on the other hand against potential unknown "
+"vulnerabilities within these applications or the PHP core itself.  If enabled on "
+"your server, Suhosin may need to be configured to increase its data submission "
+"limits."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:405
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact your "
+"hosting provider."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:482
+#: optionpanel/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote servers. "
+"Contact your hosting provider."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:553
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access the "
+"options panel for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item for "
+"this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled for "
+"this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated for "
+"the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this instance "
+"of Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:715
+msgid "Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target=\"_blank"
+"\">How to create a child theme</a>"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control panels."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:19
+#: optionpanel/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:21
+#: optionpanel/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to remedy "
+"your issue. This action WILL send information securely to a remote server. To "
+"see the type of information sent, please look at the  <a href=\"%s\">Status tab</"
+"a>."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site that "
+"utilize Redux Framework. We do not directly support products created with our "
+"framework.  It is the responsibility of the plugin or theme developer to support "
+"their work. You will need to contact the author(s) of the products listed below "
+"with your support questions."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the Support "
+"URL in the box below."
+msgstr ""
+
+#: optionpanel/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target=\"_blank"
+"\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:104
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://wordpress."
+"org/support/view/plugin-reviews/redux-framework?filter=5#postform\" target="
+"\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux in advance!"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:181
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:203
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:211
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:219
+msgid "Get Support"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:236
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:244
+msgid "Redux Framework Status"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:344
+msgid "What's New"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:347
+msgid "Extensions"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:350
+msgid "Changelog"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:353
+msgid "Credits"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:356
+msgid "Support"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:359
+msgid "Status"
+msgstr ""
+
+#: optionpanel/inc/welcome/welcome.php:519
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: optionpanel/templates/panel/footer.tpl.php:57
+#: optionpanel/templates/panel/header_stickybar.tpl.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: optionpanel/templates/panel/footer.tpl.php:62
+#: optionpanel/templates/panel/header_stickybar.tpl.php:27
+msgid "Reset Section"
+msgstr ""
+
+#: optionpanel/templates/panel/footer.tpl.php:64
+#: optionpanel/templates/panel/header_stickybar.tpl.php:29
+msgid "Reset All"
+msgstr ""
+
+#: optionpanel/templates/panel/footer.tpl.php:69
+#: optionpanel/templates/panel/header_stickybar.tpl.php:33
+msgid "Working..."
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:11
+#: optionpanel/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer mode "
+"enabled. Contact them directly to fix it."
+msgstr ""
+
+#: optionpanel/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: optionpanel/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: project/content-project-loop-code.php:90 shortcodes/shortcodes.php:5090
+#: shortcodes/shortcodes.php:5534
+msgid "Show All"
+msgstr ""
+
+#: project/content-project-loop-code.php:251
+#: project/content-project-loop-code.php:255
+#: project/content-project-loop-code.php:260
+#: project/content-project-loop-code.php:270
+#: project/content-project-loop-code.php:274
+#: project/content-project-loop-code.php:279
+#: project/content-project-loop-code.php:300
+#: project/content-project-single-code.php:255
+#: project/content-project-single-code.php:259
+#: project/content-project-single-code.php:264
+#: project/content-project-single-code.php:274
+#: project/content-project-single-code.php:278
+#: project/content-project-single-code.php:283
+#: project/content-project-single-code.php:308 shortcodes/shortcodes.php:4794
+#: shortcodes/shortcodes.php:4800 shortcodes/shortcodes.php:4840
+#: shortcodes/shortcodes.php:4855 shortcodes/shortcodes.php:5266
+#: shortcodes/shortcodes.php:5270 shortcodes/shortcodes.php:5275
+#: shortcodes/shortcodes.php:5285 shortcodes/shortcodes.php:5289
+#: shortcodes/shortcodes.php:5294 shortcodes/shortcodes.php:5313
+#: shortcodes/shortcodes.php:5704 shortcodes/shortcodes.php:6044
+#: shortcodes/shortcodes.php:6372 shortcodes/shortcodes.php:6696
+#: shortcodes/shortcodes.php:7024 shortcodes/shortcodes.php:7365
+#: shortcodes/shortcodes.php:7690 shortcodes/shortcodes.php:7961
+#: shortcodes/shortcodes.php:8259 shortcodes/shortcodes.php:8587
+msgid "Read more about"
+msgstr ""
+
+#: project/content-project-loop-code.php:271
+#: project/content-project-loop-code.php:275
+#: project/content-project-loop-code.php:280
+#: project/content-project-single-code.php:275
+#: project/content-project-single-code.php:279
+#: project/content-project-single-code.php:284
+#: project/content-project-single-details.php:22 shortcodes/shortcodes.php:5286
+#: shortcodes/shortcodes.php:5290 shortcodes/shortcodes.php:5295
+msgid "Details"
+msgstr ""
+
+#: project/content-project-loop-code.php:333
+msgid "Load more"
+msgstr ""
+
+#: project/content-project-loop-code.php:334
+#: project/content-project-loop-code.php:340
+msgid ""
+"Something went wrong, please try again later or contact the site administrator"
+msgstr ""
+
+#: project/content-project-single-code.php:56
+msgid "Previous project"
+msgstr ""
+
+#: project/content-project-single-code.php:58
+msgid "Next project"
+msgstr ""
+
+#: project/content-project-single-details.php:26
+msgid "Category:"
+msgstr ""
+
+#: project/content-project-single-details.php:37
+msgid "Share:"
+msgstr ""
+
+#: project/content-project-single-details.php:45
+msgid "Launch project"
+msgstr ""
+
+#: project/project.php:11
+msgid "Add new project"
+msgstr ""
+
+#: project/project.php:12
+msgid "Edit project"
+msgstr ""
+
+#: project/project.php:13
+msgid "New project"
+msgstr ""
+
+#: project/project.php:14
+msgid "All projects"
+msgstr ""
+
+#: project/project.php:15
+msgid "View project"
+msgstr ""
+
+#: project/project.php:16
+msgid "Search projects"
+msgstr ""
+
+#: project/project.php:17
+msgid "No projects found"
+msgstr ""
+
+#: project/project.php:18
+msgid "No projects found in trash"
+msgstr ""
+
+#: project/project.php:53 project/project.php:54
+msgid "Category"
+msgstr ""
+
+#: project/project.php:55
+msgid "Search category"
+msgstr ""
+
+#: project/project.php:56
+msgid "All categories"
+msgstr ""
+
+#: project/project.php:57 project/project.php:58
+msgid "Parent category"
+msgstr ""
+
+#: project/project.php:59
+msgid "Edit category"
+msgstr ""
+
+#: project/project.php:60
+msgid "Update category"
+msgstr ""
+
+#: project/project.php:61
+msgid "Add new category"
+msgstr ""
+
+#: project/project.php:62
+msgid "New category"
+msgstr ""
+
+#: project/project.php:63
+msgid "Categories"
+msgstr ""
+
+#: project/project.php:78
+msgid "Projects tags"
+msgstr ""
+
+#: project/project.php:79
+msgid "Projects tag"
+msgstr ""
+
+#: project/project.php:80
+msgid "Search project tags"
+msgstr ""
+
+#: project/project.php:81
+msgid "All project tags"
+msgstr ""
+
+#: project/project.php:82
+msgid "Parent project tags"
+msgstr ""
+
+#: project/project.php:83
+msgid "Parent project tag:"
+msgstr ""
+
+#: project/project.php:84
+msgid "Edit project tag"
+msgstr ""
+
+#: project/project.php:85
+msgid "Update project tag"
+msgstr ""
+
+#: project/project.php:86
+msgid "Add new project tag"
+msgstr ""
+
+#: project/project.php:87
+msgid "New project tag"
+msgstr ""
+
+#: project/project.php:88 project/project.php:106
+msgid "Tags"
+msgstr ""
+
+#: project/project.php:104 widgets/custom-instagram-widget.php:151
+msgid "Thumbnail"
+msgstr ""
+
+#: project/project.php:108
+msgid "Format"
+msgstr ""
+
+#: project/project.php:109
+msgid "Additional"
+msgstr ""
+
+#: project/project.php:127
+msgid " column"
+msgstr ""
+
+#: project/project.php:129
+msgid " columns"
+msgstr ""
+
+#: project/project.php:150
+msgid "No tags"
+msgstr ""
+
+#: project/project.php:166
+msgid "100% width"
+msgstr ""
+
+#: project/project.php:213
+msgid "Carousel + thumbs"
+msgstr ""
+
+#: shortcodes/shortcodes.php:125
+msgid "Invalid or empty email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:126
+msgid "Email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:130
+msgid "Please enter tracking number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:131
+msgid "Tracking number"
+msgstr ""
+
+#: shortcodes/shortcodes.php:140
+msgid "Track your cargo"
+msgstr ""
+
+#: shortcodes/shortcodes.php:143
+msgid "Your request is successfully sent"
+msgstr ""
+
+#: shortcodes/shortcodes.php:144
+msgid "Something went wrong. Your request was not send."
+msgstr ""
+
+#: shortcodes/shortcodes.php:2971
+msgid "Contacts"
+msgstr ""
+
+#: shortcodes/shortcodes.php:3025
+msgid "Send message"
+msgstr ""
+
+#: shortcodes/shortcodes.php:3356
+msgid "Enter your email"
+msgstr ""
+
+#: shortcodes/shortcodes.php:4776 shortcodes/shortcodes.php:4809
+#: shortcodes/shortcodes.php:4860
+msgid "Sticky post"
+msgstr ""
+
+#: shortcodes/shortcodes.php:4788 shortcodes/shortcodes.php:4833
+msgid ", "
+msgstr ""
+
+#: shortcodes/shortcodes.php:4800 shortcodes/shortcodes.php:4855
+msgid "Read more"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5368
+msgid "View your shopping cart"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5369
+msgid "Cart"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5378 shortcodes/shortcodes.php:5769
+#: shortcodes/shortcodes.php:6109 shortcodes/shortcodes.php:6437
+#: shortcodes/shortcodes.php:6761 shortcodes/shortcodes.php:7091
+#: shortcodes/shortcodes.php:7430 shortcodes/shortcodes.php:7761
+#: shortcodes/shortcodes.php:8024 shortcodes/shortcodes.php:8324
+#: shortcodes/shortcodes.php:8643 shortcodes/shortcodes.php:8741
+msgid ""
+"Woocommerce plugin is not installed/active, please install/activate Woocommerce "
+"plugin"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5605 shortcodes/shortcodes.php:5945
+#: shortcodes/shortcodes.php:6273 shortcodes/shortcodes.php:6597
+#: shortcodes/shortcodes.php:6925 shortcodes/shortcodes.php:7266
+#: shortcodes/shortcodes.php:7591 shortcodes/shortcodes.php:7862
+#: shortcodes/shortcodes.php:8160 shortcodes/shortcodes.php:8488
+msgid "Out of stock"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5608 shortcodes/shortcodes.php:5948
+#: shortcodes/shortcodes.php:6276 shortcodes/shortcodes.php:6600
+#: shortcodes/shortcodes.php:6928 shortcodes/shortcodes.php:7269
+#: shortcodes/shortcodes.php:7594 shortcodes/shortcodes.php:7865
+#: shortcodes/shortcodes.php:8163 shortcodes/shortcodes.php:8491
+msgid "Sale!"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5616 shortcodes/shortcodes.php:5956
+#: shortcodes/shortcodes.php:6284 shortcodes/shortcodes.php:6608
+#: shortcodes/shortcodes.php:6936 shortcodes/shortcodes.php:7277
+#: shortcodes/shortcodes.php:7602 shortcodes/shortcodes.php:7873
+#: shortcodes/shortcodes.php:8171 shortcodes/shortcodes.php:8499
+msgid "Product quick view"
+msgstr ""
+
+#: shortcodes/shortcodes.php:5616 shortcodes/shortcodes.php:5956
+#: shortcodes/shortcodes.php:6284 shortcodes/shortcodes.php:6608
+#: shortcodes/shortcodes.php:6936 shortcodes/shortcodes.php:7277
+#: shortcodes/shortcodes.php:7602 shortcodes/shortcodes.php:7873
+#: shortcodes/shortcodes.php:8171 shortcodes/shortcodes.php:8499
+msgid "Quick view"
+msgstr ""
+
+#: widgets/custom-contact-form.php:13
+msgid "* Fast Contact Form"
+msgstr ""
+
+#: widgets/custom-contact-form.php:14
+msgid "Fast Contact Form widget"
+msgstr ""
+
+#: widgets/custom-contact-form.php:23
+msgid "Send"
+msgstr ""
+
+#: widgets/custom-contact-form.php:37
+msgid "Please enter your name."
+msgstr ""
+
+#: widgets/custom-contact-form.php:38
+msgid "Your Name"
+msgstr ""
+
+#: widgets/custom-contact-form.php:42
+msgid "Invalid or empty email."
+msgstr ""
+
+#: widgets/custom-contact-form.php:43
+msgid "Your Email"
+msgstr ""
+
+#: widgets/custom-contact-form.php:47
+msgid "Please enter your message."
+msgstr ""
+
+#: widgets/custom-contact-form.php:48
+msgid "Write your message."
+msgstr ""
+
+#: widgets/custom-contact-form.php:55
+msgid "Your message successfully sent."
+msgstr ""
+
+#: widgets/custom-contact-form.php:56
+msgid "Something went wrong. Your message was not send."
+msgstr ""
+
+#: widgets/custom-contact-form.php:66
+msgid "Fast contact"
+msgstr ""
+
+#: widgets/custom-contact-form.php:67
+msgid "Contact us"
+msgstr ""
+
+#: widgets/custom-contact-form.php:74 widgets/custom-facebook.php:78
+#: widgets/custom-flickr.php:59 widgets/custom-mailchimp.php:58
+#: widgets/custom-recent-entries.php:120 widgets/custom-recent-project.php:114
+#: widgets/custom-reglog.php:63 widgets/custom-schedule.php:80
+#: widgets/custom-twitter.php:138
+msgid "Title:"
+msgstr ""
+
+#: widgets/custom-contact-form.php:78
+msgid "Submit button text:"
+msgstr ""
+
+#: widgets/custom-facebook.php:13
+msgid "* Facebook Like Box"
+msgstr ""
+
+#: widgets/custom-facebook.php:14
+msgid "Facebook Like Box widget"
+msgstr ""
+
+#: widgets/custom-facebook.php:65
+msgid "Find us on Facebook"
+msgstr ""
+
+#: widgets/custom-facebook.php:82
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: widgets/custom-facebook.php:86
+msgid "App ID from the app dashboard:"
+msgstr ""
+
+#: widgets/custom-facebook.php:91
+msgid "Show faces"
+msgstr ""
+
+#: widgets/custom-facebook.php:95
+msgid "Show border"
+msgstr ""
+
+#: widgets/custom-facebook.php:99
+msgid "Show stream"
+msgstr ""
+
+#: widgets/custom-facebook.php:103
+msgid "Show facebook header"
+msgstr ""
+
+#: widgets/custom-flickr.php:13
+msgid "* Photos from flickr"
+msgstr ""
+
+#: widgets/custom-flickr.php:14
+msgid "Display photos from flickr"
+msgstr ""
+
+#: widgets/custom-flickr.php:47
+msgid "Photos from flickr"
+msgstr ""
+
+#: widgets/custom-flickr.php:63
+msgid "Flickr Username:"
+msgstr ""
+
+#: widgets/custom-flickr.php:67
+msgid "Number of photos to show:"
+msgstr ""
+
+#: widgets/custom-flickr.php:71 widgets/custom-instagram-widget.php:166
+#: widgets/custom-recent-project.php:126
+msgid "Columns mobile:"
+msgstr ""
+
+#: widgets/custom-flickr.php:79 widgets/custom-instagram-widget.php:175
+#: widgets/custom-recent-project.php:134
+msgid "Columns tablet:"
+msgstr ""
+
+#: widgets/custom-flickr.php:87 widgets/custom-instagram-widget.php:184
+msgid "Columns desktop:"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:37 widgets/custom-instagram-widget.php:126
+msgid "Instagram"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:40
+msgid "Displays your latest Instagram photos"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:129
+msgid "Follow Me!"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:147
+msgid "@username or #tag"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:148
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:149
+msgid "Photo size"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:152
+msgid "Small"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:153
+msgid "Large"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:154
+msgid "Original"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:157
+msgid "Open links in"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:159
+msgid "Current window (_self)"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:160
+msgid "New window (_blank)"
+msgstr ""
+
+#: widgets/custom-instagram-widget.php:163
+msgid "Link text"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:13
+msgid "* Mailchimp"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:14
+msgid "MailChimp Signup Form"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:35
+msgid "Enter email"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:62
+msgid "Subtitle:"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:66
+msgid "Action:"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:70
+msgid "Name:"
+msgstr ""
+
+#: widgets/custom-mailchimp.php:74
+msgid "Description:"
+msgstr ""
+
+#: widgets/custom-recent-entries.php:11
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/custom-recent-entries.php:12
+msgid "*Recent Posts"
+msgstr ""
+
+#: widgets/custom-recent-entries.php:41
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/custom-recent-entries.php:123
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/custom-recent-project.php:13
+msgid "* Recent Projects"
+msgstr ""
+
+#: widgets/custom-recent-project.php:14
+msgid "Display recent project with thumbnails"
+msgstr ""
+
+#: widgets/custom-recent-project.php:103
+msgid "Recent project"
+msgstr ""
+
+#: widgets/custom-recent-project.php:118
+msgid "Number of project to show:"
+msgstr ""
+
+#: widgets/custom-recent-project.php:122
+msgid "Enter comma separated list of categories id to filter:"
+msgstr ""
+
+#: widgets/custom-recent-project.php:142
+msgid "Columns desk:"
+msgstr ""
+
+#: widgets/custom-reglog.php:13
+msgid "* Registration/Login form"
+msgstr ""
+
+#: widgets/custom-reglog.php:14
+msgid "Front-end registration/login form"
+msgstr ""
+
+#: widgets/custom-reglog.php:33
+msgid "Remember Me"
+msgstr ""
+
+#: widgets/custom-reglog.php:34
+msgid "Log In"
+msgstr ""
+
+#: widgets/custom-reglog.php:48
+msgid "Hello, "
+msgstr ""
+
+#: widgets/custom-reglog.php:49
+msgid "Logout"
+msgstr ""
+
+#: widgets/custom-reglog.php:57
+msgid "Login"
+msgstr ""
+
+#: widgets/custom-reglog.php:66
+msgid "This widget does not have any options"
+msgstr ""
+
+#: widgets/custom-schedule.php:13
+msgid "* Schedule"
+msgstr ""
+
+#: widgets/custom-schedule.php:14
+msgid "Schedule Form"
+msgstr ""
+
+#: widgets/custom-schedule.php:38
+msgid "Monday"
+msgstr ""
+
+#: widgets/custom-schedule.php:41
+msgid "Tuesday"
+msgstr ""
+
+#: widgets/custom-schedule.php:44
+msgid "Wednesday"
+msgstr ""
+
+#: widgets/custom-schedule.php:47
+msgid "Thursday"
+msgstr ""
+
+#: widgets/custom-schedule.php:50
+msgid "Friday"
+msgstr ""
+
+#: widgets/custom-schedule.php:53
+msgid "Saturday"
+msgstr ""
+
+#: widgets/custom-schedule.php:56
+msgid "Sunday"
+msgstr ""
+
+#: widgets/custom-schedule.php:67
+msgid "Schedule"
+msgstr ""
+
+#: widgets/custom-schedule.php:84
+msgid "Monday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:88
+msgid "Tuesday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:92
+msgid "Wednesday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:96
+msgid "Thursday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:100
+msgid "Friday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:104
+msgid "Saturday:"
+msgstr ""
+
+#: widgets/custom-schedule.php:108
+msgid "Sunday:"
+msgstr ""
+
+#: widgets/custom-twitter.php:18
+msgid "* Recent Tweets"
+msgstr ""
+
+#: widgets/custom-twitter.php:19
+msgid "Display tweets from twitter"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "second"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "minute"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "hour"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "day"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "week"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "month"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "year"
+msgstr ""
+
+#: widgets/custom-twitter.php:104
+msgid "decade"
+msgstr ""
+
+#: widgets/custom-twitter.php:128
+msgid "Recent Tweets"
+msgstr ""
+
+#: widgets/custom-twitter.php:135
+msgid "Find or Create your Twitter App"
+msgstr ""
+
+#: widgets/custom-twitter.php:143
+msgid "Twitter ID:"
+msgstr ""
+
+#: widgets/custom-twitter.php:147
+msgid "Number of Tweets:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:32
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+msgid "Quantity:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:94
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:107
+msgid "No products in the cart."
+msgstr ""

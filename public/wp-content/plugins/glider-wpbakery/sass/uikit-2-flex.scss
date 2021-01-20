@@ -1,0 +1,318 @@
+/**
+ * Glider Create a responsive carousel slider.
+ * Exclusively on Envato Market: https://1.envato.market/glider-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.1
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+
+@import "uikit-2-variables";
+
+// Name:            Flex
+// Description:     Defines styles to create layouts with flexbox
+
+/* ========================================================================
+   Component: Flex
+ ========================================================================== */
+
+.mdp-flex {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.mdp-flex-inline {
+    display: -ms-inline-flexbox;
+    display: -webkit-inline-flex;
+    display: inline-flex;
+}
+
+/*
+ * Fixes initial flex-shrink value in IE10
+ */
+
+.mdp-flex > *,
+.mdp-flex-inline > * { -ms-flex-negative: 1; }
+
+
+/* Alignment
+ ========================================================================== */
+
+/*
+ * Vertical alignment
+ * Default value is `stretch`
+ */
+
+// .mdp-flex-stretch { align-items: stretch; }
+
+.mdp-flex-top {
+    -ms-flex-align: start;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+}
+
+.mdp-flex-middle {
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.mdp-flex-bottom {
+    -ms-flex-align: end;
+    -webkit-align-items: flex-end;
+    align-items: flex-end;
+}
+
+/*
+ * Horizontal alignment
+ * Default value is `flex-start`
+ */
+
+// .mdp-flex-left { justify-content: flex-start; }
+
+.mdp-flex-center {
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.mdp-flex-right {
+    -ms-flex-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+
+.mdp-flex-space-between {
+    -ms-flex-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.mdp-flex-space-around {
+    -ms-flex-pack: distribute;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+}
+
+
+/* Direction
+ ========================================================================== */
+
+// .mdp-flex-row { flex-direction: row; }
+
+.mdp-flex-row-reverse {
+    -ms-flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+}
+
+.mdp-flex-column {
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+
+.mdp-flex-column-reverse {
+    -ms-flex-direction: column-reverse;
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+}
+
+
+/* Wrap
+ ========================================================================== */
+
+// Default
+.mdp-flex-nowrap {
+    -ms-flex-wrap: nowrap;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.mdp-flex-wrap {
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.mdp-flex-wrap-reverse {
+    -ms-flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+    flex-wrap: wrap-reverse;
+}
+
+/*
+ * Horizontal alignment
+ * Default value is `stretch`
+ */
+
+// .mdp-flex-wrap-stretch { align-content: stretch; }
+
+.mdp-flex-wrap-top {
+    -ms-flex-line-pack: start;
+    -webkit-align-content: flex-start;
+    align-content: flex-start;
+}
+
+.mdp-flex-wrap-middle {
+    -ms-flex-line-pack: center;
+    -webkit-align-content: center;
+    align-content: center;
+}
+
+.mdp-flex-wrap-bottom {
+    -ms-flex-line-pack: end;
+    -webkit-align-content: flex-end;
+    align-content: flex-end;
+}
+
+.mdp-flex-wrap-space-between {
+    -ms-flex-line-pack: justify;
+    -webkit-align-content: space-between;
+    align-content: space-between;
+}
+
+.mdp-flex-wrap-space-around {
+    -ms-flex-line-pack: distribute;
+    -webkit-align-content: space-around;
+    align-content: space-around;
+}
+
+
+/* Item ordering
+ ========================================================================== */
+
+/*
+ * Default is 0
+ */
+
+.mdp-flex-order-first {
+    -ms-flex-order: -1;
+    -webkit-order: -1;
+    order: -1;
+}
+
+.mdp-flex-order-last {
+    -ms-flex-order: 99;
+    -webkit-order: 99;
+    order: 99;
+}
+
+
+/* Phone landscape and bigger */
+@media (min-width: $breakpoint-small) {
+
+    .mdp-flex-order-first-small {
+        -ms-flex-order: -1;
+        -webkit-order: -1;
+        order: -1;
+    }
+
+    .mdp-flex-order-last-small {
+        -ms-flex-order: 99;
+        -webkit-order: 99;
+        order: 99;
+    }
+
+}
+
+/* Tablet and bigger */
+@media (min-width: $breakpoint-medium) {
+
+    .mdp-flex-order-first-medium {
+        -ms-flex-order: -1;
+        -webkit-order: -1;
+        order: -1;
+    }
+
+    .mdp-flex-order-last-medium {
+        -ms-flex-order: 99;
+        -webkit-order: 99;
+        order: 99;
+    }
+
+}
+
+/* Desktop and bigger */
+@media (min-width: $breakpoint-large) {
+
+    .mdp-flex-order-first-large {
+        -ms-flex-order: -1;
+        -webkit-order: -1;
+        order: -1;
+    }
+
+    .mdp-flex-order-last-large {
+        -ms-flex-order: 99;
+        -webkit-order: 99;
+        order: 99;
+    }
+
+}
+
+/* Large screen and bigger */
+@media (min-width: $breakpoint-xlarge) {
+
+    .mdp-flex-order-first-xlarge {
+        -ms-flex-order: -1;
+        -webkit-order: -1;
+        order: -1;
+    }
+
+    .mdp-flex-order-last-xlarge {
+        -ms-flex-order: 99;
+        -webkit-order: 99;
+        order: 99;
+    }
+
+}
+
+
+
+/* Item dimensions
+ ========================================================================== */
+
+/*
+ * Initial: 0 1 auto
+ * Content dimensions, but shrinks
+ */
+
+/*
+ * No Flex: 0 0 auto
+ * Content dimensions
+ */
+
+.mdp-flex-item-none {
+    -ms-flex: none;
+    -webkit-flex: none;
+    flex: none;
+}
+
+/*
+ * Relative Flex: 1 1 auto
+ * Space is allocated considering content
+ * 1. Fixes flex-shrink value in IE10
+ */
+
+.mdp-flex-item-auto {
+    -ms-flex: auto;
+    -webkit-flex: auto;
+    flex: auto;
+    /* 1 */
+    -ms-flex-negative: 1;
+}
+
+/*
+ * Absolute Flex: 1 1 0%
+ * Space is allocated solely based on flex
+ */
+
+.mdp-flex-item-1 {
+    -ms-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+}

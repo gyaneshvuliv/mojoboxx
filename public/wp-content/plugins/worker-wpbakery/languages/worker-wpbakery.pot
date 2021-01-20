@@ -1,0 +1,678 @@
+# Copyright (C) 2020 Worker for WPBakery
+# This file is distributed under the same license as the Worker for WPBakery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Worker for WPBakery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/worker-wpbakery/uninstall.php:148, wp-content/plugins/worker-wpbakery/worker-wpbakery.php:491, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/EnvatoItem.php:144, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Helper.php:263, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:432, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:202, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginUpdater.php:390, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:443, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:348, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/StatusTab.php:210, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UI.php:356, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:147, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:389
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/uninstall.php:163, wp-content/plugins/worker-wpbakery/worker-wpbakery.php:506, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/EnvatoItem.php:159, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Helper.php:278, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:447, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:220, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginUpdater.php:405, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:458, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:363, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/StatusTab.php:225, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UI.php:373, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:162, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:404
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:83
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:88
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:93
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:314
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:320
+msgid "CodeCanyon purchase code"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:321
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:350
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:354
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:357
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:358
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:359
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:360
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:361, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:395
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:367
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:371
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:372
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:373
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:379
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:383
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:389
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:393
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginActivation.php:394
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:124, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:124
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:125, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:125, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:155
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:126, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:126
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginHelper.php:147
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginUpdater.php:352
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginUpdater.php:354
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/PluginUpdater.php:356
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:74
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:75
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:76
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:78
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:79
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:80
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:81
+msgid "WPBakery Installed"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:147
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:173, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:197, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:221, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:246, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:271, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:296
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:173, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:197, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:221, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:246, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:271, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:296
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:199
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:223
+msgid "You need install and activate WPBakery builder. Go to WPBakery site (wpbakery.com) for details."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:248
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:273
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:298
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:343
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:351
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:357
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:368
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/ServerReporter.php:372
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:74
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:82
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:88
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:101
+msgid "WorkerWPBakery"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:104, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1308
+msgid "Worker"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:107
+msgid "ver."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:112
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:118
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:151
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:161
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:165
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:171
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:219
+msgid "Worker for WPBakery Settings"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:220
+msgid "Worker for WPBakery"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:264
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:269
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:295
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:306
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/Settings.php:311
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/StatusTab.php:176
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:77
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:100
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:101
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:105
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/UninstallTab.php:111
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:77
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:78
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:79
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:80
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:81
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:82
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:83
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:84
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:149
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:191, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:673, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:697, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:799, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1007, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1069, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1111, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1158, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1214, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1276
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:191
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:252
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:356
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WordPressReporter.php:356
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:92, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:157, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:479, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:859
+msgid "We are open."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:93, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:158, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:493, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:873
+msgid "Sorry, We are currently closed."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:99, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:164, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:581, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:961
+msgid "Your Custom Message"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:102, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:622
+msgid "Sunday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:103, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:623
+msgid "Monday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:104, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:624
+msgid "Tuesday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:105, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:625
+msgid "Wednesday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:106, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:626
+msgid "Thursday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:107, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:627
+msgid "Friday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:108, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:628
+msgid "Saturday"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:118, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:119, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:120, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:121, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:122, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:123, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:124, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:683
+msgid "Closed All Day"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:134, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:135, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:136, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:137, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:138, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:139, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:140, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:711
+msgid "Open 24 hours"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:152, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:809
+msgid "Special holiday hours in effect."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:444, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:824
+msgid "Content Type"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:445, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:463, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:478, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:492, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:506, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:524, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:538, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:551, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:566, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:580, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:594
+msgid "Header Content"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:446
+msgid "Select content to show in the header."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:448, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:828
+msgid "Nothing"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:449, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:829
+msgid "Current Date"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:450, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:830
+msgid "Current Status"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:451, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:505, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:831, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:885
+msgid "Icon"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:452, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:537, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:832, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:917
+msgid "Image"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:453, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:579, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:833, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:959
+msgid "Custom Message"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:462, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:842
+msgid "Date/Time Format"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:477, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:857
+msgid "Open Message"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:491, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:871
+msgid "Closed Message"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:523, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:903
+msgid "Icon Size"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:550, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:930
+msgid "Image size"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:553, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:933
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height))."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:565, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:945
+msgid "Image Width"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:593, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:973
+msgid "Position"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:596, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:976
+msgid "Top Left"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:597, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:977
+msgid "Top Center"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:598, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:978
+msgid "Top Right"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:599, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:979
+msgid "Center Left"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:600, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:980
+msgid "Center Center"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:601, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:981
+msgid "Center Right"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:602, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:982
+msgid "Bottom Left"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:603, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:983
+msgid "Bottom Center"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:604, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:984
+msgid "Bottom Right"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:647, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:657, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:671, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:682, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:696, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:710, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:724
+msgid "Business Hours"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:656
+msgid "Day Label:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:670
+msgid "Closed All Day:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:681
+msgid "Closed All Day Message:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:695
+msgid "Open 24 Hours:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:709
+msgid "Open 24 hours message:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:723
+msgid "Business Hours:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:736
+msgid "Start Time"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:749
+msgid "End Time"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:780
+msgid "Holidays:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:781, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:796, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:808
+msgid "Holidays & Special Days"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:795
+msgid "Recurring:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:797
+msgid "Enable to apply date range every year. So the year in the selection will be ignored."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:807
+msgid "Holiday Message:"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:825, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:843, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:858, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:872, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:886, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:904, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:918, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:931, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:946, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:960, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:974
+msgid "Footer Content"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:826
+msgid "Select content to show in the footer."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1004
+msgid "Show Header"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1005, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1017, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1031, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1042, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1066, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1082
+msgid "Header Style"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1016, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1223
+msgid "Height"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1030, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1119, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1237
+msgid "Style"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1050, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1139, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1257
+msgid "Enter font size."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1051, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1140, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1258
+msgid "Enter line height."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1052, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1141, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1259
+msgid "Select heading color."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1065, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1154, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1272
+msgid "Use default font family?"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1086, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1175, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1293
+msgid "Select font family."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1087, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1176, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1294
+msgid "Select font styling."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1108
+msgid "Show Business Hours"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1109, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1120, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1131, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1155, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1171, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1191
+msgid "Business Hours Style"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1190
+msgid "Space Between"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1211
+msgid "Show Footer"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1212, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1224, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1238, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1249, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1273, wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1289
+msgid "Footer Style"
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1309
+msgid "Creates a modern and stylish addon to display business hours."
+msgstr ""
+
+#: wp-content/plugins/worker-wpbakery/src/Merkulove/WorkerWPBakery/WPBakery/addons/Worker/worker.wpbakery.php:1312
+msgid "Content"
+msgstr ""

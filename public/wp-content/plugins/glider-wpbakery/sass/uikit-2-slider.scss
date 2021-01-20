@@ -1,0 +1,122 @@
+/**
+ * Glider Create a responsive carousel slider.
+ * Exclusively on Envato Market: https://1.envato.market/glider-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.1
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+
+@import "uikit-2-variables";
+
+// Name:            Slider
+// Description:     Defines styles for a horizontal slider
+
+/* ========================================================================
+   Component: Slider
+ ========================================================================== */
+
+/*
+ * RTL Compatibility
+ */
+ 
+[data-mdp-slider] { direction: ltr; }
+
+html[dir="rtl"] .mdp-slider > * { direction: rtl; }
+
+/*
+ * 1. Create position context
+ * 2. Create stacking context to prevent z-index issues with other components
+ * 3. Deactivate browser history navigation in IE11
+ */
+
+.mdp-slider {
+    /* 1 */
+    position: relative;
+    /* 2 */
+    z-index: 0;
+    /* 3 */
+    touch-action: pan-y;
+}
+
+/*
+ * 1. Reset list style without interfering with grid
+ */
+
+.mdp-slider:not(.mdp-grid) {
+    /* 1 */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/*
+ * Sub-object item
+ * 1. Position items above each other
+ */
+
+.mdp-slider > * {
+    /* 1 */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/*
+ * Clip child elements
+ */
+
+.mdp-slider-container { overflow: hidden; }
+
+/*
+ * Dragged
+ */
+
+.mdp-slider:not(.mdp-drag) {
+    -webkit-transition: -webkit-transform 200ms linear;
+    transition: transform 200ms linear;
+}
+
+/*
+ * 1. Makes text unselectable
+ */
+
+.mdp-slider.mdp-drag {
+    cursor: col-resize;
+    /* 1 */
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/*
+ * 1. Prevents images and links from being dragged (default browser behavior)
+ * 2. Disables the default callout shown when you touch and hold a touch target
+ * Currently only works in Webkit
+ */
+
+.mdp-slider a,
+.mdp-slider img {
+    /* 1 */
+    -webkit-user-drag: none;
+    user-drag: none;
+    /* 2 */
+    -webkit-touch-callout: none;
+}
+
+/*
+ * 1. Prevents images and links from being dragged in Firefox
+ */
+
+.mdp-slider img { pointer-events: none; }
+
+
+/* Modifier: `mdp-slider-fullscreen`
+ ========================================================================== */
+
+.mdp-slider-fullscreen,
+.mdp-slider-fullscreen > li { height: 100vh; }

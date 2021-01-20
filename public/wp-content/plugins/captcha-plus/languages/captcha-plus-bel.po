@@ -1,0 +1,2186 @@
+# Translation of Stable (latest release) in Belarusian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Captcha\n"
+"POT-Creation-Date: 2018-07-27 15:10+0300\n"
+"PO-Revision-Date: 2018-07-27 15:10+0300\n"
+"Last-Translator: \n"
+"Language-Team: Natasha Diatko <natasha.diatko@gmail.com>\n"
+"Language: bel\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: captcha-plus.php:23 captcha-plus.php:25 captcha-plus.php:446
+#: includes/class-cptch-settings-tabs.php:309
+#, fuzzy
+msgid "Captcha Plus Settings"
+msgstr "налады Captcha"
+
+#: captcha-plus.php:25 captcha-plus.php:1718 captcha-plus.php:1731
+#: includes/class-cptch-settings-tabs.php:25
+msgid "Settings"
+msgstr "Налады"
+
+#: captcha-plus.php:27 includes/class-cptch-package-list.php:90
+msgid "Captcha Plus Packages"
+msgstr ""
+
+#: captcha-plus.php:27
+msgid "Packages"
+msgstr "Пакеты"
+
+#: captcha-plus.php:29 includes/class-cptch-whitelist.php:83
+msgid "Captcha Plus Whitelist"
+msgstr ""
+
+#: captcha-plus.php:29 includes/class-cptch-settings-tabs.php:235
+msgid "Whitelist"
+msgstr "Белы ліст"
+
+#: captcha-plus.php:449
+msgid "WARNING"
+msgstr ""
+
+#: captcha-plus.php:449
+msgid "The plugin works correctly only if JavaScript is enabled."
+msgstr ""
+
+#: captcha-plus.php:671
+msgid "Click the BACK button on your browser, and try again."
+msgstr "Націсніце кнопку НАЗАД у вашым браўзэры, і паспрабуйце ізноў."
+
+#: captcha-plus.php:1016
+msgid "Captcha loading..."
+msgstr ""
+
+#: captcha-plus.php:1018
+msgid "In order to pass the CAPTCHA please enable JavaScript"
+msgstr ""
+
+#: captcha-plus.php:1396
+msgid "zero"
+msgstr "нуль"
+
+#: captcha-plus.php:1397
+msgid "one"
+msgstr "адзін"
+
+#: captcha-plus.php:1398
+msgid "two"
+msgstr "два"
+
+#: captcha-plus.php:1399
+msgid "three"
+msgstr "тры"
+
+#: captcha-plus.php:1400
+msgid "four"
+msgstr "чатыры"
+
+#: captcha-plus.php:1401
+msgid "five"
+msgstr "пяць"
+
+#: captcha-plus.php:1402
+msgid "six"
+msgstr "шэсць"
+
+#: captcha-plus.php:1403
+msgid "seven"
+msgstr "сем"
+
+#: captcha-plus.php:1404
+msgid "eight"
+msgstr "восем"
+
+#: captcha-plus.php:1405
+msgid "nine"
+msgstr "дзевяць"
+
+#: captcha-plus.php:1407
+msgid "ten"
+msgstr "дзесяць"
+
+#: captcha-plus.php:1408
+msgid "eleven"
+msgstr "адзінаццаць"
+
+#: captcha-plus.php:1409
+msgid "twelve"
+msgstr "дванаццаць"
+
+#: captcha-plus.php:1410
+msgid "thirteen"
+msgstr "трынаццаць"
+
+#: captcha-plus.php:1411
+msgid "fourteen"
+msgstr "чатырнаццаць"
+
+#: captcha-plus.php:1412
+msgid "fifteen"
+msgstr "пятнаццаць"
+
+#: captcha-plus.php:1413
+msgid "sixteen"
+msgstr "шастнаццаць"
+
+#: captcha-plus.php:1414
+msgid "seventeen"
+msgstr "сямнаццаць"
+
+#: captcha-plus.php:1415
+msgid "eighteen"
+msgstr "васемнаццаць"
+
+#: captcha-plus.php:1416
+msgid "nineteen"
+msgstr "дзевятнаццаць"
+
+#: captcha-plus.php:1418
+msgid "twenty"
+msgstr "дваццаць"
+
+#: captcha-plus.php:1419
+msgid "twenty one"
+msgstr "дваццаць адзін"
+
+#: captcha-plus.php:1420
+msgid "twenty two"
+msgstr "дваццаць два"
+
+#: captcha-plus.php:1421
+msgid "twenty three"
+msgstr "дваццаць тры"
+
+#: captcha-plus.php:1422
+msgid "twenty four"
+msgstr "дваццаць чатыры"
+
+#: captcha-plus.php:1423
+msgid "twenty five"
+msgstr "дваццаць пяць"
+
+#: captcha-plus.php:1424
+msgid "twenty six"
+msgstr "дваццаць шэсць"
+
+#: captcha-plus.php:1425
+msgid "twenty seven"
+msgstr "дваццаць сем"
+
+#: captcha-plus.php:1426
+msgid "twenty eight"
+msgstr "дваццаць восем"
+
+#: captcha-plus.php:1427
+msgid "twenty nine"
+msgstr "дваццаць  дзевяць"
+
+#: captcha-plus.php:1429
+msgid "thirty"
+msgstr "трыццаць"
+
+#: captcha-plus.php:1430
+msgid "thirty one"
+msgstr "трыццаць адзін"
+
+#: captcha-plus.php:1431
+msgid "thirty two"
+msgstr "трыццаць два"
+
+#: captcha-plus.php:1432
+msgid "thirty three"
+msgstr "трыццаць тры"
+
+#: captcha-plus.php:1433
+msgid "thirty four"
+msgstr "трыццаць чатыры"
+
+#: captcha-plus.php:1434
+msgid "thirty five"
+msgstr "трыццаць пяць"
+
+#: captcha-plus.php:1435
+msgid "thirty six"
+msgstr "трыццаць шэсць"
+
+#: captcha-plus.php:1436
+msgid "thirty seven"
+msgstr "трыццаць сем"
+
+#: captcha-plus.php:1437
+msgid "thirty eight"
+msgstr "трыццаць восем"
+
+#: captcha-plus.php:1438
+msgid "thirty nine"
+msgstr "трыццаць дзевяць"
+
+#: captcha-plus.php:1440
+msgid "forty"
+msgstr "сорак"
+
+#: captcha-plus.php:1441
+msgid "forty one"
+msgstr "сорак адзін"
+
+#: captcha-plus.php:1442
+msgid "forty two"
+msgstr "сорак два"
+
+#: captcha-plus.php:1443
+msgid "forty three"
+msgstr "сорак тры"
+
+#: captcha-plus.php:1444
+msgid "forty four"
+msgstr "сорак чатыры"
+
+#: captcha-plus.php:1445
+msgid "forty five"
+msgstr "сорак пяць"
+
+#: captcha-plus.php:1446
+msgid "forty six"
+msgstr "сорак шэсць"
+
+#: captcha-plus.php:1447
+msgid "forty seven"
+msgstr "сорак сем"
+
+#: captcha-plus.php:1448
+msgid "forty eight"
+msgstr "сорак восем"
+
+#: captcha-plus.php:1449
+msgid "forty nine"
+msgstr "сорак дзевяць"
+
+#: captcha-plus.php:1451
+msgid "fifty"
+msgstr "пяцьдзесят"
+
+#: captcha-plus.php:1452
+msgid "fifty one"
+msgstr "пяцьдзесят адзін"
+
+#: captcha-plus.php:1453
+msgid "fifty two"
+msgstr "пяцьдзесят два"
+
+#: captcha-plus.php:1454
+msgid "fifty three"
+msgstr "пяцьдзесят тры"
+
+#: captcha-plus.php:1455
+msgid "fifty four"
+msgstr "пяцьдзесят чатыры"
+
+#: captcha-plus.php:1456
+msgid "fifty five"
+msgstr "пяцьдзесят пяць"
+
+#: captcha-plus.php:1457
+msgid "fifty six"
+msgstr "пяцьдзесят шэсць"
+
+#: captcha-plus.php:1458
+msgid "fifty seven"
+msgstr "пяцьдзесят сем"
+
+#: captcha-plus.php:1459
+msgid "fifty eight"
+msgstr "пяцьдзесят восем"
+
+#: captcha-plus.php:1460
+msgid "fifty nine"
+msgstr "пяцьдзесят дзевяць"
+
+#: captcha-plus.php:1462
+msgid "sixty"
+msgstr "шэсцьдзесят"
+
+#: captcha-plus.php:1463
+msgid "sixty one"
+msgstr "шэсцьдзесят адзін"
+
+#: captcha-plus.php:1464
+msgid "sixty two"
+msgstr "шэсцьдзесят два"
+
+#: captcha-plus.php:1465
+msgid "sixty three"
+msgstr "шэсцьдзесят тры"
+
+#: captcha-plus.php:1466
+msgid "sixty four"
+msgstr "шэсцьдзесят чатыры"
+
+#: captcha-plus.php:1467
+msgid "sixty five"
+msgstr "шэсцьдзесят пяць"
+
+#: captcha-plus.php:1468
+msgid "sixty six"
+msgstr "шэсцьдзесят шэсць"
+
+#: captcha-plus.php:1469
+msgid "sixty seven"
+msgstr "шэсцьдзесят сем"
+
+#: captcha-plus.php:1470
+msgid "sixty eight"
+msgstr "шэсцьдзесят восем"
+
+#: captcha-plus.php:1471
+msgid "sixty nine"
+msgstr "шэсцьдзесят дзевяць"
+
+#: captcha-plus.php:1473
+msgid "seventy"
+msgstr "семдзесят"
+
+#: captcha-plus.php:1474
+msgid "seventy one"
+msgstr "семдзесят адзін"
+
+#: captcha-plus.php:1475
+msgid "seventy two"
+msgstr "семдзесят два"
+
+#: captcha-plus.php:1476
+msgid "seventy three"
+msgstr "семдзесят тры"
+
+#: captcha-plus.php:1477
+msgid "seventy four"
+msgstr "семдзесят чатыры"
+
+#: captcha-plus.php:1478
+msgid "seventy five"
+msgstr "семдзесят пяць"
+
+#: captcha-plus.php:1479
+msgid "seventy six"
+msgstr "семдзесят шэсць"
+
+#: captcha-plus.php:1480
+msgid "seventy seven"
+msgstr "семдзесят сем"
+
+#: captcha-plus.php:1481
+msgid "seventy eight"
+msgstr "семдзесят восем"
+
+#: captcha-plus.php:1482
+msgid "seventy nine"
+msgstr "семдзесят дзевяць"
+
+#: captcha-plus.php:1484
+msgid "eighty"
+msgstr "восемдзесят"
+
+#: captcha-plus.php:1485
+msgid "eighty one"
+msgstr "восемдзесят адзін"
+
+#: captcha-plus.php:1486
+msgid "eighty two"
+msgstr "восемдзесят два"
+
+#: captcha-plus.php:1487
+msgid "eighty three"
+msgstr "восемдзесят тры"
+
+#: captcha-plus.php:1488
+msgid "eighty four"
+msgstr "восемдзесят чатыры"
+
+#: captcha-plus.php:1489
+msgid "eighty five"
+msgstr "восемдзесят пяць"
+
+#: captcha-plus.php:1490
+msgid "eighty six"
+msgstr "восемдзесят шэсць"
+
+#: captcha-plus.php:1491
+msgid "eighty seven"
+msgstr "восемдзесят сем"
+
+#: captcha-plus.php:1492
+msgid "eighty eight"
+msgstr "восемдзесят восем"
+
+#: captcha-plus.php:1493
+msgid "eighty nine"
+msgstr "восемдзесят дзевяць"
+
+#: captcha-plus.php:1495
+msgid "ninety"
+msgstr "дзевяноста"
+
+#: captcha-plus.php:1496
+msgid "ninety one"
+msgstr "дзевяноста адзін"
+
+#: captcha-plus.php:1497
+msgid "ninety two"
+msgstr "дзевяноста два"
+
+#: captcha-plus.php:1498
+msgid "ninety three"
+msgstr "дзевяноста тры"
+
+#: captcha-plus.php:1499
+msgid "ninety four"
+msgstr "дзевяноста чатыры"
+
+#: captcha-plus.php:1500
+msgid "ninety five"
+msgstr "дзевяноста пяць"
+
+#: captcha-plus.php:1501
+msgid "ninety six"
+msgstr "дзевяноста шэсць"
+
+#: captcha-plus.php:1502
+msgid "ninety seven"
+msgstr "дзевяноста сем"
+
+#: captcha-plus.php:1503
+msgid "ninety eight"
+msgstr "дзевяноста восем"
+
+#: captcha-plus.php:1504
+msgid "ninety nine"
+msgstr "дзевяноста дзевяць"
+
+#: captcha-plus.php:1569
+msgid "Encryption password is not set"
+msgstr "Пароль для шыфравання не ўстаноўлены"
+
+#: captcha-plus.php:1590
+msgid "Decryption password is not set"
+msgstr "Пароль для дэшыфроўкі не ўстаноўлены"
+
+#: captcha-plus.php:1732
+msgid "FAQ"
+msgstr "FAQ"
+
+#: captcha-plus.php:1733
+msgid "Support"
+msgstr "Тэхпадтрымка"
+
+#: captcha-plus.php:1789
+#, fuzzy
+msgid "settings page"
+msgstr "старонку налад"
+
+#: captcha-plus.php:1792
+#, php-format
+msgid ""
+"You're using W3 Total Cache plugin. If %1$s doesn't work properly, please "
+"clear the cache in W3 Total Cache plugin and turn on '%2$s' option on the "
+"plugin %3$s."
+msgstr ""
+
+#: captcha-plus.php:1794
+msgid "Show CAPTCHA after the end of the page loading"
+msgstr ""
+
+#: captcha-plus.php:1887
+msgid "Captcha Plugin"
+msgstr ""
+
+#: captcha-plus.php:1906 includes/class-cptch-settings-tabs.php:47
+msgid "Login form"
+msgstr ""
+
+#: captcha-plus.php:1907 includes/class-cptch-settings-tabs.php:48
+msgid "Registration form"
+msgstr "Форма рэгістрацыі"
+
+#: captcha-plus.php:1908 includes/class-cptch-settings-tabs.php:49
+msgid "Reset password form"
+msgstr ""
+
+#: captcha-plus.php:1909
+msgid "Coments form"
+msgstr ""
+
+#: captcha-plus.php:1950
+#, php-format
+msgid "Update %s at least up to %s"
+msgstr ""
+
+#: captcha-plus.php:1957
+#, php-format
+msgid "%1$s %2$s requires WordPress %3$s or higher."
+msgstr ""
+
+#: captcha-plus.php:1965 includes/class-cptch-settings-tabs.php:680
+msgid "Activate"
+msgstr "Актывізаваць"
+
+#: captcha-plus.php:1968 captcha-plus.php:1970 captcha-plus.php:1974
+#: includes/class-cptch-settings-tabs.php:682
+msgid "Install Now"
+msgstr "усталяваць цяпер"
+
+#: includes/captcha_for_cf7.php:57 includes/captcha_for_cf7.php:59
+#: includes/captcha_for_cf7.php:61
+#, fuzzy
+msgid "BWS CAPTCHA"
+msgstr "Схаваць CAPTCHA"
+
+#: includes/captcha_for_cf7.php:72 includes/captcha_for_cf7.php:93
+#: includes/captcha_for_cf7.php:116
+msgid "Name"
+msgstr ""
+
+#: includes/captcha_for_cf7.php:78 includes/captcha_for_cf7.php:99
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: includes/captcha_for_cf7.php:126
+#, fuzzy
+msgid "Insert Tag"
+msgstr "Вставка"
+
+#: includes/class-cptch-package-list.php:38
+msgid "package"
+msgstr ""
+
+#: includes/class-cptch-package-list.php:39
+msgid "packages"
+msgstr ""
+
+#: includes/class-cptch-package-list.php:97
+msgid "Search"
+msgstr ""
+
+#: includes/class-cptch-package-list.php:119
+msgid "No packages found"
+msgstr ""
+
+#: includes/class-cptch-package-list.php:129
+msgid "Package"
+msgstr "пакет"
+
+#: includes/class-cptch-package-list.php:130
+#: includes/class-cptch-whitelist.php:226
+msgid "Date Added"
+msgstr ""
+
+#: includes/class-cptch-package-loader.php:43
+msgid ""
+"Can not load images in to the \"uploads\" folder. Please, check your "
+"permissions."
+msgstr ""
+
+#: includes/class-cptch-package-loader.php:130
+#, php-format
+msgid "One package has been updated or added to the database."
+msgid_plural "%s packages have been updated or added to the database."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-cptch-package-loader.php:131
+#, php-format
+msgid "One image has been updated or added to the database."
+msgid_plural "%s images have been updated or added to the database."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-cptch-package-loader.php:239
+msgid "Archive is empty"
+msgstr ""
+
+#: includes/class-cptch-package-loader.php:585
+#, php-format
+msgid ""
+"Some settings of the package %s were set incorrectly. They have been skipped."
+msgstr ""
+
+#: includes/class-cptch-package-loader.php:588
+msgid "Wrong data"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:26
+msgid "Messages"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:27
+msgid "Misc"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:28
+msgid "Custom Code"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:50
+msgid "Comments form"
+msgstr "Фоорма каментарыя"
+
+#: includes/class-cptch-settings-tabs.php:88
+msgid "WordPress default"
+msgstr "Па змаўчанню"
+
+#: includes/class-cptch-settings-tabs.php:97
+msgid "External plugins"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:144
+#, php-format
+msgid ""
+"Option for displaying Captcha with Contact Form 7 is enabled. For correct "
+"work, please don't forget to add the BWS CAPTCHA block to the necessary form "
+"(see %s)."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:151
+#: includes/class-cptch-settings-tabs.php:253
+msgid "Arithmetic Actions"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:152
+#: includes/class-cptch-settings-tabs.php:263
+msgid "Complexity"
+msgstr "Узровень складанасці"
+
+#: includes/class-cptch-settings-tabs.php:153
+#: includes/class-cptch-settings-tabs.php:281
+msgid "Image Packages"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:167
+msgid "Text fields in the \"Messages\" tab must not be empty."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:178
+#, php-format
+msgid "\"%s\" option must not be fully disabled."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:206
+msgid ""
+"In order to use \"Optical Character Recognition\" type, please select at "
+"least one of the items in the option \"Image Packages\"."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:209
+msgid ""
+"In order to use images in the CAPTCHA, please select at least one of the "
+"items in the option \"Image Packages\". The \"Images\" checkbox in "
+"\"Complexity\" option has been disabled."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:220
+msgid "Settings saved."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:236
+msgid ""
+"With a whitelist you can hide captcha field for your personal and trusted IP "
+"addresses."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:238
+msgid "Default"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:239
+msgid "Limit Attempts"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:244
+msgid "Captcha Plus Type"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:246
+msgid "Arithmetic actions"
+msgstr "Арыфметычныя дзеянні"
+
+#: includes/class-cptch-settings-tabs.php:247
+msgid "Optical Character Recognition (OCR)"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:248
+msgid "Invisible"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:255
+msgid "Addition"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:256
+msgid "Subtruction"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:257
+#, fuzzy
+msgid "Multiplication"
+msgstr "множанне (&times;)"
+
+#: includes/class-cptch-settings-tabs.php:265
+msgid "Numbers (1, 2, 3, etc.)"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:266
+msgid "Words (one, two, three, etc.)"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:267
+msgid "Images"
+msgstr "Малюнкі"
+
+#: includes/class-cptch-settings-tabs.php:273
+msgid "Number of Images"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:276
+msgid "Set a number of images to display simultaneously as a captcha question."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:286
+msgid "Enlarge Images"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:287
+msgid "Enable to enlarge captcha images on mouseover."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:292
+msgid "Reload Button"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:293
+msgid "Enable to display reload button for captcha."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:298
+msgid "Captcha Plus Title"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:301
+msgid "Required Symbol"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:304
+msgid "Advanced Protection"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:305
+msgid "Enable to display captcha when the website page is loaded."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:312
+msgid "General"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:315
+msgid "Enable Captcha Plus for"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:346
+msgid "Enable to add the CAPTCHA to forms on their settings pages."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:417
+msgid "Enable to activate a time limit requeired to complete captcha."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:428
+msgid "Time Limit"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:435
+msgid "Time Limit Thershold"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:438
+msgid "sec"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:468
+#, fuzzy
+msgid "This option is available only for network or for main blog"
+msgstr "Гэтая опцыя даступная толькі для асноўнага блога"
+
+#: includes/class-cptch-settings-tabs.php:475
+msgid "Hide from Registered Users"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:492
+msgid "Messages Settings"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:498
+msgid "Captcha Field is Empty"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:499 includes/helpers.php:31
+msgid "Please complete the captcha."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:502
+msgid "Captcha is Incorrect"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:503 includes/helpers.php:32
+msgid "Please enter correct captcha value."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:506
+#: includes/class-cptch-settings-tabs.php:510
+msgid "Time Limit Exceeded"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:507
+#: includes/class-cptch-settings-tabs.php:511 includes/helpers.php:33
+#: includes/helpers.php:34
+msgid "Time limit exceeded. Please complete the captcha once again."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:512
+msgid "This message will be displayed above the captcha field."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:515
+msgid "Whitelisted IP"
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:516 includes/helpers.php:35
+msgid "Your IP address is Whitelisted."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:517
+msgid "This message will be displayed instead of the captcha field."
+msgstr ""
+
+#: includes/class-cptch-settings-tabs.php:632
+msgid ""
+"The image packages list is empty. Please restore default settings or re-"
+"install the plugin to fix this error."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:46
+msgid "All dates"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:47
+msgid "Last 24 hours"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:48
+msgid "Last week"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:49
+msgid "Last month"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:50
+msgid "Last year"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:86
+msgid "Add New"
+msgstr "Дадаць новы"
+
+#: includes/class-cptch-whitelist.php:116
+msgid "Limit Attempts whitelist is activated."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:117
+msgid "View the whitelist"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:118
+msgid "or"
+msgstr "або"
+
+#: includes/class-cptch-whitelist.php:119
+msgid "Enable default captcha whitelist"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:122
+msgid "Load IP Address(-es)"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:125
+msgid "Save changes"
+msgstr "Прымяніць"
+
+#: includes/class-cptch-whitelist.php:130
+msgid "Load IP addresses from the \"Limit Attempts\" whitelist."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:138
+msgid "IP to whitelist"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:145
+msgid "My IP"
+msgstr "Мой IP"
+
+#: includes/class-cptch-whitelist.php:150
+msgid "Allowed formats"
+msgstr "Дапушчальныя фарматы"
+
+#: includes/class-cptch-whitelist.php:152
+msgid "Allowed diapason"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:155
+msgid "Add IP to whitelist"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:162
+msgid "Search item"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:218
+msgid "Nothing found"
+msgstr "Нічога не знойдзена"
+
+#: includes/class-cptch-whitelist.php:218
+#, fuzzy
+msgid "No IP in the whitelist"
+msgstr "Няма IP у белым спісе"
+
+#: includes/class-cptch-whitelist.php:225
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:280
+#: includes/class-cptch-whitelist.php:289
+msgid "Delete"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:391
+msgid "Filter"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:440
+msgid "IP added to the whitelist successfully."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:442
+msgid "Some errors occurred."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:444
+msgid "IP is already in the whitelist."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:447
+msgid "Invalid IP. See allowed formats."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:458
+#, php-format
+msgid "%s IP was deleted successfully"
+msgid_plural "%s IPs were deleted successfully"
+msgstr[0] "%s IP быў паспяхова выдалены"
+msgstr[1] "%s IP былі пасьпяхова выдаленыя"
+msgstr[2] "%s IPs былі пасьпяхова выдаленыя"
+
+#: includes/class-cptch-whitelist.php:464
+#: includes/class-cptch-whitelist.php:476
+msgid "Some errors occurred"
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:470
+msgid "One IP was deleted successfully"
+msgstr "Адзін IP адрас паспяхова выдалены"
+
+#: includes/class-cptch-whitelist.php:479
+msgid "You have not entered any value."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:482
+msgid "You have not entered any value in to the search form."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:484
+msgid "Search results for"
+msgstr "Вынікі пошуку для"
+
+#: includes/class-cptch-whitelist.php:514
+msgid "IP-address(es) successfully copied to the whitelist."
+msgstr ""
+
+#: includes/class-cptch-whitelist.php:537
+msgid "use"
+msgstr "выкарыстоўвайце"
+
+#: includes/class-cptch-whitelist.php:537
+#, fuzzy
+msgid "the whitelist of"
+msgstr "белы спіс"
+
+#: includes/class-cptch-whitelist.php:545
+#: includes/class-cptch-whitelist.php:553
+#, fuzzy, php-format
+msgid "use the whitelist of %s"
+msgstr "выкарыстоўваць белы спіс з %s"
+
+#: includes/class-cptch-whitelist.php:546
+#, php-format
+msgid "you should %s to use this functionality"
+msgstr "вам варта %s каб выкарыстоўваць дадзены функцыянал"
+
+#: includes/class-cptch-whitelist.php:546
+msgid "activate"
+msgstr "актывізаваць"
+
+#: includes/class-cptch-whitelist.php:554
+#, php-format
+msgid "you should install %s to use this functionality"
+msgstr "вам варта ўсталяваць% s, каб выкарыстоўваць дадзены функцыянал"
+
+#: includes/envato-update.php:67 includes/envato-update.php:153
+#: includes/envato-update.php:159
+msgid "An unknown Envato API error occurred."
+msgstr ""
+
+#: includes/envato-update.php:157
+msgid "Envato API error"
+msgstr ""
+
+#: includes/envato-update.php:228
+msgid "Update the plugin using default WordPress functionality"
+msgstr ""
+
+#: includes/envato-update.php:231
+msgid "Generate your Envato API Personal Token"
+msgstr ""
+
+#: includes/envato-update.php:231
+msgid "with account used during plugin purchase"
+msgstr ""
+
+#: includes/envato-update.php:231
+msgid "and insert it above."
+msgstr ""
+
+#: includes/envato-update.php:231
+msgid "You'll see an update on the Plugins page when new version is available."
+msgstr ""
+
+#: includes/invisible.php:28
+msgid "Can't handle encrypting/decrypting data."
+msgstr ""
+
+#: includes/invisible.php:31 includes/invisible.php:63
+#: includes/invisible.php:98
+msgid "ERROR"
+msgstr "Памылка"
+
+#: includes/invisible.php:60
+#, php-format
+msgid "Protected by %s"
+msgstr ""
+
+#: includes/invisible.php:76
+msgid "Empty captcha."
+msgstr ""
+
+#: includes/invisible.php:90
+msgid "Captcha time limit exceeded."
+msgstr ""
+
+#: includes/invisible.php:95
+msgid "Wrong captcha."
+msgstr ""
+
+#~ msgid "Error"
+#~ msgstr "Памылка"
+
+#, fuzzy
+#~ msgid "has old version"
+#~ msgstr "версіі!"
+
+#~ msgid "Close"
+#~ msgstr "зачыняць"
+
+#~ msgid "How to Use Step-by-step Instruction"
+#~ msgstr "Інструкцыя па выкарыстанні"
+
+#~ msgid "Custom code"
+#~ msgstr "Карыстацкі код"
+
+#~ msgid "For IP addresses from the whitelist CAPTCHA will not be displayed"
+#~ msgstr "Для IP-адрасоў з белага спісу CAPTCHA адлюстроўвацца ня будзе"
+
+#~ msgid ""
+#~ "With this option, CAPTCHA will not be displayed for IP-addresses from the "
+#~ "whitelist of %s"
+#~ msgstr ""
+#~ "Калі опцыя ўключана, CAPTCHA не будзе адлюстроўвацца для IP адрасоў з "
+#~ "белага спісу% s"
+
+#, fuzzy
+#~ msgid "Add IP to the whitelist"
+#~ msgstr "Дадаць IP у белы спіс"
+
+#, fuzzy
+#~ msgid "Load IP to the whitelist"
+#~ msgstr "Загрузіць IP ў белы спіс"
+
+#~ msgid ""
+#~ "By click on this button, all IP-addresses from the whitelist of %s will "
+#~ "be loaded to the whitelist of %s"
+#~ msgstr ""
+#~ "Пры націску на гэтую кнопку, усё IP-адрасы з белага спісу %s будуць "
+#~ "загружаныя ў белы спіс %s"
+
+#~ msgid "Allowed formats:"
+#~ msgstr "Даступныя фарматы:"
+
+#~ msgid "Allowed diapason:"
+#~ msgstr "Даступныя дыяпазоны:"
+
+#~ msgid "Search IP"
+#~ msgstr "шукаць IP"
+
+#~ msgid "IP address"
+#~ msgstr "IP адрас"
+
+#~ msgid "Date added"
+#~ msgstr "Дата дадання"
+
+#, fuzzy
+#~ msgid "Remove from the whitelist"
+#~ msgstr "Выдаліць з белага спісу"
+
+#~ msgid "IP added to the whitelist successfully"
+#~ msgstr "IP паспяхова дададзены ў белы спіс."
+
+#~ msgid "Some errors occured"
+#~ msgstr "Адбыліся некаторыя памылкі"
+
+#~ msgid "IP is already in the whitelist"
+#~ msgstr "IP-ўжо ў белым спісе"
+
+#~ msgid "Invalid IP. See allowed formats"
+#~ msgstr "Няправільны IP. Паглядзіце даступныя фарматы"
+
+#~ msgid "You have not entered any value"
+#~ msgstr "Вы не ўвялі значэнне"
+
+#~ msgid "You have not entered any value in to the search form"
+#~ msgstr "Вы не ўвялі значэнне ў форму пошуку"
+
+#~ msgid "IP-address(es) successfully copied to the whitelist"
+#~ msgstr "IP адрас (а) паспяхова скапіяваныя ў белы спіс."
+
+#, fuzzy
+#~ msgid "instruction"
+#~ msgstr "відэа інструкцыі "
+
+#, fuzzy
+#~ msgid "Enable the CAPTCHA for"
+#~ msgstr "Уключыць CAPTCHA, для"
+
+#, fuzzy
+#~ msgid ""
+#~ "Can not load images in to the \"uploads\" folder. Please, check your "
+#~ "permissions"
+#~ msgstr ""
+#~ "Немагчыма загрузіць выявы ў тэчку \"загрузкі\". Калі ласка, праверце "
+#~ "вашыя правы доступу."
+
+#~ msgid "If the package already exists"
+#~ msgstr "Калі пакет не былі ўкладзены"
+
+#~ msgid "Skip it"
+#~ msgstr "прапусціць"
+
+#~ msgid "Update the existed one"
+#~ msgstr "абнавіць"
+
+#~ msgid "Save it as new"
+#~ msgstr "Захаваць як новы"
+
+#~ msgid "Browse packages"
+#~ msgstr "Агляд пакетаў"
+
+#~ msgid "Please enter a CAPTCHA value."
+#~ msgstr "Калі ласка, запоўніце CAPTCHA."
+
+#~ msgid "Please enter a valid CAPTCHA value."
+#~ msgstr "Калі ласка, увядзіце карэктнае значэнне CAPTCHA."
+
+#, fuzzy
+#~ msgid "Time limit is exhausted. Please enter a CAPTCHA value again."
+#~ msgstr "Ліміт часу вычарпаны. Калі ласка, зноў увядзіце значэнне CAPTCHA."
+
+#, fuzzy
+#~ msgid "Time limit is exhausted. Please reload the CAPTCHA."
+#~ msgstr "Ліміт часу мінуў. Калі ласка, перазагрузіце CAPTCHA."
+
+#, fuzzy
+#~ msgid "You are in the whitelist."
+#~ msgstr "Вы знаходзіцеся ў белым спісе"
+
+#, fuzzy
+#~ msgid "WordPress Login form"
+#~ msgstr "Форма ўваходу"
+
+#, fuzzy
+#~ msgid "WordPress Registration form"
+#~ msgstr "Форма рэгістрацыі плагіна BuddyPress"
+
+#, fuzzy
+#~ msgid "WordPress Reset Password form"
+#~ msgstr "Форма аднаўлення пароля"
+
+#, fuzzy
+#~ msgid "WordPress Comments form"
+#~ msgstr "Форма каментарыяў плагіна Buddypress"
+
+#~ msgid "All plugin settings were restored."
+#~ msgstr "Налады плагіна былі адноўлены."
+
+#~ msgid "Save Changes"
+#~ msgstr "Захаваць змены"
+
+#, fuzzy
+#~ msgid "Settings saved"
+#~ msgstr "Налады захаваны"
+
+#, fuzzy
+#~ msgid "Use image packages"
+#~ msgstr "Уключыць пакеты малюнкаў"
+
+#~ msgid "Enlarge images on mouseover"
+#~ msgstr "Павялічваць малюнкі пры навядзенні мышшу"
+
+#, fuzzy
+#~ msgid "Show reload button"
+#~ msgstr "Паказаць кнопку \"Перазагрузіць\""
+
+#~ msgid "Required symbol"
+#~ msgstr "Сімвал, які адлюстроўвае абавязковае поле"
+
+#~ msgid "Plus"
+#~ msgstr "Плюс"
+
+#~ msgid "Minus"
+#~ msgstr "Мінус"
+
+#~ msgid "Numbers"
+#~ msgstr "лічбы"
+
+#~ msgid "Words"
+#~ msgstr "словы"
+
+#~ msgid "Enable time limit"
+#~ msgstr "Уключыць абмежаванне па часе"
+
+#, fuzzy
+#~ msgid "for"
+#~ msgstr "чатыры"
+
+#, fuzzy
+#~ msgid "second"
+#~ msgid_plural "seconds"
+#~ msgstr[0] "хвіліны"
+#~ msgstr[1] "хвіліны"
+#~ msgstr[2] "хвіліны"
+
+#~ msgid "If the CAPTCHA field is empty"
+#~ msgstr "Калі поле CAPTCHA не запоўнена"
+
+#~ msgid "If the CAPTCHA is incorrect"
+#~ msgstr "Калі CAPTCHA запоўненая некарэктна"
+
+#~ msgid "If the time limit is exhausted"
+#~ msgstr "Калі ліміт часу вычарпаны"
+
+#~ msgid ""
+#~ "If the time limit is exhausted (this message will be displayed above the "
+#~ "CAPTCHA)"
+#~ msgstr ""
+#~ "Калі ліміт часу вычарпаны (азначанае паведамленне будзе адлюстроўвацца "
+#~ "над блокам CAPTCHA)"
+
+#~ msgid ""
+#~ "If the user IP is added to the whitelist (this message will be displayed "
+#~ "instead of the CAPTCHA)"
+#~ msgstr ""
+#~ "Калі IP карыстальніка ўжо дададзена ў белы спіс (гэтае паведамленьне "
+#~ "будзе адлюстроўвацца замест CAPTCHA)."
+
+#, fuzzy
+#~ msgid "Errors"
+#~ msgstr "Памылка"
+
+#, fuzzy
+#~ msgid ""
+#~ "These messages will be displayed if the CAPTCHA answer has not passed the "
+#~ "verification"
+#~ msgstr ""
+#~ "Гэтыя паведамленні будуць адлюстроўвацца, калі адказ на CAPTCHA не "
+#~ "прайшоў верыфікацыю"
+
+#~ msgid "Info"
+#~ msgstr "падрабязна"
+
+#, fuzzy
+#~ msgid "These messages will be displayed inside of the CAPTCHA"
+#~ msgstr "Гэтыя паведамленні будуць адлюстроўвацца ўнутры блока CAPTCHA"
+
+#~ msgid "Notification messages"
+#~ msgstr "паведамленні"
+
+#, fuzzy
+#~ msgid "install"
+#~ msgstr "Усталявана"
+
+#~ msgid "You should"
+#~ msgstr "Вы павінны"
+
+#~ msgid "to use this functionality"
+#~ msgstr "выкарыстоўваць дадзены функцыянал"
+
+#, fuzzy
+#~ msgid "Hide from registered users"
+#~ msgstr "у форме каментарыяў для зарэгістраваных карыстальнікаў"
+
+#~ msgid "Not installed"
+#~ msgstr "Не ўстаноўлены"
+
+#~ msgid "https://bestwebsoft.com/products/captcha/"
+#~ msgstr "https://bestwebsoft.com/products/captcha/"
+
+#~ msgid "System Status"
+#~ msgstr "Стан сістэмы"
+
+#~ msgid "Thank you for installing plugins by BestWebSoft!"
+#~ msgstr "Дзякуем за ўстаноўку плагінаў ад BestWebSoft!"
+
+#~ msgid "More Details"
+#~ msgstr "Больш падрабязна"
+
+#~ msgid "Less Details"
+#~ msgstr "Менш дэталяў"
+
+#~ msgid "Not enough permissions to create the file"
+#~ msgstr "Не хапае правоў для стварэння файла"
+
+#~ msgid ""
+#~ "These PHP code will be hooked to the %s action and will be printed on "
+#~ "front end only."
+#~ msgstr ""
+#~ "Гэты PHP код будзе зачэпліваець %s  дзеянні і будзе надрукаваны толькі на "
+#~ "пярэднім канцы."
+
+#~ msgid ""
+#~ "This license key is bind to another website. Change it via personal "
+#~ "Client Area."
+#~ msgstr ""
+#~ "Гэты ліцэнзійны ключ звязваецца з іншым вэб-сайтам. Зменіце яго з "
+#~ "дапамогай асабістага кліенцкай вобласці."
+
+#~ msgid "Log in"
+#~ msgstr "Увайсці"
+
+#~ msgid "Congratulations! Pro Membership license is successfully activated."
+#~ msgstr "Віншуем! Pro ліцэнзія сяброўства паспяхова актываваная."
+
+#~ msgid "Please enter your license key."
+#~ msgstr "Калі ласка, увядзіце ваш ліцэнзійны ключ."
+
+#~ msgid "Manage purchased licenses & subscriptions"
+#~ msgstr "Кіраванне набытых ліцэнзій і падпіскі"
+
+#~ msgid "Enter your license key"
+#~ msgstr "Увядзіце ліцэнзійны ключ"
+
+#~ msgid "Activate Membership"
+#~ msgstr "Актываваць Сяброўства"
+
+#~ msgid "Don’t have valid license key yet?"
+#~ msgstr "Яшчэ не мееце дзеючы ліцэнзійны ключ?"
+
+#~ msgid "Subscribe to Pro Membership Now"
+#~ msgstr "Зараз падпісацца на Pro сяброўства"
+
+#~ msgid "Upload Plugin"
+#~ msgstr "Загрузіць плагін"
+
+#~ msgid ""
+#~ "The plugin generated %d characters of <strong>unexpected output</strong> "
+#~ "during activation. If you notice &#8220;headers already sent&#8221; "
+#~ "messages, problems with syndication feeds or other issues, try "
+#~ "deactivating or removing this plugin."
+#~ msgstr ""
+#~ "Плагін вырабіў пры актывацыі% d сімвалаў <strong> нечаканага вываду</"
+#~ "strong>. Калі вы заўважыце памылку &#8220;headers already sent&#8221; "
+#~ "праблемы з RSS-стужкамі або іншыя непаладкі, паспрабуйце дэактываваць або "
+#~ "выдаліць гэты плагін."
+
+#~ msgid ""
+#~ "Plugin could not be activated because it triggered a <strong>fatal error</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Плагін не можа быць актываваны, паколькі ён выклікаў <strong>фатальную "
+#~ "памылку</strong>."
+
+#~ msgid "Plugin <strong>activated</strong>."
+#~ msgstr "Плагін <strong>актываваны</strong>."
+
+#~ msgid "Installing Plugin"
+#~ msgstr "Устаноўка плагіна"
+
+#~ msgid "Downloading install package from"
+#~ msgstr "Запампоўка усталявальнага пакета з "
+
+#~ msgid "Unpacking the package"
+#~ msgstr "Распакаванне пакета "
+
+#~ msgid "Installing the plugin"
+#~ msgstr "Устаноўка плагіна "
+
+#~ msgid "Successfully installed the plugin"
+#~ msgstr "Плагін паспяхова ўсталяваны"
+
+#~ msgid "Activate Plugin"
+#~ msgstr "Актываваць плагін "
+
+#~ msgid "Return to BestWebSoft Panel"
+#~ msgstr "Вяртанне да панэлі  BestWebSoft"
+
+#~ msgid "Not Installed"
+#~ msgstr "Не ўстаноўлены "
+
+#~ msgid "Filter results"
+#~ msgstr "Фільтр вынікаў "
+
+#~ msgid "Category"
+#~ msgstr "Катэгорыя "
+
+#~ msgid "Renew to get updates"
+#~ msgstr "Абнавіць для атрымання абнаўленняў "
+
+#~ msgid "Update to v %s"
+#~ msgstr "Абнаўленне да версіі %s"
+
+#~ msgid "Upgrade to Pro"
+#~ msgstr "Абнаўленне да Pro "
+
+#~ msgid "Donate"
+#~ msgstr "ахвяраваць "
+
+#~ msgid "Install this plugin"
+#~ msgstr "Усталяваць гэты плагін"
+
+#~ msgid "Nothing found. Try another criteria."
+#~ msgstr "Нічога не знойдзена. Паспрабуйце яшчэ крытэрыі. "
+
+#~ msgid "Advertisement"
+#~ msgstr "Рэклама "
+
+#~ msgid "Content & Media"
+#~ msgstr "Змест і СМІ "
+
+#~ msgid "Management"
+#~ msgstr "Кіраванне "
+
+#~ msgid "Security"
+#~ msgstr "Бяспекі "
+
+#~ msgid "Site Stats"
+#~ msgstr "Статыстыка сайта "
+
+#~ msgid "Social"
+#~ msgstr "Сацыяльная "
+
+#~ msgid "Utilities"
+#~ msgstr "Уціліты "
+
+#~ msgid "Other"
+#~ msgstr "Іншае "
+
+#~ msgid "#1 super security anti-spam captcha plugin for Wordpress forms."
+#~ msgstr "Плагін CAPTCHA # 1 па барацьбе са спамам для формаў Wordpress."
+
+#~ msgid "Donations play an important role in supporting great projects"
+#~ msgstr "Ахвяраванні гуляюць важную ролю ў падтрымцы вялікіх праектаў "
+
+#~ msgid "Enter your license key to install and activate"
+#~ msgstr "Увядзіце ліцэнзійны ключ для ўстаноўкі і актывацыі "
+
+#~ msgid "version of the plugin."
+#~ msgstr "версія плагіна."
+
+#~ msgid "License key can be found in the"
+#~ msgstr "Ліцэнзійны ключ можна знайсці ў"
+
+#~ msgid "(your username is the email address specified during the purchase)."
+#~ msgstr ""
+#~ "(Вашым імем карыстальніка з'яўляецца адрас электроннай пошты пазначаны "
+#~ "пры куплі)."
+
+#~ msgid "Add BWS Shortcode"
+#~ msgstr "Дадаць шоткод BWS"
+
+#~ msgid "Browse Free WordPress Themes"
+#~ msgstr "Бясплатны агляд тэмы WordPress"
+
+#~ msgid "This setting is available in Pro version"
+#~ msgstr "Гэтая опцыя даступная толькі для Pro-версіі плагіна"
+
+#~ msgid "WooCommerce login form"
+#~ msgstr "Форма лагіна плагіна WooCommerce"
+
+#~ msgid "WooCommerce Register form"
+#~ msgstr "Форма рэгістрацыі плагіна WooCommerce"
+
+#~ msgid "WooCommerce Lost Password form"
+#~ msgstr "Форма аднаўлення пароля плагіна WooCommerce"
+
+#~ msgid "WooCommerce Checkout Billing form"
+#~ msgstr "Форма замовы плагіна WooCommerce"
+
+#~ msgid "Date"
+#~ msgstr "дата"
+
+#~ msgid "Buddypress \"Create a Group\" form"
+#~ msgstr "Форма \"Стварыць групу\" плагіна Buddypress"
+
+#~ msgid "Not enough permissions to create or update the file"
+#~ msgstr "Не хапае дазволаў для стварэння або абнаўлення файла "
+
+#~ msgid "These styles will be added to the header on all pages of your site."
+#~ msgstr ""
+#~ "Гэтыя стылі будуць дададзены ў загаловак на ўсіх старонках вашага сайта. "
+
+#~ msgid "Editing"
+#~ msgstr "Рэдагаваць"
+
+#~ msgid "Browsing"
+#~ msgstr "Прагляд"
+
+#~ msgid "Learn more about %s"
+#~ msgstr "Больш падрабязна пра  %s"
+
+#~ msgid ""
+#~ "You need to make this files writable before you can save your changes. "
+#~ "See %s the Codex %s for more information."
+#~ msgstr ""
+#~ "Вам неабходна зрабіць гэты файл даступным для запісу, перш чым захаваць "
+#~ "змены. Для атрымання дадатковай інфармацыі, калі ласка, глядзіце %s the "
+#~ "Codex %s."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to edit plugins for this site."
+#~ msgstr ""
+#~ "У вас недастаткова паўнамоцтваў, каб рэдагаваць плагіны на гэтым сайце. "
+
+#~ msgid "File %s edited successfully."
+#~ msgstr "Файл %s паспяхова зменены."
+
+#~ msgid "Thank you for choosing"
+#~ msgstr "Дзякуй за выбар"
+
+#~ msgid ""
+#~ "If you have a feature, suggestion or idea you'd like to see in the "
+#~ "plugin, we'd love to hear about it!"
+#~ msgstr ""
+#~ "Калі ў вас ёсць прапановы па даданні новага або паляпшэнні бягучага "
+#~ "функцыяналу плагіна, калі ласка, дасылайце іх нам! Мы вседа адкрытыя для "
+#~ "новых ідэй!"
+
+#~ msgid "Suggest a Feature"
+#~ msgstr "Прапанаваць функцыянал"
+
+#~ msgid "File packages.txt not found. Package not saved."
+#~ msgstr "Файл пакеты.txt не знойдзены. Пакет не захаваны."
+
+#~ msgid "Can not read data from packages.txt. Packages not saved."
+#~ msgstr "Немагчыма прачытаць дадзеныя файла пакеты.txt. Пакеты не захаваныя."
+
+#~ msgid "Package successfully loaded."
+#~ msgstr "Пакет паспяхова загружаны"
+
+#~ msgid "This options is available in Pro version of plugin"
+#~ msgstr "Дадзены функцыянал даступны ў Pro версіі плагіна"
+
+#~ msgid "Use several packages at the same time"
+#~ msgstr "Выкарыстоўвайце некалькі пакетаў адначасова."
+
+#~ msgid ""
+#~ "If this option is enabled, CAPTCHA will be use pictures from different "
+#~ "packages at the same time"
+#~ msgstr ""
+#~ "Если эта опция включена, CAPTCHA будет использовать изображения из "
+#~ "нескольких пакетов одновременно."
+
+#~ msgid "Set time limit"
+#~ msgstr "Усталяваць час абмежавання"
+
+#~ msgid "Title"
+#~ msgstr "Імя"
+
+#~ msgid "for network"
+#~ msgstr "для сеткі"
+
+#~ msgid "Please select one item in the block Enable image packages"
+#~ msgstr "Калі ласка, абярыце адзін элемент у блоку Уключыць пакеты малюнкаў"
+
+#~ msgid "Basic"
+#~ msgstr "Базавы"
+
+#~ msgid "Advanced"
+#~ msgstr "Прасунуты"
+
+#~ msgid "Submit a Request"
+#~ msgstr "адправіць запыт"
+
+#~ msgid "Documentation"
+#~ msgstr "дакументацыя"
+
+#~ msgid "Check premium options on the plugin settings page!"
+#~ msgstr "Праглядзіце прэміум опцыі на старонцы настроек плагіна!"
+
+#~ msgid "Show Pro features"
+#~ msgstr "Паказаць Pro опцыі"
+
+#~ msgid ""
+#~ "You can always look at premium options by clicking on the \"Show Pro "
+#~ "features\" in the \"Go PRO\" tab"
+#~ msgstr ""
+#~ "Вы заўсёды можаце паглядзець прэміум опцыі націснуўшы на кнопку "
+#~ "\"Паказаць Pro опцыі\" на ўкладцы \"Перайсці на PRO\""
+
+#~ msgid "Add shortcode"
+#~ msgstr "дадаць шорткод"
+
+#~ msgid "Add BestWebSoft plugins' shortcodes using this button."
+#~ msgstr "Дадайце шорткоды BestWebSoft ўбудоў з дапамогай гэтай кнопкі."
+
+#~ msgid "Visit Help Center"
+#~ msgstr "Перайсці ў Help Center"
+
+#~ msgid "For more information:"
+#~ msgstr "Больш падрабязная інфармацыя:"
+
+#~ msgid "The plugin's settings have been changed."
+#~ msgstr "Налады ўбудовы былі змененыя"
+
+#~ msgid "Add BWS Plugins Shortcode"
+#~ msgstr "Дадаць шорткод BWS плагіна"
+
+#~ msgid "Plugin"
+#~ msgstr "Плагін"
+
+#~ msgid "Shortcode settings"
+#~ msgstr "налады шорткодов"
+
+#~ msgid "The shortcode will be inserted"
+#~ msgstr "Будзе ўстаўлены шорткод"
+
+#~ msgid "download"
+#~ msgstr "спампаваць"
+
+#~ msgid ""
+#~ "or higher! We do not guarantee that our plugin will work correctly. "
+#~ "Please upgrade to WordPress latest version."
+#~ msgstr ""
+#~ "або вышэй! Мы не гарантуем, што наша ўбудова будзе працаваць карэктна. "
+#~ "Калі ласка, абновіце WordPress да апошняй версіі."
+
+#~ msgid "Thank you for installing"
+#~ msgstr "Дзякуй за ўстаноўку"
+
+#~ msgid "Let's get started"
+#~ msgstr "давайце пачнем"
+
+#~ msgid "Close notice"
+#~ msgstr "зачыніць паведамленне"
+
+#~ msgid "Environment"
+#~ msgstr "Сістэмная серада"
+
+#~ msgid "Active Plugins"
+#~ msgstr "Актываваныя плагіны"
+
+#~ msgid "Inactive Plugins"
+#~ msgstr "Неактыўныя плагіны"
+
+#~ msgid "Send to support"
+#~ msgstr "Адправіць у тэхпадтрымку"
+
+#~ msgid "Send to custom email &#187;"
+#~ msgstr "Адправіць на емейл  &#187;"
+
+#~ msgid "Captcha"
+#~ msgstr "Captcha"
+
+#~ msgid "Plus (&#43;)"
+#~ msgstr "Плюс (&#43;)"
+
+#~ msgid "Minus (&minus;)"
+#~ msgstr "Мінус (&minus;)"
+
+#~ msgid "Multiply"
+#~ msgstr "множанне"
+
+#~ msgid ""
+#~ "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
+#~ msgstr ""
+#~ "Калі ласка, абярыце адзін элемент у блоку Арыфметыцы і Складанасці для "
+#~ "CAPTCHA"
+
+#~ msgid "Go PRO"
+#~ msgstr "Перайсці на PRO версію"
+
+#~ msgid "Notice"
+#~ msgstr "Апавяшчэнне"
+
+#~ msgid "Arithmetic actions for CAPTCHA"
+#~ msgstr "Арыфметычныя дзеянні для CAPTCHA"
+
+#~ msgid "If you would like to add Captcha to a custom form, please see"
+#~ msgstr ""
+#~ "Калі вы хацелі б дадаць да Captcha карыстацкую форму, паглядзіце калі "
+#~ "ласка"
+
+#~ msgid "If you upgrade to Pro version all your settings will be saved."
+#~ msgstr "Падчас абнаўлення да версіі Pro усе вашы налады будуць захаваны."
+
+#~ msgid "Unlock premium options by upgrading to Pro version"
+#~ msgstr "Актывуйце прэміум опцыі абнавіць да Pro версіі"
+
+#~ msgid "Reason"
+#~ msgstr "прычына"
+
+#~ msgid "Allowed separators for IPs: a comma"
+#~ msgstr "Даступныя падзельнікі для IP-адрасоў: коска"
+
+#~ msgid "semicolon"
+#~ msgstr "кропка з коскай"
+
+#~ msgid "ordinary space, tab, new line or carriage return"
+#~ msgstr "звычайны прабел, табуляцыя або новая радок"
+
+#~ msgid "Allowed separators for reasons: a comma"
+#~ msgstr "Даступныя падзельнікі для прычын: коска"
+
+#~ msgid "tab, new line or carriage return"
+#~ msgstr "табуляцыя або новы радок"
+
+#~ msgid "Captcha by BestWebSoft"
+#~ msgstr "Captcha by BestWebSoft"
+
+#~ msgid "BestWebSoft"
+#~ msgstr "BestWebSoft"
+
+#~ msgid "https://bestwebsoft.com/"
+#~ msgstr "https://bestwebsoft.com/"
+
+#~ msgid "requires"
+#~ msgstr "патрабуе"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "або вышэй, таму ён быў дэактываваны! Калі ласка, абновіце WordPress і "
+#~ "паспрабуйце яшчэ раз."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Вярнуцца да WordPress на"
+
+#~ msgid "Plugins page"
+#~ msgstr "Старонка плагінаў"
+
+#~ msgid "It’s time to upgrade your"
+#~ msgstr "Настаў час абнавіць Ваш"
+
+#~ msgid "to"
+#~ msgstr "да"
+
+#~ msgid "Extend standard plugin functionality with new great options."
+#~ msgstr "Пашырае магчымасці стандартнага функцыяналу плагіна."
+
+#~ msgid "Learn More"
+#~ msgstr "чытаць далей"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Калі вам спадабаўся плагін, калі ласка, пастаўце нам 5 зорак на WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Ацаніць плагін"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Калі ў вас ёсць нейкія пытанні, звяртайцеся"
+
+#~ msgid "Wrong license key"
+#~ msgstr "Няправільны ліцэнзійны ключ"
+
+#~ msgid ""
+#~ "Something went wrong. Please try again later. If the error appears again, "
+#~ "please contact us"
+#~ msgstr ""
+#~ "Нешта пайшло не так. Паспрабуйце яшчэ раз пазней. Калі памылка з'явіцца "
+#~ "зноў, калі ласка, звяжыцеся з намі."
+
+#~ msgid "We are sorry for inconvenience."
+#~ msgstr "Просім прабачэння за нязручнасці."
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Гэты ліцэнзійны ключ прывязаны да іншага сайту"
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "На жаль, вы перавысілі колькасць даступных спробаў у дзень. Калі ласка, "
+#~ "загрузіце плагін ўручную."
+
+#~ msgid ""
+#~ "Unfortunately, Your license has expired. To continue getting top-priority "
+#~ "support and plugin updates you should extend it in your"
+#~ msgstr ""
+#~ "На жаль, час выкарыстання вашай ліцэнзіі скончыўся. Для атрымання "
+#~ "абнаўленняў прыярытэтнага саппорта вам трэба падоўжыць ліцэнзію "
+#~ "перайшоўшы на вашай"
+
+#~ msgid ""
+#~ "Unfortunately, the Pro licence was already installed to this domain. The "
+#~ "Pro Trial license can be installed only once."
+#~ msgstr ""
+#~ "На жаль, Pro ліцэнзія ўжо была ўсталяваная на гэтым дамене. Pro Trial "
+#~ "ліцэнзія можа быць усталяваная толькі адзін раз."
+
+#~ msgid ""
+#~ "Failed to download the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Не атрымалася загрузіць архіў плагіна. Калі ласка, загрузіце плагін "
+#~ "ўручную"
+
+#~ msgid "Failed to open the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Не атрымалася адкрыць архіў ZIP. Калі ласка, загрузіце плагін ўручную"
+
+#~ msgid ""
+#~ "Your server does not support either ZipArchive or Phar. Please, upload "
+#~ "the plugin manually"
+#~ msgstr ""
+#~ "Ваш сервер не падтрымлівае ні бібліятэку ZipArchive, ні бібліятэку Phar. "
+#~ "Калі ласка, загрузіце плагін ўручную"
+
+#~ msgid "UploadDir is not writable. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Тэчка загрузкі недаступная для запісу. Калі ласка, загрузіце плагін "
+#~ "ўручную"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvenience."
+#~ msgstr ""
+#~ "Нешта пайшло не так. Паспрабуйце яшчэ раз пазней ці загрузіце плагін "
+#~ "ўручную. Просім прабачэння за гэтыя нязручнасці."
+
+#~ msgid "Please, enter Your license key"
+#~ msgstr "Калі ласка, увядзіце ваш ліцэнзійны ключ"
+
+#~ msgid ""
+#~ "Congratulations! Pro version of the plugin is successfully installed and "
+#~ "activated."
+#~ msgstr "Віншуем! Pro версія плагіна была паспяхова ўсталявана і актывавана."
+
+#~ msgid "Please, go to"
+#~ msgstr "Калі ласка, перайдзіце на"
+
+#~ msgid "You will be redirected automatically in 5 seconds."
+#~ msgstr "Вы будзеце перанакіраваны аўтаматычна праз 5 секунд."
+
+#~ msgid "Start Your Free %s-Day Trial Now"
+#~ msgstr "Паспрабуйце %s-дзённую Трыял версію бясплатна"
+
+#~ msgid ""
+#~ "In order to continue using the plugin it is necessary to buy a %s license."
+#~ msgstr "Каб працягнуць карыстацца плагінам, неабходна набыць %s ліцэнзію."
+
+#~ msgid "After that you can activate it by entering your license key."
+#~ msgstr "Пасля гэтага вы зможаце актываваць яго ўвёўшы ліцэнзійны ключ."
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day."
+#~ msgstr "На жаль, вы перавысілі колькасць даступных спробаў."
+
+#~ msgid ""
+#~ "Congratulations! The Pro license of the plugin is successfully activated."
+#~ msgstr "Віншуем! Pro версія плагіна была паспяхова актываваная."
+
+#~ msgid "Wrong license key."
+#~ msgstr "Няправільны ліцэнзійны ключ."
+
+#~ msgid "This license key is bind to another site."
+#~ msgstr "Гэты ліцэнзійны ключ прывязаны да іншага сайту."
+
+#~ msgid ""
+#~ "This license key is valid, but Your license has expired. If you want to "
+#~ "update our plugin in future, you should extend the license."
+#~ msgstr ""
+#~ "Ліцэнзійны ключ прыняты, але тэрмін дзеяння ліцэнзіі мінуў. Калі вы "
+#~ "хочаце абнаўляць плагін ў будучыні, вы павінны падоўжыць ліцэнзію."
+
+#~ msgid "Unfortunately, you have exceeded the number of available tries."
+#~ msgstr "На жаль, вы перавысілі колькасць даступных спробаў."
+
+#~ msgid ""
+#~ "Unfortunately, the Pro Trial licence was already installed to this "
+#~ "domain. The Pro Trial license can be installed only once."
+#~ msgstr ""
+#~ "На жаль, Pro ліцэнзія ўжо была ўсталяваная на гэтым дамене. Pro Trial "
+#~ "ліцэнзія можа быць усталяваная толькі адзін раз."
+
+#~ msgid "The Pro Trial license key is valid."
+#~ msgstr "Ключ Pro Trial версіі сапраўдны."
+
+#~ msgid "The license key is valid."
+#~ msgstr "Ліцэнзійны ключ сапраўдны."
+
+#~ msgid "Your license will expire on"
+#~ msgstr "Ваша ліцэнзія мінае"
+
+#~ msgid "Please, enter your license key"
+#~ msgstr "Калі ласка, увядзіце Ваш ліцэнзійны ключ"
+
+#~ msgid ""
+#~ "If needed you can check if the license key is correct or reenter it in "
+#~ "the field below. You can find your license key on your personal page - "
+#~ "Client area - on our website"
+#~ msgstr ""
+#~ "Пры неабходнасці вы можаце праверыць валіднасць ліцэнзійнага ключа або "
+#~ "паўторна ўвесці яго ў полі ніжэй. Вы можаце знайсці ваш ліцэнзійны ключ "
+#~ "на сваёй асабістай старонцы - Client area - на нашым сайце"
+
+#~ msgid ""
+#~ "(your username is the email address specified during the purchase). If "
+#~ "necessary, please submit \"Lost your password?\" request."
+#~ msgstr ""
+#~ "(Ваш карыстальнік гэта емейл, які вы пазначылі пры куплі прадукту). Пры "
+#~ "неабходнасці націсніце \"Забылі пароль?\"."
+
+#~ msgid "Check license key"
+#~ msgstr "Праверка ліцэнзійнага ключа"
+
+#~ msgid "WARNING: Illegal use notification"
+#~ msgstr "УВАГА: апавяшчэнне аб незаконным выкарыстанні"
+
+#~ msgid ""
+#~ "You can use one license of the Pro plugin for one domain only. Please "
+#~ "check and edit your license or domain if necessary using you personal "
+#~ "Client Area. We strongly recommend you to solve the problem within 24 "
+#~ "hours, otherwise the Pro plugin will be deactivated."
+#~ msgstr ""
+#~ "Вы можаце выкарыстаць адну ліцэнзію Pro плагіна толькі для аднаго дамена. "
+#~ "Калі ласка, праверце і адрэдагуйце пры неабходнасці ліцэнзію або дамен, "
+#~ "выкарыстоўваючы Ваш асабісты Client Area. Мы настойліва раім вам вырашыць "
+#~ "праблему на працягу 24 гадзін, у адваротным выпадку плагін будзе "
+#~ "дэактываваны."
+
+#~ msgid ""
+#~ "Notice: Your Pro Trial license has expired. To continue using the plugin "
+#~ "you should buy a Pro license"
+#~ msgstr ""
+#~ "Увага: Тэрмін дзеяння Pro Trial версіі мінуў. Каб працягнуць карыстацца "
+#~ "плагінам, калі ласка, набудзьце ліцэнзію Pro"
+
+#~ msgid ""
+#~ "Your license has expired. To continue getting top-priority support and "
+#~ "plugin updates you should extend it."
+#~ msgstr ""
+#~ "Час выкарыстання вашай ліцэнзіі скончыўся. Калі вы хочаце абнаўляць ваш "
+#~ "плагін ў далейшым і мець прыярытэтную Тых. падтрымку, то вам трэба "
+#~ "падоўжыць ліцэнзію."
+
+#~ msgid "Learn more"
+#~ msgstr "вывучыць больш"
+
+#~ msgid "Notice: You are using the Pro Trial license of %s plugin."
+#~ msgstr "Увага: Вы выкарыстоўваеце Pro Trial версію плагіна %s ."
+
+#~ msgid "Notice: You are using the Pro Trial license of plugin."
+#~ msgstr "Увага: Вы выкарыстоўваеце Pro Trial версію плагіна."
+
+#~ msgid "The Pro Trial license will expire on"
+#~ msgstr "Ваша ліцэнзія Pro Trial версіі плагіна мінае"
+
+#~ msgid "You license for"
+#~ msgstr "Ваш ліцэнзійны ключ для"
+
+#~ msgid "expires on"
+#~ msgstr "мінае"
+
+#~ msgid "and you won't be granted TOP-PRIORITY SUPPORT or UPDATES."
+#~ msgstr ""
+#~ "і вы не будзеце атрымліваць прыярытэтную тэхпадтрымку або абнаўлення."
+
+#~ msgid "Restore all plugin settings to defaults"
+#~ msgstr "Аднавіць усе налады плагіна да налад па змаўчанні"
+
+#~ msgid "Restore settings"
+#~ msgstr "аднавіць налады"
+
+#~ msgid "Are you sure you want to restore all settings by default?"
+#~ msgstr ""
+#~ "Вы ўпэўнены, што жадаеце аднавіць усе налады плагіна да налад па "
+#~ "змаўчанні?"
+
+#~ msgid "Yes, restore all settings"
+#~ msgstr "Так, аднавіць усе налады"
+
+#~ msgid "No, go back to the settings page"
+#~ msgstr "Не, вярнуцца на старонку налад"
+
+#~ msgid "Not set"
+#~ msgstr "няма ўсталёўкі"
+
+#~ msgid "On"
+#~ msgstr "Укл"
+
+#~ msgid "Off"
+#~ msgstr "Выкл"
+
+#~ msgid "N/A"
+#~ msgstr "Невядома"
+
+#~ msgid " Mb"
+#~ msgstr "Mb"
+
+#~ msgid "Yes"
+#~ msgstr "Да"
+
+#~ msgid "No"
+#~ msgstr "Не"
+
+#~ msgid "Operating System"
+#~ msgstr "Аперацыйная сістэма"
+
+#~ msgid "Server"
+#~ msgstr "сервер"
+
+#~ msgid "Memory usage"
+#~ msgstr "памяці выкарыстана"
+
+#~ msgid "MYSQL Version"
+#~ msgstr "версія MYSQL"
+
+#~ msgid "SQL Mode"
+#~ msgstr "мадэль SQL"
+
+#~ msgid "PHP Version"
+#~ msgstr "Версія PHP"
+
+#~ msgid "PHP Safe Mode"
+#~ msgstr "PHP бяспечная мадэль"
+
+#~ msgid "PHP Allow URL fopen"
+#~ msgstr "PHP дазволіць URL fopen"
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "PHP абмежаванні памяці"
+
+#~ msgid "PHP Max Upload Size"
+#~ msgstr "PHP максімальны памер загрузкі"
+
+#~ msgid "PHP Max Post Size"
+#~ msgstr "PHP максімальный памер  запісу"
+
+#~ msgid "PHP Max Script Execute Time"
+#~ msgstr "PHP максмальное час выполненя скрыпту"
+
+#~ msgid "PHP Exif support"
+#~ msgstr "PHP падтрымка"
+
+#~ msgid "PHP IPTC support"
+#~ msgstr "PHP IPTC падтрымка"
+
+#~ msgid "PHP XML support"
+#~ msgstr "PHP XML падтрымка"
+
+#~ msgid "Site URL"
+#~ msgstr "адрас сайта"
+
+#~ msgid "Home URL"
+#~ msgstr "Дамашні URL"
+
+#~ msgid "WordPress Version"
+#~ msgstr "версія WordPress"
+
+#~ msgid "WordPress DB Version"
+#~ msgstr "Версія базы дадзеных WordPress"
+
+#~ msgid "Multisite"
+#~ msgstr "Мультыблог"
+
+#~ msgid "Active Theme"
+#~ msgstr "бягучая тэма"
+
+#~ msgid "Please enter a valid email address."
+#~ msgstr "Пакіньце Ваш email."
+
+#~ msgid "Email with system info is sent to "
+#~ msgstr "Email з сістэмнай інфармацыяй адпраўлены на"
+
+#~ msgid "Thank you for contacting us."
+#~ msgstr "Дзякуй, што звязаліся з намі."
+
+#~ msgid "Sorry, email message could not be delivered."
+#~ msgstr "Выбачайце, ваш емайл не можа быць адпраўлены."
+
+#~ msgid "Client Area"
+#~ msgstr "Client Area"
+
+#~ msgid "System status"
+#~ msgstr "сістэмная інфармацыя"
+
+#~ msgid "Plugins"
+#~ msgstr "Плагіны"
+
+#~ msgid "Themes"
+#~ msgstr "Тэмы"
+
+#~ msgid "All"
+#~ msgstr "Усё"
+
+#~ msgid "Recommended"
+#~ msgstr "рэкамендаваныя"
+
+#~ msgid "Activate this plugin"
+#~ msgstr "актываваць плагін"
+
+#~ msgid "This theme is already installed and is up to date"
+#~ msgstr "Гэтая тэма ўжо ўстаноўлена і абноўленая да апошняй версіі"
+
+#~ msgctxt "theme"
+#~ msgid "Installed"
+#~ msgstr "Усталявана"
+
+#~ msgid "By %s"
+#~ msgstr "да %s"
+
+#~ msgid "Already Installed"
+#~ msgstr "Ужо ўсталявана"

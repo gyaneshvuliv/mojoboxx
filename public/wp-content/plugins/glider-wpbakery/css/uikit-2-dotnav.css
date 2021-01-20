@@ -1,0 +1,124 @@
+/**
+ * Glider Create a responsive carousel slider.
+ * Exclusively on Envato Market: https://1.envato.market/glider-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.1
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+/* ========================================================================
+   Component: Dotnav
+ ========================================================================== */
+/*
+ * 1. Gutter
+ * 2. Remove default list style
+ */
+.mdp-dotnav {
+  display: flex;
+  flex-wrap: wrap;
+  /* 1 */
+  margin: 0;
+  /* 2 */
+  padding: 0;
+  list-style: none; }
+
+/*
+ * 1. Space is allocated solely based on content dimensions
+ * 2. Horizontal gutter is using `padding` so `mdp-width-*` classes can be applied
+ */
+.mdp-dotnav > * {
+  /* 1 */
+  flex: none;
+  /* 2 */
+  padding-left: 15px;
+  margin-top: 15px; }
+
+/*
+ * DEPRECATED IE9 Support
+ */
+.mdp-dotnav:before,
+.mdp-dotnav:after {
+  content: "";
+  display: block;
+  overflow: hidden; }
+
+.mdp-dotnav:after {
+  clear: both; }
+
+.mdp-dotnav > * {
+  float: left; }
+
+/* Items
+ ========================================================================== */
+/*
+ * Items
+ * 1. Hide text if present
+ */
+.mdp-dotnav > * > * {
+  display: block;
+  box-sizing: content-box;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: rgba(50, 50, 50, 0.1);
+  /* 1 */
+  text-indent: 100%;
+  overflow: hidden;
+  white-space: nowrap; }
+
+/*
+ * Hover
+ * 1. Apply hover style also to focus state
+ * 2. Remove default focus style
+ */
+.mdp-dotnav > * > :hover,
+.mdp-dotnav > * > :focus {
+  background: rgba(50, 50, 50, 0.4);
+  /* 2 */
+  outline: none; }
+
+/* OnClick */
+.mdp-dotnav > * > :active {
+  background: rgba(50, 50, 50, 0.6); }
+
+/* Active */
+.mdp-dotnav > .mdp-active > * {
+  background: rgba(50, 50, 50, 0.4); }
+
+/* Modifier: `mdp-dotnav-contrast`
+ ========================================================================== */
+.mdp-dotnav-contrast > * > * {
+  background: rgba(255, 255, 255, 0.4); }
+
+/*
+ * Hover
+ * 1. Apply hover style also to focus state
+ */
+.mdp-dotnav-contrast > * > :hover,
+.mdp-dotnav-contrast > * > :focus {
+  background: rgba(255, 255, 255, 0.7); }
+
+/* OnClick */
+.mdp-dotnav-contrast > * > :active {
+  background: rgba(255, 255, 255, 0.9); }
+
+/* Active */
+.mdp-dotnav-contrast > .mdp-active > * {
+  background: rgba(255, 255, 255, 0.9); }
+
+/* Modifier: 'mdp-dotnav-vertical'
+ ========================================================================== */
+/*
+ * DEPRECATED
+ */
+.mdp-dotnav-vertical {
+  flex-direction: column; }
+
+/*
+ * DEPRECATED IE9 Support
+ */
+.mdp-dotnav-vertical > * {
+  float: none; }

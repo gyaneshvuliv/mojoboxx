@@ -1,0 +1,682 @@
+# Copyright (C) 2020 Glider for WPBakery
+# This file is distributed under the same license as the Glider for WPBakery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Glider for WPBakery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/glider-wpbakery/uninstall.php:148, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/EnvatoItem.php:144, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Helper.php:295, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:432, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:202, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginUpdater.php:390, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:445, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:354, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/StatusTab.php:211, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UI.php:429, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:150, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:389
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/uninstall.php:163, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/EnvatoItem.php:159, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Helper.php:310, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:447, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:220, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginUpdater.php:405, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:460, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:369, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/StatusTab.php:226, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UI.php:446, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:165, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:404
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:83
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:93
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:88
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:314
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:320
+msgid "CodeCanyon purchase code"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:321
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:350
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:354
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:357
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:358
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:359
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:360
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:361, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:395
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:367
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:371
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:372
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:373
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:379
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:383
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:389
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:393
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginActivation.php:394
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:124, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:124
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:125, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:125, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:155
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:126, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:126
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginHelper.php:147
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginUpdater.php:352
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginUpdater.php:354
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/PluginUpdater.php:356
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:74
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:75
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:76
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:78
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:79
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:80
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:81
+msgid "WPBakery Installed"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:147
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:173, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:197, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:223, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:248, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:273, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:298
+msgid "YES"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:173, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:197, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:223, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:248, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:273, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:298
+msgid "NO"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:199
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:225
+msgid "You need install and activate WPBakery builder. Go to WPBakery site (wpbakery.com.com) for details."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:250
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:275
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:300
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:345
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:353
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:359
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:374
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/ServerReporter.php:370
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:74
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:82
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:88
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:101
+msgid "GliderWPBakery"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:104, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:701
+msgid "Glider"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:107
+msgid "ver."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:112
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:118
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:151
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:161
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:165
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:171
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:225
+msgid "Glider for WPBakery Settings"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:226
+msgid "Glider for WPBakery"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:275
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:270
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:301
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:317
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/Settings.php:312
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/StatusTab.php:177
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:77
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:100
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:101
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:105
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/UninstallTab.php:111
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:77
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:78
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:79
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:80
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:81
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:82
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:83
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:84
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:149
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:191
+msgid "Yes"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:191
+msgid "No"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:252
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:356
+msgid "Active"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WordPressReporter.php:356
+msgid "Inactive"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/01-glider.template.php:16
+msgid "Glider – Team slide-set"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/02-glider.template.php:16
+msgid "Glider – Testimonials slide-set"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/03-glider.template.php:16
+msgid "Glider – Clients slide-set"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/04-glider.template.php:16
+msgid "Glider – Contacts slider"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/05-glider.template.php:16
+msgid "Glider – Portfolio slide-set"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/templates/06-glider.template.php:16
+msgid "Glider - Fullscreen slider"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:456, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:536
+msgid "Small"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:457, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:475, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:493, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:511, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:526, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:536, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:547, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:557, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:567, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:581, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:537, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:556, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:575, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:594, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:611, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:625, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:642, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:652, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:662, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:676
+msgid "General"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:458, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:538
+msgid "Number of items you want to display on small breakpoint."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:474, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:555
+msgid "Medium"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:476, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:557
+msgid "Number of items you want to display on medium breakpoint."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:492, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:574
+msgid "Large"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:494, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:576
+msgid "Number of items you want to display on large breakpoint."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:510
+msgid "Item gutter"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:512
+msgid "Use it if you want some spacing between your elements."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:525
+msgid "Center Mode"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:527
+msgid "Enable this if you want to center the elements."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:535
+msgid "Enable Infinite Scrolling"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:537
+msgid "By default, the slider loops through all items. Enable this checkbox to disable that behaviour."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:546
+msgid "Fullscreen mode"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:548
+msgid "Each slide stretches to 100% the height of the viewport."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:556, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:651
+msgid "Autoplay"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:558
+msgid "Defines whether or not the slider items should switch automatically."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:566, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:661
+msgid "Autoplay Interval"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:568
+msgid "Defines the timespan between switching slider items, in milliseconds."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:580, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:675
+msgid "Pause on hover"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:582
+msgid "Pause autoplay when hovering a slider."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:599, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:694
+msgid "Show next and previous"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:600, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:610, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:628, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:645, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:662, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:676, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:695, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:705, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:723, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:740, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:757, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:771, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:784, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:794, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:808
+msgid "Navigation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:601
+msgid "Defines a navigation with previous and next buttons to browse through slider."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:609, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:704
+msgid "Position"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:627, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:722
+msgid "Prev Icon"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:644, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:739
+msgid "Next Icon"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:661, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:756
+msgid "Icon Size "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:663, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:758, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:795
+msgid "Enter size in px for previous and next buttons."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:675, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:770
+msgid "Icon color "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:693, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:694, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:767, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:775, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:776, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:783, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:802, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:813, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:825, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:826, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:914, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:922, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:923, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:930, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:949, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:960
+msgid "Style"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:706, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:742, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:751, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:838, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:874, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:883, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:892
+msgid "Content"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:708, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:840
+msgid "Create sets and groups of items, allowing to loop through the sets."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:741, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:873
+msgid "Title"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:743, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:875
+msgid "Title for slide item."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:750, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:882
+msgid "Slide Content"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:752
+msgid "Content of slide in the slider."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:766, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:913
+msgid "Height"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:790, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:937
+msgid "Enter font size."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:791, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:938
+msgid "Enter line height."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:792, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:939
+msgid "Select heading color."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:801, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:948
+msgid "Use default font family?"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:803, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:950
+msgid "Use font family from the theme."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:817, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:964
+msgid "Select font family."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:818, wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:965
+msgid "Select font styling."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:831
+msgid "Glider Slide"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/Glider/glider.wpbakery.php:834
+msgid "Single element of slider, You can place your images, HTML content or Video."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:593
+msgid "Gutter"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:595
+msgid "Create a horizontal gutter between columns."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:610
+msgid "Vertical Align"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:624
+msgid "Animation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:626
+msgid "Allows you to add different animations to items when switching between them."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:641
+msgid "Duration of animation"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:643
+msgid "Defines the transition duration in milliseconds."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:653
+msgid "Defines whether or not the slideset items should switch automatically."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:663
+msgid "Defines the timespan between switching slideset items, in milliseconds."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:677
+msgid "Pause autoplay when hovering a slideset."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:696
+msgid "Defines a navigation with previous and next buttons to browse through slideset."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:783
+msgid "Show Dotnav"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:785
+msgid "Create a dot navigation with a horizontal layout to navigate through slideset."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:793
+msgid "Dotnav Size "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:807
+msgid "Dotnav color "
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:833
+msgid "Glider SlideSet"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:884
+msgid "Content of slide in the slideset."
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:891
+msgid "Content Vertical Align"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:978
+msgid "Glider SlideSet Slide"
+msgstr ""
+
+#: wp-content/plugins/glider-wpbakery/src/Merkulove/GliderWPBakery/WPBakery/addons/GliderSlideSet/gliderslideset.wpbakery.php:981
+msgid "Single element of slideset, You can place your images, HTML content or Video."
+msgstr ""

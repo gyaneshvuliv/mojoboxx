@@ -1,0 +1,193 @@
+
+---Downloaded files---
+The import files for: Main demo (full) were successfully downloaded!
+Initial max execution time = 1080
+Files info:
+Site URL = https://mojoboxx.astralinfo.co.uk
+Data file = /home/astral/public_html/mojoboxx/wp-content/themes/mojobox//demo/main/all.xml
+Widget file = /home/astral/public_html/mojoboxx/wp-content/themes/mojobox//demo/main/widgets.wie
+Customizer file = not defined!
+Redux files:
+globax_enovathemes -> /home/astral/public_html/mojoboxx/wp-content/themes/mojobox//demo/main/options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Cargo
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_tag Logistics
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Transportation
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag Cargo
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_tag Logistics
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_tag Transportation
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Tshirts
+
+
+---Importing widgets---
+Blog widgets : 
+
+Search - No Title - Imported
+*Recent Posts - Recent posts - Imported
+* Mailchimp - Subscribe - Imported
+null-instagram-feed - Instagram - Site does not support widget
+Tag Cloud - Tags - Imported
+* Recent Tweets - Recent Tweets - Imported
+
+Blog single post page widgets : 
+
+Archives - Archive - Imported
+Search - No Title - Imported
+null-instagram-feed - Instagram - Site does not support widget
+* Recent Tweets - Recent Tweets - Imported
+Calendar - Calendar - Imported
+* Mailchimp - Subscribe - Imported
+Tag Cloud - Tags - Imported
+* Facebook Like Box - Find us on Facebook - Imported
+
+Shop widgets : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+woocommerce_recent_reviews - Recent reviews - Site does not support widget
+
+Shop single post page widgets : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_layered_nav_filters - Active filters - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average rating - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+woocommerce_recent_reviews - Recent reviews - Site does not support widget
+
+Page widgets #1 : 
+
+Archives - Archive - Imported
+Calendar - Calendar - Imported
+Categories - Categories - Imported
+Navigation Menu - Navigation menu - Imported
+Pages - Pages - Imported
+Recent Comments - Recent comments - Imported
+Recent Posts - Recent posts - Imported
+RSS - RSS - Imported
+Tag Cloud - Tags - Imported
+Meta - Meta - Imported
+Gallery - Gallery - Imported
+
+Page widgets #2 : 
+
+Navigation Menu - No Title - Imported
+
+Page widgets #3 : 
+
+* Fast Contact Form - Fast contact - Imported
+
+Page widgets #4 : 
+
+Navigation Menu - Services - Imported
+
+Page widgets #5 : 
+
+Navigation Menu - Career - Imported
+
+Sidebar widgets : 
+
+* Recent Projects - Recent project - Imported
+* Schedule - Schedule - Imported
+* Fast Contact Form - Fast contact - Imported
+
+Menu widgets : 
+
+* Registration/Login form - Login - Imported
+* Recent Projects - Recent project - Imported
+
+Footer widgets #2 : 
+
+Text - Offices - Imported
+
+Footer widgets #3 : 
+
+* Mailchimp - Subscribe - Imported
+
+Footer widgets #4 : 
+
+* Fast Contact Form - Fast contact - Imported
+
+Footer widgets #5 : 
+
+* Mailchimp - Subscribe - Imported
+
+Footer widgets #6 : 
+
+null-instagram-feed - Instagram - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: globax_enovathemes finished successfully!
+
+---pt-ocdi/after_import---
+

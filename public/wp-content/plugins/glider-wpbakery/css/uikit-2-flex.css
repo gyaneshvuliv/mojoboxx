@@ -1,0 +1,167 @@
+/**
+ * Glider Create a responsive carousel slider.
+ * Exclusively on Envato Market: https://1.envato.market/glider-wpbakery
+ *
+ * @encoding        UTF-8
+ * @version         1.0.1
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Alexander Khmelnitskiy (info@alexander.khmelnitskiy.ua), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+/* ========================================================================
+   Component: Flex
+ ========================================================================== */
+.mdp-flex {
+  display: flex; }
+
+.mdp-flex-inline {
+  display: inline-flex; }
+
+/*
+ * Fixes initial flex-shrink value in IE10
+ */
+.mdp-flex > *,
+.mdp-flex-inline > * {
+  -ms-flex-negative: 1; }
+
+/* Alignment
+ ========================================================================== */
+/*
+ * Vertical alignment
+ * Default value is `stretch`
+ */
+.mdp-flex-top {
+  align-items: flex-start; }
+
+.mdp-flex-middle {
+  align-items: center; }
+
+.mdp-flex-bottom {
+  align-items: flex-end; }
+
+/*
+ * Horizontal alignment
+ * Default value is `flex-start`
+ */
+.mdp-flex-center {
+  justify-content: center; }
+
+.mdp-flex-right {
+  justify-content: flex-end; }
+
+.mdp-flex-space-between {
+  justify-content: space-between; }
+
+.mdp-flex-space-around {
+  justify-content: space-around; }
+
+/* Direction
+ ========================================================================== */
+.mdp-flex-row-reverse {
+  flex-direction: row-reverse; }
+
+.mdp-flex-column {
+  flex-direction: column; }
+
+.mdp-flex-column-reverse {
+  flex-direction: column-reverse; }
+
+/* Wrap
+ ========================================================================== */
+.mdp-flex-nowrap {
+  flex-wrap: nowrap; }
+
+.mdp-flex-wrap {
+  flex-wrap: wrap; }
+
+.mdp-flex-wrap-reverse {
+  flex-wrap: wrap-reverse; }
+
+/*
+ * Horizontal alignment
+ * Default value is `stretch`
+ */
+.mdp-flex-wrap-top {
+  align-content: flex-start; }
+
+.mdp-flex-wrap-middle {
+  align-content: center; }
+
+.mdp-flex-wrap-bottom {
+  align-content: flex-end; }
+
+.mdp-flex-wrap-space-between {
+  align-content: space-between; }
+
+.mdp-flex-wrap-space-around {
+  align-content: space-around; }
+
+/* Item ordering
+ ========================================================================== */
+/*
+ * Default is 0
+ */
+.mdp-flex-order-first {
+  order: -1; }
+
+.mdp-flex-order-last {
+  order: 99; }
+
+/* Phone landscape and bigger */
+@media (min-width: 480px) {
+  .mdp-flex-order-first-small {
+    order: -1; }
+  .mdp-flex-order-last-small {
+    order: 99; } }
+
+/* Tablet and bigger */
+@media (min-width: 768px) {
+  .mdp-flex-order-first-medium {
+    order: -1; }
+  .mdp-flex-order-last-medium {
+    order: 99; } }
+
+/* Desktop and bigger */
+@media (min-width: 960px) {
+  .mdp-flex-order-first-large {
+    order: -1; }
+  .mdp-flex-order-last-large {
+    order: 99; } }
+
+/* Large screen and bigger */
+@media (min-width: 1220px) {
+  .mdp-flex-order-first-xlarge {
+    order: -1; }
+  .mdp-flex-order-last-xlarge {
+    order: 99; } }
+
+/* Item dimensions
+ ========================================================================== */
+/*
+ * Initial: 0 1 auto
+ * Content dimensions, but shrinks
+ */
+/*
+ * No Flex: 0 0 auto
+ * Content dimensions
+ */
+.mdp-flex-item-none {
+  flex: none; }
+
+/*
+ * Relative Flex: 1 1 auto
+ * Space is allocated considering content
+ * 1. Fixes flex-shrink value in IE10
+ */
+.mdp-flex-item-auto {
+  flex: auto;
+  /* 1 */
+  -ms-flex-negative: 1; }
+
+/*
+ * Absolute Flex: 1 1 0%
+ * Space is allocated solely based on flex
+ */
+.mdp-flex-item-1 {
+  flex: 1; }

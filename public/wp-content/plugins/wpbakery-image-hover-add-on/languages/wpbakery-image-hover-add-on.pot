@@ -1,0 +1,1038 @@
+# Copyright (C) 2020 InfiWebs
+# This file is distributed under the same license as the Image Hover Add-on for WPBakery Page Builder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Hover Add-on for WPBakery Page Builder 1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wpbakery-image-hover-add-on\n"
+"POT-Creation-Date: 2020-01-22 15:51:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/image-hover-add-on.php:56 inc/image-hover-add-on.php:563
+msgid "Your title goes here"
+msgstr ""
+
+#: inc/image-hover-add-on.php:60 inc/image-hover-add-on.php:610
+msgid ""
+"Your description text goes here. You can edit the text from the element "
+"settings."
+msgstr ""
+
+#: inc/image-hover-add-on.php:211
+msgid "Fade"
+msgstr ""
+
+#: inc/image-hover-add-on.php:212
+msgid "Fade in up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:213
+msgid "Fade in down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:214
+msgid "Fade in left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:215
+msgid "Fade in right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:218
+msgid "Push up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:219
+msgid "Push down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:220
+msgid "Push left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:221
+msgid "Push right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:224
+msgid "Slide up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:225
+msgid "Slide down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:226
+msgid "Slide left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:227
+msgid "Slide right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:228
+msgid "Slide top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:229
+msgid "Slide top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:230
+msgid "Slide bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:231
+msgid "Slide bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:234
+msgid "Reveal up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:235
+msgid "Reveal down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:236
+msgid "Reveal left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:237
+msgid "Reveal right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:238
+msgid "Reveal top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:239
+msgid "Reveal top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:240
+msgid "Reveal bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:241
+msgid "Reveal bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:244
+msgid "Hinge up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:245
+msgid "Hinge down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:246
+msgid "Hinge left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:247
+msgid "Hinge right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:250
+msgid "Flip horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:251
+msgid "Flip vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:252
+msgid "Flip diagonal 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:253
+msgid "Flip diagonal 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:256
+msgid "Shutter out horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:257
+msgid "Shutter out vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:258
+msgid "Shutter out diagonal 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:259
+msgid "Shutter out diagonal 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:262
+msgid "Shutter in horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:263
+msgid "Shutter in vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:264
+msgid "Shutter in out horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:265
+msgid "Shutter in out vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:266
+msgid "Shutter in out diagonal 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:267
+msgid "Shutter in out diagonal 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:270
+msgid "Fold up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:271
+msgid "Fold down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:272
+msgid "Fold left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:273
+msgid "Fold right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:276
+msgid "Zoom in"
+msgstr ""
+
+#: inc/image-hover-add-on.php:277
+msgid "Zoom out"
+msgstr ""
+
+#: inc/image-hover-add-on.php:278
+msgid "Zoom out up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:279
+msgid "Zoom out down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:280
+msgid "Zoom out left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:281
+msgid "Zoom out right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:282
+msgid "Zoom out flip horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:283
+msgid "Zoom out flip vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:286
+msgid "Blur"
+msgstr ""
+
+#: inc/image-hover-add-on.php:289
+msgid "Blocks rotate left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:290
+msgid "Blocks rotate right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:291
+msgid "Blocks rotate in left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:292
+msgid "Blocks rotate in right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:293
+msgid "Blocks in"
+msgstr ""
+
+#: inc/image-hover-add-on.php:294
+msgid "Blocks out"
+msgstr ""
+
+#: inc/image-hover-add-on.php:295
+msgid "Blocks float up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:296
+msgid "Blocks float down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:297
+msgid "Blocks float left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:298
+msgid "Blocks float right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:299
+msgid "Blocks zoom top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:300
+msgid "Blocks zoom top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:301
+msgid "Blocks zoom bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:302
+msgid "Blocks zoom bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:305
+msgid "Strip shutter up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:306
+msgid "Strip shutter down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:307
+msgid "Strip shutter left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:308
+msgid "Strip shutter right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:311
+msgid "Strip horizontal up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:312
+msgid "Strip horizontal down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:313
+msgid "Strip horizontal top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:314
+msgid "Strip horizontal top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:315
+msgid "Strip horizontal bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:316
+msgid "Strip horizontal bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:319
+msgid "Strip vertical left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:320
+msgid "Strip vertical right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:321
+msgid "Strip vertical top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:322
+msgid "Strip vertical top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:323
+msgid "Strip vertical bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:324
+msgid "Strip vertical bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:327
+msgid "Pixel up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:328
+msgid "Pixel down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:329
+msgid "Pixel left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:330
+msgid "Pixel right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:331
+msgid "Pixel top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:332
+msgid "Pixel top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:333
+msgid "Pixel bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:334
+msgid "Pixel bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:337
+msgid "Pivot in top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:338
+msgid "Pivot in top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:339
+msgid "Pivot in bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:340
+msgid "Pivot in bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:343
+msgid "Pivot out top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:344
+msgid "Pivot out top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:345
+msgid "Pivot out bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:346
+msgid "Pivot out bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:349
+msgid "Throw in up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:350
+msgid "Throw in down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:351
+msgid "Throw in left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:352
+msgid "Throw in right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:355
+msgid "Throw out up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:356
+msgid "Throw out down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:357
+msgid "Throw out left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:358
+msgid "Throw out right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:361
+msgid "Blinds horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:362
+msgid "Blinds vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:363
+msgid "Blinds up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:364
+msgid "Blinds down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:365
+msgid "Blinds left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:366
+msgid "Blinds right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:369
+msgid "Border reveal vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:370
+msgid "Border reveal horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:371
+msgid "Border reveal corners 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:372
+msgid "Border reveal corners 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:373
+msgid "Border reveal top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:374
+msgid "Border reveal top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:375
+msgid "Border reveal bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:376
+msgid "Border reveal bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:377
+msgid "Border reveal draw 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:378
+msgid "Border reveal draw 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:379
+msgid "Border reveal all style-1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:380
+msgid "Border reveal all style-2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:381
+msgid "Border reveal all style-3"
+msgstr ""
+
+#: inc/image-hover-add-on.php:382
+msgid "Border reveal all style-4"
+msgstr ""
+
+#: inc/image-hover-add-on.php:385
+msgid "Image zoom center"
+msgstr ""
+
+#: inc/image-hover-add-on.php:386
+msgid "Image zoom out"
+msgstr ""
+
+#: inc/image-hover-add-on.php:387
+msgid "Image rotate left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:388
+msgid "Image rotate right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:391
+msgid "Book open horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:392
+msgid "Book open vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:393
+msgid "Book open up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:394
+msgid "Book open down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:395
+msgid "Book open left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:396
+msgid "Book open right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:399
+msgid "Circle up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:400
+msgid "Circle down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:401
+msgid "Circle left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:402
+msgid "Circle right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:403
+msgid "Circle top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:404
+msgid "Circle top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:405
+msgid "Circle bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:406
+msgid "Circle bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:409
+msgid "Shift top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:410
+msgid "Shift top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:411
+msgid "Shift bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:412
+msgid "Shift bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:415
+msgid "Bounce in"
+msgstr ""
+
+#: inc/image-hover-add-on.php:416
+msgid "Bounce in up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:417
+msgid "Bounce in down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:418
+msgid "Bounce in left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:419
+msgid "Bounce in right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:420
+msgid "Bounce out"
+msgstr ""
+
+#: inc/image-hover-add-on.php:421
+msgid "Bounce out up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:422
+msgid "Bounce out down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:423
+msgid "Bounce out left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:424
+msgid "Bounce out right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:427
+msgid "Fall away horizontal"
+msgstr ""
+
+#: inc/image-hover-add-on.php:428
+msgid "Fall away vertical"
+msgstr ""
+
+#: inc/image-hover-add-on.php:429
+msgid "Fall away 1"
+msgstr ""
+
+#: inc/image-hover-add-on.php:430
+msgid "Fall away 2"
+msgstr ""
+
+#: inc/image-hover-add-on.php:433
+msgid "Modal slide up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:434
+msgid "Modal slide down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:435
+msgid "Modal slide left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:436
+msgid "Modal slide right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:439
+msgid "Modal hinge up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:440
+msgid "Modal hinge down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:441
+msgid "Modal hinge left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:442
+msgid "Modal hinge right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:445
+msgid "Lightspeed in left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:446
+msgid "Lightspeed in right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:447
+msgid "Lightspeed out left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:448
+msgid "Lightspeed out right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:451
+msgid "Gradient radial in"
+msgstr ""
+
+#: inc/image-hover-add-on.php:452
+msgid "Gradient radial out"
+msgstr ""
+
+#: inc/image-hover-add-on.php:453
+msgid "Gradient up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:454
+msgid "Gradient down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:455
+msgid "Gradient left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:456
+msgid "Gradient right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:457
+msgid "Gradient top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:458
+msgid "Gradient top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:459
+msgid "Gradient bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:460
+msgid "Gradient bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:463
+msgid "Parallax up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:464
+msgid "Parallax down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:465
+msgid "Parallax left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:466
+msgid "Parallax right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:469
+msgid "Stack up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:470
+msgid "Stack down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:471
+msgid "Stack left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:472
+msgid "Stack right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:473
+msgid "Stack top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:474
+msgid "Stack top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:475
+msgid "Stack bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:476
+msgid "Stack bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:479
+msgid "Cube up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:480
+msgid "Cube down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:481
+msgid "Cube left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:482
+msgid "Cube right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:485
+msgid "Dive center"
+msgstr ""
+
+#: inc/image-hover-add-on.php:486
+msgid "Dive left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:487
+msgid "Dive right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:490
+msgid "Switch up"
+msgstr ""
+
+#: inc/image-hover-add-on.php:491
+msgid "Switch down"
+msgstr ""
+
+#: inc/image-hover-add-on.php:492
+msgid "Switch left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:493
+msgid "Switch right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:496
+msgid "Flash top left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:497
+msgid "Flash top right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:498
+msgid "Flash bottom left"
+msgstr ""
+
+#: inc/image-hover-add-on.php:499
+msgid "Flash bottom right"
+msgstr ""
+
+#: inc/image-hover-add-on.php:509
+msgid "Add 200+ different image hover styles."
+msgstr ""
+
+#: inc/image-hover-add-on.php:515
+msgid "Hover Style"
+msgstr ""
+
+#: inc/image-hover-add-on.php:516
+msgid "Select the hover style you want to use for this image."
+msgstr ""
+
+#: inc/image-hover-add-on.php:525
+msgid "Image"
+msgstr ""
+
+#: inc/image-hover-add-on.php:526
+msgid "Upload or select the image."
+msgstr ""
+
+#: inc/image-hover-add-on.php:531
+msgid "Retina Image"
+msgstr ""
+
+#: inc/image-hover-add-on.php:532
+msgid "Upload or select the image to be used on retina devices."
+msgstr ""
+
+#: inc/image-hover-add-on.php:537
+msgid "Background Color"
+msgstr ""
+
+#: inc/image-hover-add-on.php:540
+msgid "Controls the background color on hover."
+msgstr ""
+
+#: inc/image-hover-add-on.php:544
+msgid "Image Width"
+msgstr ""
+
+#: inc/image-hover-add-on.php:545
+msgid ""
+"Select the css width for the image. Height will change in the proportion "
+"automatically. ( In Pixel )."
+msgstr ""
+
+#: inc/image-hover-add-on.php:554
+msgid "Link URL"
+msgstr ""
+
+#: inc/image-hover-add-on.php:557
+msgid "Enter the external url or select existing page to link to."
+msgstr ""
+
+#: inc/image-hover-add-on.php:561
+msgid "Title Text"
+msgstr ""
+
+#: inc/image-hover-add-on.php:562
+msgid "Title text to be displayed on hover."
+msgstr ""
+
+#: inc/image-hover-add-on.php:571
+msgid "Title Tag"
+msgstr ""
+
+#: inc/image-hover-add-on.php:572
+msgid "Choose the HTML tag for title, H1-H6, Div or Span."
+msgstr ""
+
+#: inc/image-hover-add-on.php:589
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/image-hover-add-on.php:590
+msgid "Select the font size for title text. ( In Pixel. )"
+msgstr ""
+
+#: inc/image-hover-add-on.php:600
+msgid "Title Color"
+msgstr ""
+
+#: inc/image-hover-add-on.php:603
+msgid "Controls the text color for title text."
+msgstr ""
+
+#: inc/image-hover-add-on.php:608
+msgid "Description Text"
+msgstr ""
+
+#: inc/image-hover-add-on.php:609
+msgid "Description text to be displayed on hover."
+msgstr ""
+
+#: inc/image-hover-add-on.php:617
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/image-hover-add-on.php:618
+msgid "Select the font size for description text. ( In Pixel. )"
+msgstr ""
+
+#: inc/image-hover-add-on.php:628
+msgid "Description Color"
+msgstr ""
+
+#: inc/image-hover-add-on.php:631
+msgid "Controls the text color for description text."
+msgstr ""
+
+#: inc/image-hover-add-on.php:636
+msgid "CSS Class"
+msgstr ""
+
+#: inc/image-hover-add-on.php:639
+msgid "Add a class to the wrapping HTML element."
+msgstr ""
+
+#: inc/image-hover-add-on.php:643
+msgid "CSS ID"
+msgstr ""
+
+#: inc/image-hover-add-on.php:646
+msgid "Add an ID to the wrapping HTML element."
+msgstr ""
+
+#: wpbakery-image-hover-add-on.php:98
+msgid ""
+"Image Hover Add-on for WPBakery Page Builder is installed and activated "
+"correctly. However, it will not take any effect until you install and "
+"activate WPBakery Page Builder."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Image Hover Add-on for WPBakery Page Builder"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://demos.infiwebs.com/wpbakery-image-hover"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Image Hover add-on for WPBakery adds 200+ different image hover styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "InfiWebs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.infiwebs.com"
+msgstr ""
